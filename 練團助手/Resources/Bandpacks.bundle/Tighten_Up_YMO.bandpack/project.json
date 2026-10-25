@@ -1,0 +1,1417 @@
+{
+  "schema_version": 1,
+  "id": "Tighten_Up_YMO",
+  "song": {
+    "title": "Tighten Up",
+    "artist": "YMO",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/Tighten_Up_YMO/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 230.0
+  },
+  "analysis": {
+    "bpm": 133.9,
+    "key": "F# Major",
+    "confidence": {
+      "imported_key_rechecked": 1.0,
+      "major_tonic_score": 0.308,
+      "relative_minor_score": 0.213
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 10.0,
+      "source": "imported"
+    },
+    {
+      "id": "2_verse",
+      "label": "Verse",
+      "start": 10.0,
+      "end": 50.0,
+      "source": "imported"
+    },
+    {
+      "id": "3_section_1",
+      "label": "Section 1",
+      "start": 50.0,
+      "end": 70.0,
+      "source": "imported"
+    },
+    {
+      "id": "4_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 70.0,
+      "end": 80.0,
+      "source": "imported"
+    },
+    {
+      "id": "5_chorus",
+      "label": "Chorus",
+      "start": 80.0,
+      "end": 100.0,
+      "source": "imported"
+    },
+    {
+      "id": "6_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 100.0,
+      "end": 110.0,
+      "source": "imported"
+    },
+    {
+      "id": "7_section_1_rep",
+      "label": "Section 1 (Rep)",
+      "start": 110.0,
+      "end": 130.0,
+      "source": "imported"
+    },
+    {
+      "id": "8_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 130.0,
+      "end": 140.0,
+      "source": "imported"
+    },
+    {
+      "id": "9_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 140.0,
+      "end": 170.0,
+      "source": "imported"
+    },
+    {
+      "id": "10_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 170.0,
+      "end": 180.0,
+      "source": "imported"
+    },
+    {
+      "id": "11_section_1_rep",
+      "label": "Section 1 (Rep)",
+      "start": 180.0,
+      "end": 190.0,
+      "source": "imported"
+    },
+    {
+      "id": "12_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 190.0,
+      "end": 220.0,
+      "source": "imported"
+    },
+    {
+      "id": "13_section_4",
+      "label": "Section 4",
+      "start": 220.0,
+      "end": 230.0,
+      "source": "imported"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 21.6,
+      "end": 25.92,
+      "text": "I wanted love, I needed love",
+      "source": "imported"
+    },
+    {
+      "start": 25.92,
+      "end": 30.95,
+      "text": "Most of all, most of all",
+      "source": "imported"
+    },
+    {
+      "start": 30.95,
+      "end": 34.64,
+      "text": "Someone said true love was dead",
+      "source": "imported"
+    },
+    {
+      "start": 34.64,
+      "end": 42.26,
+      "text": "And I'm bound to fall, bound to fall for you",
+      "source": "imported"
+    },
+    {
+      "start": 42.26,
+      "end": 47.94,
+      "text": "Oh, what can I do? Yeah",
+      "source": "imported"
+    },
+    {
+      "start": 47.94,
+      "end": 52.12,
+      "text": "Take my badge but my heart remains",
+      "source": "imported"
+    },
+    {
+      "start": 52.12,
+      "end": 56.11,
+      "text": "Lovin' you, baby child",
+      "source": "imported"
+    },
+    {
+      "start": 56.11,
+      "end": 60.51,
+      "text": "Tighten up on your reins",
+      "source": "imported"
+    },
+    {
+      "start": 60.51,
+      "end": 68.50999999999999,
+      "text": "You are runnin' wild, runnin' wild, it's true",
+      "source": "imported"
+    },
+    {
+      "start": 86.52,
+      "end": 91.2,
+      "text": "Sick for days in so many ways",
+      "source": "imported"
+    },
+    {
+      "start": 91.2,
+      "end": 96.03,
+      "text": "I'm achin' now, I'm achin' now",
+      "source": "imported"
+    },
+    {
+      "start": 96.03,
+      "end": 99.87,
+      "text": "It's times like these I need relief",
+      "source": "imported"
+    },
+    {
+      "start": 99.87,
+      "end": 107.87,
+      "text": "Please show me how, oh show me how to get right",
+      "source": "imported"
+    },
+    {
+      "start": 108.05,
+      "end": 113.28,
+      "text": "Yeah, it's out of sight",
+      "source": "imported"
+    },
+    {
+      "start": 113.28,
+      "end": 117.66,
+      "text": "When I was young and movin' fast",
+      "source": "imported"
+    },
+    {
+      "start": 117.66,
+      "end": 122.59,
+      "text": "Nothin' slowed me down, oh, slowed me down",
+      "source": "imported"
+    },
+    {
+      "start": 122.59,
+      "end": 127.77,
+      "text": "Now I let the others pass, I've come around",
+      "source": "imported"
+    },
+    {
+      "start": 127.77,
+      "end": 135.76999999999998,
+      "text": "Oh come around, 'cause I've found",
+      "source": "imported"
+    },
+    {
+      "start": 165.49,
+      "end": 168.03,
+      "text": "Livin' just to keep goin'",
+      "source": "imported"
+    },
+    {
+      "start": 168.03,
+      "end": 170.12,
+      "text": "Goin' just to be sane",
+      "source": "imported"
+    },
+    {
+      "start": 170.12,
+      "end": 172.82,
+      "text": "All the while not knowin'",
+      "source": "imported"
+    },
+    {
+      "start": 172.82,
+      "end": 175.26,
+      "text": "It's such a shame",
+      "source": "imported"
+    },
+    {
+      "start": 175.26,
+      "end": 177.06,
+      "text": "I don't need to get steady",
+      "source": "imported"
+    },
+    {
+      "start": 177.06,
+      "end": 179.95,
+      "text": "I know just how I feel",
+      "source": "imported"
+    },
+    {
+      "start": 179.95,
+      "end": 183.15,
+      "text": "I'm tellin' you to be ready",
+      "source": "imported"
+    },
+    {
+      "start": 183.15,
+      "end": 186.65,
+      "text": "My dear",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 0.1161,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 1.2771,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 1.7647,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 3.1579,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 4.5511,
+      "chord": "Bbm/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 5.3174,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 6.1997,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 7.3375,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 8.0109,
+      "chord": "Bbm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 8.4521,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 10.7044,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 12.2834,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 13.4676,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 14.7911,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 15.5806,
+      "chord": "Bbm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 16.1379,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 16.8112,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 18.3902,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 19.5048,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 20.6193,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 21.7107,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 23.1039,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 24.6132,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 25.4955,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 26.4011,
+      "chord": "Bbm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 26.9816,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 27.655,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 28.2122,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 29.1643,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 30.0002,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 31.6024,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 31.9274,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 32.6008,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 33.3439,
+      "chord": "Bbm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 33.9708,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 35.4337,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 43.7,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 48.878,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 50.1087,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 52.0359,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 53.2666,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 54.7294,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 55.426,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 56.3084,
+      "chord": "C#7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 56.7728,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 58.1195,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 59.0251,
+      "chord": "Bbm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 59.4663,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 60.4648,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 61.9508,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 62.5313,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 63.3208,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 64.5747,
+      "chord": "Ebm/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 65.5732,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 66.1537,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 66.9199,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 67.5933,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 69.1722,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 69.6831,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 70.31,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 71.3317,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 71.889,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 72.3534,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 75.0701,
+      "chord": "Abm7/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 75.9293,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 76.3008,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 76.858,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 77.9262,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 78.9478,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 79.807,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.1785,
+      "chord": "Bbm7/Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.9215,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 81.5485,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 83.4293,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 84.3117,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 85.2172,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 86.9355,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 87.7018,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 89.0717,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 89.7219,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 91.3241,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 92.2064,
+      "chord": "Bmaj7/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 94.9232,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 96.1306,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 97.6167,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 99.7994,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 108.9016,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.2716,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 112.0595,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 114.3118,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 115.3567,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 116.8196,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 118.6075,
+      "chord": "B/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 119.5131,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 120.3258,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 121.1153,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 121.9048,
+      "chord": "B/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 123.9249,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 124.9234,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 125.7361,
+      "chord": "B/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 126.9667,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 128.3135,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 129.6602,
+      "chord": "Ebm/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 130.3568,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 131.1463,
+      "chord": "Bbm/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 132.168,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 133.0968,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 133.9327,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 136.5798,
+      "chord": "Abm7/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 137.8104,
+      "chord": "Bbm/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 139.2268,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 141.2005,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 142.3151,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 143.0117,
+      "chord": "Bmaj7/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 145.0318,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 145.7052,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 146.634,
+      "chord": "Bmaj7/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 148.6309,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 149.3043,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 150.5814,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 152.2532,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 153.1588,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 153.9019,
+      "chord": "Bmaj7/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 155.8523,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 156.9437,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 157.6171,
+      "chord": "Bmaj7/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 159.4746,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 160.3802,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 161.1929,
+      "chord": "Bmaj7/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 163.1898,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 163.9793,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 164.8617,
+      "chord": "Bmaj7/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 166.7193,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 167.6016,
+      "chord": "Bbm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 168.066,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 168.8787,
+      "chord": "B/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 170.5273,
+      "chord": "F#maj7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 171.3633,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 172.1063,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 173.2209,
+      "chord": "Ebm/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 173.9407,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 175.0552,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 175.9144,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 176.5181,
+      "chord": "Ebm/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 177.563,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 184.0181,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 184.8541,
+      "chord": "B/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 186.6652,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 187.4083,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 188.4764,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 190.125,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 191.0073,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 192.1683,
+      "chord": "B/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 193.7241,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 194.6297,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 195.6746,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 197.3464,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 198.461,
+      "chord": "Bbm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 198.8557,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 199.3201,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 200.4811,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 202.8495,
+      "chord": "Bmaj7/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 205.0786,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 206.4022,
+      "chord": "Bmaj7/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 208.1901,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 210.6514,
+      "chord": "B/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 211.8124,
+      "chord": "F#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 212.8805,
+      "chord": "Bbm7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 213.9022,
+      "chord": "B/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 215.5741,
+      "chord": "F#maj7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 217.4317,
+      "chord": "B/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 219.1964,
+      "chord": "F#maj7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 0.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 10.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 50.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 70.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 80.0,
+      "detail": "Suit w rotary-RM [Pgm 27:2]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 100.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 110.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 130.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 140.0,
+      "detail": "Suit w rotary-RM [Pgm 27:2]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 170.0,
+      "detail": "Suit w rotary-RM [Pgm 27:2]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 180.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 190.0,
+      "detail": "Suit w rotary-RM [Pgm 27:2]",
+      "source": "imported"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/Tighten_Up_YMO",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 26
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "other"
+  },
+  "created_at": "2026-10-24T06:41:01.150239+00:00",
+  "updated_at": "2026-10-24T06:41:01.150414+00:00"
+}

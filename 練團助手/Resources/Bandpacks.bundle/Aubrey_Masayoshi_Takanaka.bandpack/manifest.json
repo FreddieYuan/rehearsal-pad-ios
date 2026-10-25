@@ -1,0 +1,12 @@
+{
+  "format": "rehearsal-assistant-bandpack",
+  "schema_version": 1,
+  "project_id": "Aubrey_Masayoshi_Takanaka",
+  "title": "Aubrey",
+  "artist": "Masayoshi Takanaka",
+  "project_file": "project.json",
+  "audio_copied": true,
+  "source_count": 0,
+  "stem_count": 6,
+  "artwork": "artwork.jpg"
+}

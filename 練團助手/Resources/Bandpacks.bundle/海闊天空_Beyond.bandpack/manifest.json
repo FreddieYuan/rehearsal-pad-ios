@@ -1,0 +1,12 @@
+{
+  "format": "rehearsal-assistant-bandpack",
+  "schema_version": 1,
+  "project_id": "海闊天空_Beyond",
+  "title": "海闊天空",
+  "artist": "Beyond",
+  "project_file": "project.json",
+  "audio_copied": true,
+  "source_count": 0,
+  "stem_count": 6,
+  "artwork": "artwork.jpg"
+}

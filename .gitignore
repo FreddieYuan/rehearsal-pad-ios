@@ -1,0 +1,11 @@
+.DS_Store
+xcuserdata/
+DerivedData/
+build/
+*.xcuserstate
+# 音軌不進 repo
+**/stems/
+**/audio/
+*.m4a
+*.mp3
+*.wav

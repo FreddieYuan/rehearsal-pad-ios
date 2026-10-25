@@ -1,0 +1,850 @@
+{
+  "schema_version": 1,
+  "id": "靜止_楊乃文",
+  "song": {
+    "title": "靜止",
+    "artist": "楊乃文",
+    "source_url": "https://www.youtube.com/watch?v=uwL23suAKm0",
+    "audio_path": "/Users/freddietw/GP-AI-Projects/練團助手/data/media/靜止_楊乃文/original.mp3",
+    "preview_path": "audio/original.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 198.298417
+  },
+  "analysis": {
+    "bpm": null,
+    "key": "D Major",
+    "confidence": {
+      "youtube_import": 1.0,
+      "metadata_from_youtube": 0.85,
+      "manual_chart_key": 1.0,
+      "manual_chart_chords": 1.0,
+      "manual_chart_lyrics": 1.0
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 56.65669057142857,
+      "source": "manual"
+    },
+    {
+      "id": "2_interlude_1",
+      "label": "Interlude 1",
+      "start": 56.65669057142857,
+      "end": 70.82086321428571,
+      "source": "manual"
+    },
+    {
+      "id": "3_verse_1",
+      "label": "Verse 1",
+      "start": 70.82086321428571,
+      "end": 113.31338114285714,
+      "source": "manual"
+    },
+    {
+      "id": "4_interlude_2",
+      "label": "Interlude 2",
+      "start": 113.31338114285714,
+      "end": 127.47755378571428,
+      "source": "manual"
+    },
+    {
+      "id": "5_chorus",
+      "label": "Chorus",
+      "start": 127.47755378571428,
+      "end": 169.97007171428572,
+      "source": "manual"
+    },
+    {
+      "id": "6_outro_verse",
+      "label": "Outro Verse",
+      "start": 169.97007171428572,
+      "end": 198.298417,
+      "source": "manual"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 14.164172642857142,
+      "end": 28.328345285714285,
+      "text": "寂寞圍繞著電視 垂死堅持 在兩點半消失 多希望有人來陪我 度過末日",
+      "source": "manual"
+    },
+    {
+      "start": 28.328345285714285,
+      "end": 42.49251792857143,
+      "text": "空虛敲打著意志 彷彿這時間已靜止 我懷疑人們的生活 有所掩飾",
+      "source": "manual"
+    },
+    {
+      "start": 42.49251792857143,
+      "end": 56.65669057142857,
+      "text": "啊~ 啊~ 啊~~~ 垂死堅持 啊~ 啊~ 啊~~~ 已靜止",
+      "source": "manual"
+    },
+    {
+      "start": 70.82086321428571,
+      "end": 84.98503585714286,
+      "text": "衝動在瞬間消失 夢被稀釋 不停轉動著手指 我幻想美麗的生活 何時開始",
+      "source": "manual"
+    },
+    {
+      "start": 84.98503585714286,
+      "end": 99.1492085,
+      "text": "時光不經意流逝 像顆在耗費的電池 我感到有點失落 無法抑制",
+      "source": "manual"
+    },
+    {
+      "start": 99.1492085,
+      "end": 113.31338114285714,
+      "text": "啊~ 啊~ 啊~~~ 垂死堅持 啊~ 啊~ 啊~~~ 已靜止",
+      "source": "manual"
+    },
+    {
+      "start": 127.47755378571428,
+      "end": 141.64172642857142,
+      "text": "啊~ 啊~ 啊~~~ 垂死堅持 啊~ 啊~ 啊~~~ 全部消失",
+      "source": "manual"
+    },
+    {
+      "start": 141.64172642857142,
+      "end": 155.80589907142857,
+      "text": "啊~ 啊~ 啊~~~ 垂死堅持 啊~ 啊~ 啊~~~ 全部消失",
+      "source": "manual"
+    },
+    {
+      "start": 155.80589907142857,
+      "end": 169.97007171428572,
+      "text": "啊~ 啊~ 啊~~~ 垂死堅持 啊~ 啊~ 啊~~~ 已靜止",
+      "source": "manual"
+    },
+    {
+      "start": 169.97007171428572,
+      "end": 184.13424435714285,
+      "text": "寂寞圍繞著電視 垂死堅持 在兩點半消失 多希望有人來陪我 度過末日",
+      "source": "manual"
+    },
+    {
+      "start": 184.13424435714285,
+      "end": 198.298417,
+      "text": "空虛敲打著意志 彷彿這時間已靜止 我懷疑人們的生活 有所掩飾",
+      "source": "manual"
+    }
+  ],
+  "chords": [
+    {
+      "time": 0.0,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 2.3606954404761904,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 4.721390880952381,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 7.082086321428571,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 9.442781761904762,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 11.803477202380952,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 14.164172642857142,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 16.52486808333333,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 18.885563523809523,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 21.246258964285715,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 23.606954404761904,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 25.967649845238093,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 28.328345285714285,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 30.689040726190477,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 33.04973616666666,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 35.410431607142854,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 37.771127047619046,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 40.13182248809524,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 42.49251792857143,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 44.26303950892857,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 46.03356108928572,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 47.80408266964286,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 49.57460425,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 51.34512583035715,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 53.11564741071429,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 54.88616899107143,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 56.65669057142857,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 58.07310783571428,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 59.489525099999994,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 60.905942364285714,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 62.32235962857143,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 63.73877689285714,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 65.15519415714286,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 66.57161142142857,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 67.98802868571428,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 69.40444595,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 70.82086321428571,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 73.1815586547619,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 75.54225409523809,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 77.90294953571428,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.26364497619048,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 82.62434041666666,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 84.98503585714286,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 87.34573129761905,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 89.70642673809525,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 92.06712217857144,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 94.42781761904763,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 96.78851305952381,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 99.1492085,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 100.91973008035714,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 102.69025166071428,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 104.46077324107142,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 106.23129482142858,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 108.00181640178572,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 109.77233798214286,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 111.5428595625,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 113.31338114285714,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 114.19864193303572,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 115.08390272321428,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 115.96916351339286,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 116.85442430357142,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 117.73968509375,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 118.62494588392858,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 119.51020667410714,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 120.39546746428572,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 121.28072825446428,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 122.16598904464286,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 123.05124983482142,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 123.936510625,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 124.82177141517857,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 125.70703220535714,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 126.59229299553571,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 127.47755378571428,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 129.24807536607142,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 131.01859694642857,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 132.7891185267857,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 134.55964010714285,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 136.33016168749998,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 138.10068326785714,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 139.8712048482143,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 141.64172642857142,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 143.41224800892857,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 145.1827695892857,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 146.95329116964285,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 148.72381274999998,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 150.49433433035713,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 152.2648559107143,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 154.03537749107142,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 155.80589907142857,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 157.57642065178572,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 159.34694223214285,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 161.1174638125,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 162.88798539285713,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 164.6585069732143,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 166.4290285535714,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 168.19955013392857,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 169.97007171428572,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 172.3307671547619,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 174.6914625952381,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 177.05215803571429,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 179.4128534761905,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 181.77354891666667,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 184.13424435714285,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 186.15769759183672,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 188.1811508265306,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 190.20460406122447,
+      "chord": "Am",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 192.22805729591835,
+      "chord": "F",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 194.25151053061222,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 196.27496376530613,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "guitar",
+      "label": "原調：D；男調：A；女調：D",
+      "time": 0.0,
+      "detail": "Image chart chords are written as C / Am / F / G. Apply transpose in app if needed.",
+      "source": "manual"
+    },
+    {
+      "instrument": "guitar",
+      "label": "常用和弦：C, Am, F, G",
+      "time": 0.0,
+      "detail": "From user-provided 91pu image chart.",
+      "source": "manual"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "youtube_video_id": "uwL23suAKm0",
+    "youtube_url": "https://www.youtube.com/watch?v=uwL23suAKm0",
+    "youtube_title": "楊乃文 Naiwen Yang【靜止 Still】Official Music Video",
+    "youtube_channel": "滾石唱片 ROCK RECORDS",
+    "media_import_source": "youtube_audio",
+    "media_original": "/Users/freddietw/GP-AI-Projects/練團助手/data/media/靜止_楊乃文/original.mp3",
+    "metadata_source": "youtube_metadata",
+    "lyrics_source": "user_provided_chart_image",
+    "lyrics_status": "applied_from_user_image",
+    "chord_source": "user_provided_chart_image",
+    "chord_status": "applied_from_user_image",
+    "score_references": [
+      {
+        "type": "Image chart",
+        "url": "",
+        "note": "91pu image provided by user; applied as manual chord and lyric source. Original key shown as D; displayed chords are C/Am/F/G.",
+        "file": "sources/靜止-91pu.jpg",
+        "role": "manual_reference",
+        "status": "applied",
+        "confidence": 1.0
+      }
+    ],
+    "manual_chart_image": "data/projects/靜止_楊乃文/sources/靜止-91pu.jpg",
+    "chart_source": "user_provided_91pu_image",
+    "key_source": "user_provided_chart_image",
+    "manual_override": "true",
+    "alignment_status": "phrase_estimated_not_audio_aligned",
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "other"
+  },
+  "created_at": "2026-08-22T14:13:56.650731+00:00",
+  "updated_at": "2026-08-22T14:49:21.802514+00:00"
+}

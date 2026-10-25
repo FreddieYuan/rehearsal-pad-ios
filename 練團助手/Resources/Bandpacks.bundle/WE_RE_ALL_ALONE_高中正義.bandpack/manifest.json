@@ -1,0 +1,12 @@
+{
+  "format": "rehearsal-assistant-bandpack",
+  "schema_version": 1,
+  "project_id": "WE_RE_ALL_ALONE_高中正義",
+  "title": "WE'RE ALL ALONE",
+  "artist": "高中正義",
+  "project_file": "project.json",
+  "audio_copied": true,
+  "source_count": 0,
+  "stem_count": 6,
+  "artwork": "artwork.jpg"
+}

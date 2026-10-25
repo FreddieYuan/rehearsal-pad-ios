@@ -1,0 +1,991 @@
+{
+  "schema_version": 1,
+  "id": "Put_Your_Records_On_Corinne_Bailey_Rae",
+  "song": {
+    "title": "Put Your Records On",
+    "artist": "Corinne Bailey Rae",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/Corinne_Bailey_Rae_-_Put_Your_Records_On/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 234.0
+  },
+  "analysis": {
+    "bpm": 97.0,
+    "key": "F# Minor",
+    "confidence": {
+      "imported_key_rechecked": 1.0
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 10.0,
+      "source": "imported"
+    },
+    {
+      "id": "2_chorus",
+      "label": "Chorus",
+      "start": 10.0,
+      "end": 50.0,
+      "source": "imported"
+    },
+    {
+      "id": "3_section_1",
+      "label": "Section 1",
+      "start": 50.0,
+      "end": 60.0,
+      "source": "imported"
+    },
+    {
+      "id": "4_verse",
+      "label": "Verse",
+      "start": 60.0,
+      "end": 70.0,
+      "source": "imported"
+    },
+    {
+      "id": "5_section_1_rep",
+      "label": "Section 1 (Rep)",
+      "start": 70.0,
+      "end": 80.0,
+      "source": "imported"
+    },
+    {
+      "id": "6_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 80.0,
+      "end": 120.0,
+      "source": "imported"
+    },
+    {
+      "id": "7_section_1_rep",
+      "label": "Section 1 (Rep)",
+      "start": 120.0,
+      "end": 130.0,
+      "source": "imported"
+    },
+    {
+      "id": "8_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 130.0,
+      "end": 140.0,
+      "source": "imported"
+    },
+    {
+      "id": "9_section_1_rep",
+      "label": "Section 1 (Rep)",
+      "start": 140.0,
+      "end": 170.0,
+      "source": "imported"
+    },
+    {
+      "id": "10_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 170.0,
+      "end": 210.0,
+      "source": "imported"
+    },
+    {
+      "id": "11_intro_rep",
+      "label": "Intro (Rep)",
+      "start": 210.0,
+      "end": 220.0,
+      "source": "imported"
+    },
+    {
+      "id": "12_section_3",
+      "label": "Section 3",
+      "start": 220.0,
+      "end": 234.0,
+      "source": "imported"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 8.45,
+      "end": 13.29,
+      "text": "Three little birds, sat on my window.",
+      "source": "imported"
+    },
+    {
+      "start": 13.29,
+      "end": 18.88,
+      "text": "And they told me I don't need to worry.",
+      "source": "imported"
+    },
+    {
+      "start": 18.88,
+      "end": 21.46,
+      "text": "Summer came like cinnamon",
+      "source": "imported"
+    },
+    {
+      "start": 21.46,
+      "end": 23.3,
+      "text": "So sweet,",
+      "source": "imported"
+    },
+    {
+      "start": 23.3,
+      "end": 28.69,
+      "text": "Little girls double-dutch on the concrete.",
+      "source": "imported"
+    },
+    {
+      "start": 28.69,
+      "end": 34.87,
+      "text": "Maybe sometimes, we got it wrong,",
+      "source": "imported"
+    },
+    {
+      "start": 34.87,
+      "end": 37.56,
+      "text": "but it's alright",
+      "source": "imported"
+    },
+    {
+      "start": 37.56,
+      "end": 42.83,
+      "text": "The more things seems to change,",
+      "source": "imported"
+    },
+    {
+      "start": 42.83,
+      "end": 45.44,
+      "text": "the more they seem to stay the same.",
+      "source": "imported"
+    },
+    {
+      "start": 45.44,
+      "end": 47.99,
+      "text": "Oh, don't you hesitate.",
+      "source": "imported"
+    },
+    {
+      "start": 47.99,
+      "end": 50.85,
+      "text": "Girl, put your records on,",
+      "source": "imported"
+    },
+    {
+      "start": 50.85,
+      "end": 53.31,
+      "text": "tell me your favourite song",
+      "source": "imported"
+    },
+    {
+      "start": 53.31,
+      "end": 57.98,
+      "text": "You go ahead, let your hair down",
+      "source": "imported"
+    },
+    {
+      "start": 57.98,
+      "end": 60.91,
+      "text": "Saphire and faded jeans,",
+      "source": "imported"
+    },
+    {
+      "start": 60.91,
+      "end": 63.2,
+      "text": "I hope you get your dreams,",
+      "source": "imported"
+    },
+    {
+      "start": 63.2,
+      "end": 68.28999999999999,
+      "text": "Just go ahead, let your hair down.",
+      "source": "imported"
+    },
+    {
+      "start": 68.28999999999999,
+      "end": 75.83,
+      "text": "You're gonna find yourself somewhere, somehow.",
+      "source": "imported"
+    },
+    {
+      "start": 75.83,
+      "end": 80.68,
+      "text": "Blue as the sky, sombre and lonely,",
+      "source": "imported"
+    },
+    {
+      "start": 80.68,
+      "end": 83.82,
+      "text": "Sipping tea in the bar by the road side,",
+      "source": "imported"
+    },
+    {
+      "start": 83.82,
+      "end": 86.51,
+      "text": "(just relax, just relax)",
+      "source": "imported"
+    },
+    {
+      "start": 86.51,
+      "end": 90.77,
+      "text": "Don't you let those other boys fool you,",
+      "source": "imported"
+    },
+    {
+      "start": 90.77,
+      "end": 96.16,
+      "text": "Gotta love that afro hairdo.",
+      "source": "imported"
+    },
+    {
+      "start": 96.16,
+      "end": 102.62,
+      "text": "Maybe sometimes, we feel afraid,",
+      "source": "imported"
+    },
+    {
+      "start": 102.62,
+      "end": 105.09,
+      "text": "but it's alright",
+      "source": "imported"
+    },
+    {
+      "start": 105.09,
+      "end": 109.97,
+      "text": "The more things stay the same,",
+      "source": "imported"
+    },
+    {
+      "start": 109.97,
+      "end": 113.84,
+      "text": "the more they seem to change.",
+      "source": "imported"
+    },
+    {
+      "start": 113.84,
+      "end": 115.59,
+      "text": "Don't you think it's strange?",
+      "source": "imported"
+    },
+    {
+      "start": 115.59,
+      "end": 118.42,
+      "text": "Girl, put your records on,",
+      "source": "imported"
+    },
+    {
+      "start": 118.42,
+      "end": 120.91,
+      "text": "tell me your favourite song",
+      "source": "imported"
+    },
+    {
+      "start": 120.91,
+      "end": 125.52,
+      "text": "You go ahead, let your hair down",
+      "source": "imported"
+    },
+    {
+      "start": 125.52,
+      "end": 128.48,
+      "text": "Saphire and faded jeans,",
+      "source": "imported"
+    },
+    {
+      "start": 128.48,
+      "end": 130.8,
+      "text": "I hope you get your dreams,",
+      "source": "imported"
+    },
+    {
+      "start": 130.8,
+      "end": 135.86,
+      "text": "Just go ahead, let your hair down.",
+      "source": "imported"
+    },
+    {
+      "start": 135.86,
+      "end": 140.96,
+      "text": "You're gonna find yourself somewhere, somehow.",
+      "source": "imported"
+    },
+    {
+      "start": 140.96,
+      "end": 143.27,
+      "text": "Twas' more than I could take,",
+      "source": "imported"
+    },
+    {
+      "start": 143.27,
+      "end": 145.95,
+      "text": "pity for pity's sake",
+      "source": "imported"
+    },
+    {
+      "start": 145.95,
+      "end": 148.19,
+      "text": "Some nights kept me awake,",
+      "source": "imported"
+    },
+    {
+      "start": 148.19,
+      "end": 151.05,
+      "text": "I thought that I was stronger",
+      "source": "imported"
+    },
+    {
+      "start": 151.05,
+      "end": 153.29,
+      "text": "When you gonna realise,",
+      "source": "imported"
+    },
+    {
+      "start": 153.29,
+      "end": 158.36,
+      "text": "that you don't even have to try any longer.",
+      "source": "imported"
+    },
+    {
+      "start": 158.36,
+      "end": 160.52,
+      "text": "Do what you want to.",
+      "source": "imported"
+    },
+    {
+      "start": 160.52,
+      "end": 163.44,
+      "text": "Girl, put your records on,",
+      "source": "imported"
+    },
+    {
+      "start": 163.44,
+      "end": 165.86,
+      "text": "tell me your favourite song",
+      "source": "imported"
+    },
+    {
+      "start": 165.86,
+      "end": 170.46,
+      "text": "You go ahead, let your hair down",
+      "source": "imported"
+    },
+    {
+      "start": 170.46,
+      "end": 173.54,
+      "text": "Saphire and faded jeans,",
+      "source": "imported"
+    },
+    {
+      "start": 173.54,
+      "end": 175.84,
+      "text": "I hope you get your dreams,",
+      "source": "imported"
+    },
+    {
+      "start": 175.84,
+      "end": 180.53,
+      "text": "Just go ahead, let your hair down.",
+      "source": "imported"
+    },
+    {
+      "start": 180.53,
+      "end": 183.37,
+      "text": "Oh, put your records on,",
+      "source": "imported"
+    },
+    {
+      "start": 183.37,
+      "end": 185.81,
+      "text": "tell me your favourite song",
+      "source": "imported"
+    },
+    {
+      "start": 185.81,
+      "end": 190.47,
+      "text": "You go ahead, let your hair down",
+      "source": "imported"
+    },
+    {
+      "start": 190.47,
+      "end": 193.42,
+      "text": "Saphire and faded jeans,",
+      "source": "imported"
+    },
+    {
+      "start": 193.42,
+      "end": 195.74,
+      "text": "I hope you get your dreams,",
+      "source": "imported"
+    },
+    {
+      "start": 195.74,
+      "end": 200.19,
+      "text": "Just go ahead, let your hair down.",
+      "source": "imported"
+    },
+    {
+      "start": 200.19,
+      "end": 205.59,
+      "text": "Oh, You're gonna find yourself somewhere,",
+      "source": "imported"
+    },
+    {
+      "start": 205.59,
+      "end": 209.59,
+      "text": "somehow.",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 10.658,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 12.8639,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 15.418,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 18.1348,
+      "chord": "B/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 19.3887,
+      "chord": "Ebm7/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 20.48,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 23.1271,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 28.1426,
+      "chord": "B/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 30.4878,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 32.833,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 35.4569,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 37.9414,
+      "chord": "C#/F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 40.6349,
+      "chord": "F#m7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 43.1427,
+      "chord": "B7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 45.6272,
+      "chord": "Dmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 50.6427,
+      "chord": "Dm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 54.7991,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 58.7697,
+      "chord": "B/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 60.6273,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 63.1351,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 68.7543,
+      "chord": "B/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 70.9602,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 73.1196,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 75.6274,
+      "chord": "Dmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 78.437,
+      "chord": "Dm6",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.6197,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 85.6352,
+      "chord": "B7/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 88.468,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 90.3256,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 90.9526,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 95.9449,
+      "chord": "B7/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 98.4526,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 100.3102,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 100.6353,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 103.1198,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 105.6276,
+      "chord": "C#/F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 108.4604,
+      "chord": "F#m7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 111.2468,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 113.3134,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 118.236,
+      "chord": "Dm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 123.3444,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 126.2469,
+      "chord": "F#6",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 126.7577,
+      "chord": "B/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 128.4528,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 130.9373,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 135.9296,
+      "chord": "F#m6",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 136.5798,
+      "chord": "B/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 138.4374,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 140.9451,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 143.4297,
+      "chord": "Dmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 146.2393,
+      "chord": "Dm6",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 148.422,
+      "chord": "Bm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 150.4885,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 153.5303,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 158.453,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 158.7548,
+      "chord": "Bm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 160.9143,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 163.3756,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 164.7688,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 165.9762,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 168.3911,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 170.8989,
+      "chord": "B/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 173.4531,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 175.9376,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 180.9299,
+      "chord": "F#m6",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 181.5568,
+      "chord": "B/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 183.4376,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 185.9454,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 191.2395,
+      "chord": "B/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 193.4222,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 195.9532,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 201.2473,
+      "chord": "B/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 203.7551,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 205.9378,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 208.6081,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 212.3233,
+      "chord": "G7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 214.7381,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 50.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 60.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 70.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 80.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 120.0,
+      "detail": "Dual Organ [Pgm 15:1] — 00 6060 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 130.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 140.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 170.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 210.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/Corinne_Bailey_Rae_-_Put_Your_Records_On",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 55
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "piano"
+  },
+  "created_at": "2026-10-24T06:41:01.105822+00:00",
+  "updated_at": "2026-10-24T06:41:01.106196+00:00"
+}

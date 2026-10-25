@@ -1,0 +1,932 @@
+{
+  "schema_version": 1,
+  "id": "All_Over_Now_Great_White",
+  "song": {
+    "title": "All Over Now",
+    "artist": "Great White",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/All_Over_Now_Great_White/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 261.0
+  },
+  "analysis": {
+    "bpm": 140.6,
+    "key": "B Minor",
+    "confidence": {
+      "imported_key_rechecked": 1.0,
+      "major_tonic_score": 0.232,
+      "relative_minor_score": 0.395,
+      "relative_minor_override": 1.0
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 10.0,
+      "source": "imported"
+    },
+    {
+      "id": "2_section_0",
+      "label": "Section 0",
+      "start": 10.0,
+      "end": 20.0,
+      "source": "imported"
+    },
+    {
+      "id": "3_verse",
+      "label": "Verse",
+      "start": 20.0,
+      "end": 50.0,
+      "source": "imported"
+    },
+    {
+      "id": "4_chorus",
+      "label": "Chorus",
+      "start": 50.0,
+      "end": 70.0,
+      "source": "imported"
+    },
+    {
+      "id": "5_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 70.0,
+      "end": 110.0,
+      "source": "imported"
+    },
+    {
+      "id": "6_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 110.0,
+      "end": 220.0,
+      "source": "imported"
+    },
+    {
+      "id": "7_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 220.0,
+      "end": 240.0,
+      "source": "imported"
+    },
+    {
+      "id": "8_section_0_rep",
+      "label": "Section 0 (Rep)",
+      "start": 240.0,
+      "end": 250.0,
+      "source": "imported"
+    },
+    {
+      "id": "9_section_3",
+      "label": "Section 3",
+      "start": 250.0,
+      "end": 261.0,
+      "source": "imported"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 19.04,
+      "end": 22.85,
+      "text": "Woke up a little too rough",
+      "source": "imported"
+    },
+    {
+      "start": 22.85,
+      "end": 26.79,
+      "text": "Looking like a quarter when a dollar ain't enough",
+      "source": "imported"
+    },
+    {
+      "start": 26.79,
+      "end": 29.47,
+      "text": "This room is just a mess",
+      "source": "imported"
+    },
+    {
+      "start": 29.47,
+      "end": 32.78,
+      "text": "Nothing's ever working and I couldn't care less",
+      "source": "imported"
+    },
+    {
+      "start": 32.78,
+      "end": 35.74,
+      "text": "You know I ain't got no honey",
+      "source": "imported"
+    },
+    {
+      "start": 35.74,
+      "end": 39.22,
+      "text": "Because I ain't got no money",
+      "source": "imported"
+    },
+    {
+      "start": 39.22,
+      "end": 43.2,
+      "text": "Broke up, no goodbye",
+      "source": "imported"
+    },
+    {
+      "start": 43.2,
+      "end": 48.01,
+      "text": "Now it's down to slumming and living high and dry",
+      "source": "imported"
+    },
+    {
+      "start": 48.01,
+      "end": 51.37,
+      "text": "So don't go coming around",
+      "source": "imported"
+    },
+    {
+      "start": 51.37,
+      "end": 52.99,
+      "text": "No more bringing me down",
+      "source": "imported"
+    },
+    {
+      "start": 52.99,
+      "end": 59.82,
+      "text": "There's nothing left, baby, it's all over now",
+      "source": "imported"
+    },
+    {
+      "start": 59.82,
+      "end": 67.82,
+      "text": "That's why can't cry, now you've got a ticket, it's all over now",
+      "source": "imported"
+    },
+    {
+      "start": 74.78,
+      "end": 78.44,
+      "text": "So tough all her jive",
+      "source": "imported"
+    },
+    {
+      "start": 78.44,
+      "end": 81.56,
+      "text": "\"Need a lot of action just to keep it alive\"",
+      "source": "imported"
+    },
+    {
+      "start": 81.56,
+      "end": 85.21000000000001,
+      "text": "Blue moon, love in June",
+      "source": "imported"
+    },
+    {
+      "start": 85.21000000000001,
+      "end": 88.92,
+      "text": "Nothing but a promise of trouble coming soon",
+      "source": "imported"
+    },
+    {
+      "start": 88.92,
+      "end": 92.46000000000001,
+      "text": "Ain't got a lover",
+      "source": "imported"
+    },
+    {
+      "start": 92.46000000000001,
+      "end": 95.14,
+      "text": "Who ain't got another",
+      "source": "imported"
+    },
+    {
+      "start": 95.14,
+      "end": 98.84,
+      "text": "Woke up just enough",
+      "source": "imported"
+    },
+    {
+      "start": 98.84,
+      "end": 103.6,
+      "text": "Give you all I ought to but it never was enough",
+      "source": "imported"
+    },
+    {
+      "start": 103.6,
+      "end": 106.92,
+      "text": "So don't go coming around",
+      "source": "imported"
+    },
+    {
+      "start": 106.92,
+      "end": 108.71000000000001,
+      "text": "No more bringing me down",
+      "source": "imported"
+    },
+    {
+      "start": 108.71000000000001,
+      "end": 115.31,
+      "text": "There's nothing left, baby, it's all over now",
+      "source": "imported"
+    },
+    {
+      "start": 115.31,
+      "end": 122.27,
+      "text": "That's why can't cry, it's all over now",
+      "source": "imported"
+    },
+    {
+      "start": 122.27,
+      "end": 129.1,
+      "text": "There's nothing left, baby, it's all over now",
+      "source": "imported"
+    },
+    {
+      "start": 129.1,
+      "end": 137.1,
+      "text": "That's why can't cry, now you've got a ticket, it's all over now",
+      "source": "imported"
+    },
+    {
+      "start": 145.6,
+      "end": 147.88,
+      "text": "She done me wrong",
+      "source": "imported"
+    },
+    {
+      "start": 147.88,
+      "end": 151.3,
+      "text": "It's all over town",
+      "source": "imported"
+    },
+    {
+      "start": 151.3,
+      "end": 155.41,
+      "text": "Now she's gone",
+      "source": "imported"
+    },
+    {
+      "start": 155.41,
+      "end": 163.41,
+      "text": "Your turn to cry",
+      "source": "imported"
+    },
+    {
+      "start": 183.62,
+      "end": 189.9,
+      "text": "There's nothing left, baby, it's all over now",
+      "source": "imported"
+    },
+    {
+      "start": 189.9,
+      "end": 196.79,
+      "text": "That's why can't cry, it's all over now",
+      "source": "imported"
+    },
+    {
+      "start": 196.79,
+      "end": 203.24,
+      "text": "There's nothing left, baby, it's all over now",
+      "source": "imported"
+    },
+    {
+      "start": 203.24,
+      "end": 211.24,
+      "text": "That's why can't cry, now you've got a ticket, it's all over now",
+      "source": "imported"
+    },
+    {
+      "start": 220.34,
+      "end": 223.34,
+      "text": "Over now",
+      "source": "imported"
+    },
+    {
+      "start": 223.34,
+      "end": 228.34,
+      "text": "It's all over now",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 0.8359,
+      "chord": "E/B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 1.5325,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 5.9443,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 6.5945,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 10.0078,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 13.8391,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 17.2292,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 20.1781,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 25.2401,
+      "chord": "E/B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 26.3082,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 27.3995,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 27.8175,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 34.1333,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 41.378,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 42.4229,
+      "chord": "E/B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 45.7898,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 47.717,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 51.1071,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 54.5205,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 55.9833,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 57.7016,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 59.3966,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 61.4864,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 62.81,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 64.4586,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 66.1769,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 67.4307,
+      "chord": "F#7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 68.4989,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 74.6754,
+      "chord": "E/B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.1553,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.9912,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 81.5949,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 82.0593,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 87.7714,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 88.3751,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 93.2513,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 95.6198,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 100.2638,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 102.1678,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 104.513,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 105.3489,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 108.9712,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.4573,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 112.1292,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 113.6385,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 115.8211,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 117.2376,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 118.9094,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 120.6509,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 122.7407,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 124.0178,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 125.6896,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 127.4311,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 129.5209,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 130.798,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 132.4931,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 134.3739,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 135.4188,
+      "chord": "F#7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 136.7191,
+      "chord": "Bsus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 137.3693,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 143.0814,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 146.2857,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 149.8384,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 153.0659,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 154.9468,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 155.5737,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 156.874,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 159.614,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 163.84,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 166.8122,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 168.5072,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 170.2023,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 173.5924,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 176.9825,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 180.5584,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 182.2766,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 183.7627,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 185.2952,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 186.9671,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 188.6389,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 190.5429,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 192.0755,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 193.7473,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 195.6281,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 197.3232,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 199.0182,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 200.7133,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 202.1994,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 204.1034,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 205.6359,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 207.4471,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 208.9564,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 210.0245,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 211.1158,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 215.3883,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 216.3635,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 217.9657,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 219.1964,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 237.5634,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 238.3993,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/All_Over_Now_Great_White",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 36
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external"
+  },
+  "created_at": "2026-10-24T06:41:01.088913+00:00",
+  "updated_at": "2026-10-24T06:41:01.089617+00:00"
+}

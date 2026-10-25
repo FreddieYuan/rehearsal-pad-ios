@@ -1,0 +1,1037 @@
+{
+  "schema_version": 1,
+  "id": "Kiss_Me_Sixpence_None_The_Richer",
+  "song": {
+    "title": "Kiss Me",
+    "artist": "Sixpence None The Richer",
+    "source_url": "https://www.youtube.com/watch?v=Jnq9wPDoDKg",
+    "audio_path": "/Users/freddietw/GP-AI-Projects/練團助手/data/media/Kiss_Me_Sixpence_None_The_Richer/original.mp3",
+    "preview_path": "audio/original.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 195.662958
+  },
+  "analysis": {
+    "bpm": 100.0,
+    "key": "Eb Major",
+    "confidence": {
+      "youtube_import": 1.0,
+      "metadata_from_youtube": 0.85,
+      "official_pdf_key": 1.0,
+      "official_pdf_bpm": 1.0,
+      "official_pdf_chords": 1.0,
+      "official_pdf_lyrics": 1.0
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 19.199999999999996,
+      "source": "manual"
+    },
+    {
+      "id": "2_verse_1",
+      "label": "Verse 1",
+      "start": 19.199999999999996,
+      "end": 38.39999999999999,
+      "source": "manual"
+    },
+    {
+      "id": "3_chorus_1",
+      "label": "Chorus",
+      "start": 38.39999999999999,
+      "end": 81.6,
+      "source": "manual"
+    },
+    {
+      "id": "4_interlude_1",
+      "label": "Interlude",
+      "start": 81.6,
+      "end": 88.8,
+      "source": "manual"
+    },
+    {
+      "id": "5_verse_2",
+      "label": "Verse 2",
+      "start": 88.8,
+      "end": 107.99999999999999,
+      "source": "manual"
+    },
+    {
+      "id": "6_chorus_2",
+      "label": "Chorus",
+      "start": 107.99999999999999,
+      "end": 151.2,
+      "source": "manual"
+    },
+    {
+      "id": "7_interlude_2",
+      "label": "Interlude",
+      "start": 151.2,
+      "end": 167.99999999999997,
+      "source": "manual"
+    },
+    {
+      "id": "8_solo",
+      "label": "Solo",
+      "start": 167.99999999999997,
+      "end": 187.19999999999996,
+      "source": "manual"
+    },
+    {
+      "id": "9_chorus_3",
+      "label": "Chorus",
+      "start": 187.19999999999996,
+      "end": 230.39999999999998,
+      "source": "manual"
+    },
+    {
+      "id": "10_interlude_3",
+      "label": "Interlude",
+      "start": 230.39999999999998,
+      "end": 239.99999999999997,
+      "source": "manual"
+    },
+    {
+      "id": "11_outro",
+      "label": "Outro",
+      "start": 239.99999999999997,
+      "end": 268.8,
+      "source": "manual"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 19.199999999999996,
+      "end": 23.999999999999996,
+      "text": "Kiss me out of the bearded barley,",
+      "source": "manual"
+    },
+    {
+      "start": 23.999999999999996,
+      "end": 28.799999999999997,
+      "text": "Nightly, beside the green, green grass",
+      "source": "manual"
+    },
+    {
+      "start": 28.799999999999997,
+      "end": 33.599999999999994,
+      "text": "Swing, swing, swing the spinning step",
+      "source": "manual"
+    },
+    {
+      "start": 33.599999999999994,
+      "end": 35.99999999999999,
+      "text": "You'll wear those shoes",
+      "source": "manual"
+    },
+    {
+      "start": 35.99999999999999,
+      "end": 38.39999999999999,
+      "text": "And I will wear that dress",
+      "source": "manual"
+    },
+    {
+      "start": 38.39999999999999,
+      "end": 47.99999999999999,
+      "text": "Oh, kiss me beneath the milky twilight",
+      "source": "manual"
+    },
+    {
+      "start": 47.99999999999999,
+      "end": 59.99999999999999,
+      "text": "Lead me out on the moonlit floor",
+      "source": "manual"
+    },
+    {
+      "start": 59.99999999999999,
+      "end": 62.39999999999999,
+      "text": "Lift your open hand",
+      "source": "manual"
+    },
+    {
+      "start": 62.39999999999999,
+      "end": 67.19999999999999,
+      "text": "Strike up the band,",
+      "source": "manual"
+    },
+    {
+      "start": 67.19999999999999,
+      "end": 71.99999999999999,
+      "text": "And make the fireflies dance",
+      "source": "manual"
+    },
+    {
+      "start": 71.99999999999999,
+      "end": 74.39999999999999,
+      "text": "Silvermoon's sparkling,",
+      "source": "manual"
+    },
+    {
+      "start": 74.39999999999999,
+      "end": 81.6,
+      "text": "So kiss me",
+      "source": "manual"
+    },
+    {
+      "start": 88.8,
+      "end": 93.6,
+      "text": "Kiss me down by the broken treehouse",
+      "source": "manual"
+    },
+    {
+      "start": 93.6,
+      "end": 98.39999999999999,
+      "text": "Swing me upon its hanging tire",
+      "source": "manual"
+    },
+    {
+      "start": 98.39999999999999,
+      "end": 103.19999999999999,
+      "text": "Bring, bring, bring your flowered hat",
+      "source": "manual"
+    },
+    {
+      "start": 103.19999999999999,
+      "end": 107.99999999999999,
+      "text": "We'll take the trail marked on your father's map",
+      "source": "manual"
+    },
+    {
+      "start": 107.99999999999999,
+      "end": 117.59999999999998,
+      "text": "Oh, kiss me beneath the milky twilight",
+      "source": "manual"
+    },
+    {
+      "start": 117.59999999999998,
+      "end": 129.59999999999997,
+      "text": "Lead me out on the moonlit floor",
+      "source": "manual"
+    },
+    {
+      "start": 129.59999999999997,
+      "end": 131.99999999999997,
+      "text": "Lift your open hand",
+      "source": "manual"
+    },
+    {
+      "start": 131.99999999999997,
+      "end": 136.79999999999998,
+      "text": "Strike up the band,",
+      "source": "manual"
+    },
+    {
+      "start": 136.79999999999998,
+      "end": 141.6,
+      "text": "And make the fireflies dance",
+      "source": "manual"
+    },
+    {
+      "start": 141.6,
+      "end": 144.0,
+      "text": "Silvermoon's sparkling,",
+      "source": "manual"
+    },
+    {
+      "start": 144.0,
+      "end": 151.2,
+      "text": "So kiss me",
+      "source": "manual"
+    },
+    {
+      "start": 187.19999999999996,
+      "end": 196.79999999999995,
+      "text": "Oh, kiss me beneath the milky twilight",
+      "source": "manual"
+    },
+    {
+      "start": 196.79999999999995,
+      "end": 208.79999999999995,
+      "text": "Lead me out on the moonlit floor",
+      "source": "manual"
+    },
+    {
+      "start": 208.79999999999995,
+      "end": 211.19999999999996,
+      "text": "Lift your open hand",
+      "source": "manual"
+    },
+    {
+      "start": 211.19999999999996,
+      "end": 215.99999999999997,
+      "text": "Strike up the band,",
+      "source": "manual"
+    },
+    {
+      "start": 215.99999999999997,
+      "end": 220.79999999999998,
+      "text": "And make the fireflies dance",
+      "source": "manual"
+    },
+    {
+      "start": 220.79999999999998,
+      "end": 223.2,
+      "text": "Silvermoon's sparkling,",
+      "source": "manual"
+    },
+    {
+      "start": 223.2,
+      "end": 230.39999999999998,
+      "text": "So kiss me",
+      "source": "manual"
+    },
+    {
+      "start": 230.39999999999998,
+      "end": 239.99999999999997,
+      "text": "So kiss me...",
+      "source": "manual"
+    },
+    {
+      "start": 239.99999999999997,
+      "end": 249.59999999999997,
+      "text": "So kiss me",
+      "source": "manual"
+    },
+    {
+      "start": 249.59999999999997,
+      "end": 259.2,
+      "text": "So kiss me",
+      "source": "manual"
+    }
+  ],
+  "chords": [
+    {
+      "time": 0.0,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 2.4,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 4.8,
+      "chord": "D#7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 7.199999999999999,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 9.6,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 12.0,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 14.399999999999999,
+      "chord": "D#7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 16.799999999999997,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 19.199999999999996,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 21.599999999999994,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 23.999999999999996,
+      "chord": "D#7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 26.399999999999995,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 28.799999999999997,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 31.199999999999996,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 33.599999999999994,
+      "chord": "D#7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 35.99999999999999,
+      "chord": "G#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 38.39999999999999,
+      "chord": "Fm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 40.79999999999999,
+      "chord": "A#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 43.19999999999999,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 45.599999999999994,
+      "chord": "Cm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 47.99999999999999,
+      "chord": "Fm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 50.39999999999999,
+      "chord": "A#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 52.79999999999999,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 55.19999999999999,
+      "chord": "D#7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 57.599999999999994,
+      "chord": "Fm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 59.99999999999999,
+      "chord": "A#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 62.39999999999999,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 64.8,
+      "chord": "D#sus2/D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 67.19999999999999,
+      "chord": "Cm11",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 69.6,
+      "chord": "D#sus2/A#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 71.99999999999999,
+      "chord": "G#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 74.39999999999999,
+      "chord": "D#sus2/A#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 76.8,
+      "chord": "A#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 79.19999999999999,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 81.6,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 84.0,
+      "chord": "D#7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 86.39999999999999,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 88.8,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 91.2,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 93.6,
+      "chord": "D#7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 96.0,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 98.39999999999999,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 100.8,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 103.19999999999999,
+      "chord": "D#7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 105.6,
+      "chord": "G#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 107.99999999999999,
+      "chord": "Fm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.39999999999999,
+      "chord": "A#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 112.79999999999998,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 115.19999999999999,
+      "chord": "Cm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 117.59999999999998,
+      "chord": "Fm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 119.99999999999999,
+      "chord": "A#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 122.39999999999998,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 124.79999999999998,
+      "chord": "D#7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 127.19999999999997,
+      "chord": "Fm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 129.59999999999997,
+      "chord": "A#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 131.99999999999997,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 134.39999999999998,
+      "chord": "D#sus2/D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 136.79999999999998,
+      "chord": "Cm11",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 139.2,
+      "chord": "D#sus2/A#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 141.6,
+      "chord": "G#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 144.0,
+      "chord": "D#sus2/A#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 146.4,
+      "chord": "A#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 148.8,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 151.2,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 153.6,
+      "chord": "D#7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 156.0,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 158.39999999999998,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 160.79999999999998,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 163.2,
+      "chord": "D#7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 165.6,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 167.99999999999997,
+      "chord": "Fm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 170.39999999999998,
+      "chord": "A#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 172.79999999999998,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 175.19999999999996,
+      "chord": "Cm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 177.59999999999997,
+      "chord": "Fm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 179.99999999999997,
+      "chord": "A#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 182.39999999999998,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 184.79999999999998,
+      "chord": "D#7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 187.19999999999996,
+      "chord": "Fm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 189.59999999999997,
+      "chord": "A#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 191.99999999999997,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 194.39999999999995,
+      "chord": "Cm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 196.79999999999995,
+      "chord": "Fm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 199.19999999999996,
+      "chord": "A#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 201.59999999999997,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 203.99999999999994,
+      "chord": "D#7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 206.39999999999995,
+      "chord": "Fm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 208.79999999999995,
+      "chord": "A#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 211.19999999999996,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 213.59999999999997,
+      "chord": "D#sus2/D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 215.99999999999997,
+      "chord": "Cm11",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 218.39999999999998,
+      "chord": "D#sus2/A#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 220.79999999999998,
+      "chord": "G#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 223.2,
+      "chord": "D#sus2/A#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 225.6,
+      "chord": "A#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 228.0,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 230.39999999999998,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 232.79999999999998,
+      "chord": "D#7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 235.2,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 237.59999999999997,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 239.99999999999997,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 242.39999999999998,
+      "chord": "D#7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 244.79999999999998,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 247.19999999999996,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 249.59999999999997,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 251.99999999999997,
+      "chord": "D#7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 254.39999999999998,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 256.79999999999995,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 259.2,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 261.59999999999997,
+      "chord": "D#7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 264.0,
+      "chord": "D#maj7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 266.4,
+      "chord": "D#",
+      "source": "manual",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "guitar",
+      "label": "Tuning: E A D G B E; Capo: 1st fret",
+      "time": 0.0,
+      "detail": "Official PDF key Eb, 100 BPM. Chart chord spellings use D# names.",
+      "source": "manual"
+    },
+    {
+      "instrument": "guitar",
+      "label": "Strumming: whole song pattern from official PDF",
+      "time": 0.0,
+      "detail": "Use PDF source for exact strumming arrows.",
+      "source": "manual"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "youtube_video_id": "Jnq9wPDoDKg",
+    "youtube_url": "https://www.youtube.com/watch?v=Jnq9wPDoDKg",
+    "youtube_title": "Sixpence None The Richer - Kiss Me (Official Music Video)",
+    "youtube_channel": "Curb Records",
+    "media_import_source": "youtube_audio",
+    "media_original": "/Users/freddietw/GP-AI-Projects/練團助手/data/media/Kiss_Me_Sixpence_None_The_Richer/original.mp3",
+    "metadata_source": "youtube_metadata",
+    "lyrics_source": "user_provided_official_pdf",
+    "lyrics_status": "applied_from_official_pdf",
+    "chord_source": "user_provided_official_pdf",
+    "chord_status": "applied_from_official_pdf",
+    "score_references": [
+      {
+        "type": "Ultimate Guitar PDF",
+        "url": "",
+        "note": "Official PDF provided by user; used as manual chart source for key, BPM, sections, lyrics, and chords.",
+        "file": "sources/kiss-me-official.pdf",
+        "role": "manual_reference",
+        "status": "applied",
+        "confidence": 1.0
+      }
+    ],
+    "official_pdf_file": "sources/kiss-me-official.pdf",
+    "chart_source": "user_provided_ultimate_guitar_official_pdf",
+    "key_source": "user_provided_official_pdf",
+    "bpm_source": "user_provided_official_pdf",
+    "manual_override": "true",
+    "alignment_status": "bar_estimated_from_official_bpm_not_audio_aligned",
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "other"
+  },
+  "created_at": "2026-08-22T14:15:24.019959+00:00",
+  "updated_at": "2026-08-22T14:53:23.966738+00:00"
+}

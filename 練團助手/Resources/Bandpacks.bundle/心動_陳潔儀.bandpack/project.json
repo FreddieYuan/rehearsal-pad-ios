@@ -1,0 +1,796 @@
+{
+  "schema_version": 1,
+  "id": "心動_陳潔儀",
+  "song": {
+    "title": "心動",
+    "artist": "陳潔儀",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/心動_陳潔儀/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 223.8868
+  },
+  "analysis": {
+    "bpm": 78.1,
+    "key": "D Major",
+    "confidence": {
+      "imported_key_rechecked": 1.0,
+      "major_tonic_score": 0.302,
+      "relative_minor_score": 0.236
+    }
+  },
+  "sections": [],
+  "lyrics": [
+    {
+      "start": 16.07,
+      "end": 21.35,
+      "text": "有多久沒見你",
+      "source": "imported"
+    },
+    {
+      "start": 21.35,
+      "end": 27.53,
+      "text": "以為你在那裡",
+      "source": "imported"
+    },
+    {
+      "start": 27.53,
+      "end": 33.15,
+      "text": "原來就住在我心底",
+      "source": "imported"
+    },
+    {
+      "start": 33.15,
+      "end": 38.78,
+      "text": "陪伴著我的呼吸",
+      "source": "imported"
+    },
+    {
+      "start": 38.78,
+      "end": 43.2,
+      "text": "有多遠的距離",
+      "source": "imported"
+    },
+    {
+      "start": 43.2,
+      "end": 50.08,
+      "text": "以為 聞不到你氣息",
+      "source": "imported"
+    },
+    {
+      "start": 50.08,
+      "end": 56.18,
+      "text": "誰知道你背影這麼長",
+      "source": "imported"
+    },
+    {
+      "start": 56.18,
+      "end": 61.76,
+      "text": "回頭就看到你",
+      "source": "imported"
+    },
+    {
+      "start": 61.76,
+      "end": 65.94,
+      "text": "過去讓它過去",
+      "source": "imported"
+    },
+    {
+      "start": 65.94,
+      "end": 68.03999999999999,
+      "text": "來不及",
+      "source": "imported"
+    },
+    {
+      "start": 68.03999999999999,
+      "end": 71.95,
+      "text": "從頭喜歡你",
+      "source": "imported"
+    },
+    {
+      "start": 71.95,
+      "end": 76.92,
+      "text": "白雲纏繞著藍天",
+      "source": "imported"
+    },
+    {
+      "start": 76.92,
+      "end": 82.1,
+      "text": "如果不能夠永遠走在一起",
+      "source": "imported"
+    },
+    {
+      "start": 82.1,
+      "end": 87.55,
+      "text": "也至少給我們",
+      "source": "imported"
+    },
+    {
+      "start": 87.55,
+      "end": 91.09,
+      "text": "懷念的勇氣",
+      "source": "imported"
+    },
+    {
+      "start": 91.09,
+      "end": 93.8,
+      "text": "擁抱的權利",
+      "source": "imported"
+    },
+    {
+      "start": 93.8,
+      "end": 97.62,
+      "text": "好讓你明白",
+      "source": "imported"
+    },
+    {
+      "start": 97.62,
+      "end": 100.62,
+      "text": "我心動的痕跡",
+      "source": "imported"
+    },
+    {
+      "start": 119.08,
+      "end": 123.08,
+      "text": "過去讓它過去",
+      "source": "imported"
+    },
+    {
+      "start": 123.08,
+      "end": 125.53,
+      "text": "來不及",
+      "source": "imported"
+    },
+    {
+      "start": 125.53,
+      "end": 130.03,
+      "text": "從頭喜歡你",
+      "source": "imported"
+    },
+    {
+      "start": 130.03,
+      "end": 134.99,
+      "text": "白雲纏繞著藍天",
+      "source": "imported"
+    },
+    {
+      "start": 134.99,
+      "end": 140.93,
+      "text": "如果不能夠永遠走在一起",
+      "source": "imported"
+    },
+    {
+      "start": 140.93,
+      "end": 147.92000000000002,
+      "text": "也至少給我們",
+      "source": "imported"
+    },
+    {
+      "start": 147.92000000000002,
+      "end": 151.31,
+      "text": "懷念的勇氣",
+      "source": "imported"
+    },
+    {
+      "start": 151.31,
+      "end": 154.93,
+      "text": "擁抱的權利",
+      "source": "imported"
+    },
+    {
+      "start": 154.93,
+      "end": 157.72,
+      "text": "好讓你明白",
+      "source": "imported"
+    },
+    {
+      "start": 157.72,
+      "end": 160.72,
+      "text": "我心動的痕跡",
+      "source": "imported"
+    },
+    {
+      "start": 168.66,
+      "end": 174.63,
+      "text": "總是想再見你",
+      "source": "imported"
+    },
+    {
+      "start": 174.63,
+      "end": 181.13,
+      "text": "還試著打探你消息",
+      "source": "imported"
+    },
+    {
+      "start": 181.13,
+      "end": 186.13,
+      "text": "原來你就住在我的身體",
+      "source": "imported"
+    },
+    {
+      "start": 190.64,
+      "end": 193.64,
+      "text": "守護我的回憶",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 8.8468,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 11.2385,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 13.1889,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 15.0465,
+      "chord": "Em7/G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 18.0883,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 19.319,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 20.0388,
+      "chord": "Gmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 28.189,
+      "chord": "A7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 30.4878,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 31.1612,
+      "chord": "F#m7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 33.8083,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 35.8516,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 36.5946,
+      "chord": "Em7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 40.1241,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 42.7712,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 44.4894,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 45.9291,
+      "chord": "D7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 48.9244,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 50.1551,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 52.1752,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 53.3362,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 55.2635,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 56.9353,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 57.3533,
+      "chord": "F#m/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 58.1428,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 61.1846,
+      "chord": "Em7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 64.6444,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 67.3843,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 72.2605,
+      "chord": "Bm/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 73.1196,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 73.8395,
+      "chord": "F#m7/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 74.7683,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 76.9974,
+      "chord": "Bm7/D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.2482,
+      "chord": "F#m7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 83.0578,
+      "chord": "Em7/D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 84.451,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 85.5191,
+      "chord": "F#m7/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 86.6569,
+      "chord": "Am6/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 89.2343,
+      "chord": "B/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 92.3225,
+      "chord": "Em7/B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 93.1585,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 95.3876,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 98.2901,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 101.4712,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 104.5827,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 107.6477,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 111.4093,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 116.0069,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 118.236,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 124.8305,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 127.0596,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 127.7098,
+      "chord": "F#/Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 128.4528,
+      "chord": "Bm/D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 129.1958,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 129.7531,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 130.4033,
+      "chord": "F#m7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 133.3058,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 135.7903,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 136.3011,
+      "chord": "F#m7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 139.459,
+      "chord": "Em7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 141.2702,
+      "chord": "A7/G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 142.4776,
+      "chord": "F#m7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 143.1975,
+      "chord": "F#m7b5",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 144.73,
+      "chord": "Am6/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 145.473,
+      "chord": "B7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 148.6077,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 151.9514,
+      "chord": "Gm6",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 155.2022,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 158.7316,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 161.9824,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 163.7936,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 165.2332,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 168.3911,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 169.7843,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 176.82,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 180.1868,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 183.3448,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 186.224,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 186.6884,
+      "chord": "Bm/D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 190.5894,
+      "chord": "Em7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 194.3046,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 195.2334,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 201.8511,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 208.6313,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 211.8589,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 215.2954,
+      "chord": "Em7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 215.8527,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 218.4069,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 219.4982,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 220.6824,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 221.1933,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 223.8868,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/心動_陳潔儀",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 32
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "piano"
+  },
+  "created_at": "2026-10-24T06:41:01.177619+00:00",
+  "updated_at": "2026-10-24T06:41:01.177748+00:00"
+}

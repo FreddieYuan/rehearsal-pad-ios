@@ -1,0 +1,1016 @@
+{
+  "schema_version": 1,
+  "id": "不再猶豫_Beyond",
+  "song": {
+    "title": "不再猶豫",
+    "artist": "Beyond",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/不再猶豫_Beyond/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 245.2956
+  },
+  "analysis": {
+    "bpm": 132.5,
+    "key": "E Minor",
+    "confidence": {
+      "imported_key_rechecked": 1.0
+    }
+  },
+  "sections": [],
+  "lyrics": [
+    {
+      "start": 28.74,
+      "end": 32.25,
+      "text": "無聊望見了猶豫",
+      "source": "imported"
+    },
+    {
+      "start": 32.25,
+      "end": 35.85,
+      "text": "達到理想不太易",
+      "source": "imported"
+    },
+    {
+      "start": 35.85,
+      "end": 38.07,
+      "text": "即使有信心",
+      "source": "imported"
+    },
+    {
+      "start": 38.07,
+      "end": 42.99,
+      "text": "鬥志卻抑止",
+      "source": "imported"
+    },
+    {
+      "start": 42.99,
+      "end": 45.33,
+      "text": "誰人定我去或留",
+      "source": "imported"
+    },
+    {
+      "start": 45.33,
+      "end": 50.19,
+      "text": "定我心中的宇宙",
+      "source": "imported"
+    },
+    {
+      "start": 50.19,
+      "end": 52.32,
+      "text": "只想靠兩手",
+      "source": "imported"
+    },
+    {
+      "start": 52.32,
+      "end": 57.36,
+      "text": "向理想揮手",
+      "source": "imported"
+    },
+    {
+      "start": 57.36,
+      "end": 59.01,
+      "text": "問句天幾高",
+      "source": "imported"
+    },
+    {
+      "start": 59.01,
+      "end": 64.59,
+      "text": "心中志比天更高",
+      "source": "imported"
+    },
+    {
+      "start": 64.59,
+      "end": 71.93,
+      "text": "自信打不死的心態活到老",
+      "source": "imported"
+    },
+    {
+      "start": 71.93,
+      "end": 75.32900000000001,
+      "text": "Woo ho",
+      "source": "imported"
+    },
+    {
+      "start": 75.32900000000001,
+      "end": 78.87,
+      "text": "我有我心底故事",
+      "source": "imported"
+    },
+    {
+      "start": 78.87,
+      "end": 81.09,
+      "text": "親手寫上每段",
+      "source": "imported"
+    },
+    {
+      "start": 81.09,
+      "end": 86.05,
+      "text": "得失樂與悲與夢兒",
+      "source": "imported"
+    },
+    {
+      "start": 86.05,
+      "end": 89.61,
+      "text": "Woo ho",
+      "source": "imported"
+    },
+    {
+      "start": 89.61,
+      "end": 93.18,
+      "text": "縱有創傷不退避",
+      "source": "imported"
+    },
+    {
+      "start": 93.18,
+      "end": 95.37,
+      "text": "夢想有日達成",
+      "source": "imported"
+    },
+    {
+      "start": 95.37,
+      "end": 99.93,
+      "text": "找到心底夢想的世界",
+      "source": "imported"
+    },
+    {
+      "start": 99.93,
+      "end": 101.93,
+      "text": "終可見",
+      "source": "imported"
+    },
+    {
+      "start": 129.0,
+      "end": 132.629,
+      "text": "誰人沒試過猶豫",
+      "source": "imported"
+    },
+    {
+      "start": 132.629,
+      "end": 136.25900000000001,
+      "text": "達到理想不太易",
+      "source": "imported"
+    },
+    {
+      "start": 136.25900000000001,
+      "end": 138.449,
+      "text": "即使有信心",
+      "source": "imported"
+    },
+    {
+      "start": 138.449,
+      "end": 143.34,
+      "text": "鬥志卻抑止",
+      "source": "imported"
+    },
+    {
+      "start": 143.34,
+      "end": 145.8,
+      "text": "誰人定我去或留",
+      "source": "imported"
+    },
+    {
+      "start": 145.8,
+      "end": 150.599,
+      "text": "定我心中的宇宙",
+      "source": "imported"
+    },
+    {
+      "start": 150.599,
+      "end": 152.72899999999998,
+      "text": "只想靠兩手",
+      "source": "imported"
+    },
+    {
+      "start": 152.72899999999998,
+      "end": 157.74,
+      "text": "向理想揮手",
+      "source": "imported"
+    },
+    {
+      "start": 157.74,
+      "end": 159.449,
+      "text": "問句天幾高",
+      "source": "imported"
+    },
+    {
+      "start": 159.449,
+      "end": 164.97,
+      "text": "心中志比天更高",
+      "source": "imported"
+    },
+    {
+      "start": 164.97,
+      "end": 172.75900000000001,
+      "text": "自信打不死的心態活到老",
+      "source": "imported"
+    },
+    {
+      "start": 172.75900000000001,
+      "end": 175.71,
+      "text": "Woo ho",
+      "source": "imported"
+    },
+    {
+      "start": 175.71,
+      "end": 179.28,
+      "text": "我有我心底故事",
+      "source": "imported"
+    },
+    {
+      "start": 179.28,
+      "end": 181.5,
+      "text": "親手寫上每段",
+      "source": "imported"
+    },
+    {
+      "start": 181.5,
+      "end": 186.919,
+      "text": "得失樂與悲與夢兒",
+      "source": "imported"
+    },
+    {
+      "start": 186.919,
+      "end": 189.96,
+      "text": "Woo ho",
+      "source": "imported"
+    },
+    {
+      "start": 189.96,
+      "end": 193.62,
+      "text": "縱有創傷不退避",
+      "source": "imported"
+    },
+    {
+      "start": 193.62,
+      "end": 195.78,
+      "text": "夢想有日達成",
+      "source": "imported"
+    },
+    {
+      "start": 195.78,
+      "end": 200.37,
+      "text": "找到心底夢想的世界",
+      "source": "imported"
+    },
+    {
+      "start": 200.37,
+      "end": 205.449,
+      "text": "終可見",
+      "source": "imported"
+    },
+    {
+      "start": 205.449,
+      "end": 208.02,
+      "text": "Woo ho",
+      "source": "imported"
+    },
+    {
+      "start": 208.02,
+      "end": 210.21,
+      "text": "親手寫上每段",
+      "source": "imported"
+    },
+    {
+      "start": 210.21,
+      "end": 214.21,
+      "text": "得失樂與悲與夢兒",
+      "source": "imported"
+    },
+    {
+      "start": 219.199,
+      "end": 222.32999999999998,
+      "text": "Woo ho",
+      "source": "imported"
+    },
+    {
+      "start": 222.32999999999998,
+      "end": 224.49,
+      "text": "夢想有日達成",
+      "source": "imported"
+    },
+    {
+      "start": 224.49,
+      "end": 229.05,
+      "text": "找到心底夢想的世界",
+      "source": "imported"
+    },
+    {
+      "start": 229.05,
+      "end": 231.05,
+      "text": "終可見嘿",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 0.8824,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 2.7167,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 4.5279,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 6.5248,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 8.3592,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 10.1239,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 11.6796,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 14.6286,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 17.0667,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 18.8778,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 20.689,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 22.4537,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 24.2649,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 26.0296,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 29.2107,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 31.4398,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 33.2045,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 35.0389,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 36.8036,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 38.5916,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 40.4027,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 43.9786,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 45.7898,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 47.5545,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 49.3656,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 51.1536,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 52.9415,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 54.7527,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 58.3053,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 61.858,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 65.5035,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 69.1026,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 72.6785,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 74.5825,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 76.2776,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 78.0655,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.2946,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 81.6181,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 83.4293,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 87.0284,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 89.2807,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 90.6507,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 92.4154,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 94.3659,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 95.9913,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 97.7792,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 101.3783,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 103.1663,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 105.1864,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 106.9976,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 108.7623,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.3412,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 112.3614,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 115.7283,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 117.7484,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 119.5363,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 121.3475,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 123.3444,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 124.9234,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 126.7113,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 130.5194,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 132.5163,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 133.9559,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 135.8832,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 137.5318,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 139.3894,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 141.2702,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 144.6139,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 146.6572,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 148.3987,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 150.2331,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 152.021,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 153.6232,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 155.6201,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 158.9174,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 162.5861,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 166.371,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 169.7843,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 173.5459,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 175.3571,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 177.1218,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 178.933,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 180.7209,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 182.5088,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 184.32,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 187.8959,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 189.707,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 191.495,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 193.2829,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 195.0708,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 196.8588,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 198.6699,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 202.2458,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 204.0337,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 205.8217,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 207.6328,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 209.4208,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 211.1855,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 212.9966,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 216.5957,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 218.6159,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 220.4038,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 222.1917,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 223.9332,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 225.7676,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 227.3466,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 230.9224,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 232.9658,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 234.5215,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 236.5417,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 238.3296,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 240.1408,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 241.9287,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 245.2956,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/不再猶豫_Beyond",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 47
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "other"
+  },
+  "created_at": "2026-10-24T06:41:01.169411+00:00",
+  "updated_at": "2026-10-24T06:41:01.169599+00:00"
+}

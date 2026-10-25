@@ -1,0 +1,180 @@
+{
+  "_comment": "Nord Electro 4D program list, rebuilt from the Nord Sound Manager HTML export and cross-checked against byte 16 of each .ne4p in the factory restore bundle. Each patch is a display string; category order controls dropdown order.",
+  "_source": "Nord Electro 4 Program 2025-02-08.html + Nord Electro 4D Factory Restore v1.0 revA.ne4db",
+  "_program_count": 128,
+  "categories": [
+    {
+      "name": "Organ — B3",
+      "patches": [
+        "Split B3 [Pgm 01:1]",
+        "Percussive B3 [Pgm 04:1]",
+        "All Draws Out [Pgm 05:1] — 88 8888 888",
+        "Purple Lord [Pgm 06:1]",
+        "Death Power B3 [Pgm 08:1]",
+        "Split Bee [Pgm 11:1]",
+        "Dual Organ [Pgm 15:1] — 00 6060 000",
+        "Split Organ [Pgm 18:1]",
+        "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+        "All In [Pgm 24:2]",
+        "Mighty Bee [Pgm 28:2]",
+        "No Orgy [Pgm 30:4]"
+      ]
+    },
+    {
+      "name": "Organ — Vox",
+      "patches": [
+        "Calm Vox [Pgm 03:1]",
+        "AgroVox [Pgm 07:1]",
+        "Rays Vox [Pgm 13:1]",
+        "French Kiss [Pgm 23:2]",
+        "Mercy Vox [Pgm 24:4]",
+        "Fibonacci VoX [Pgm 27:4]",
+        "Bugs Vox [Pgm 28:1]",
+        "The Synthist [Pgm 31:2]",
+        "Shock Vox [Pgm 32:3]"
+      ]
+    },
+    {
+      "name": "Organ — Farfisa",
+      "patches": [
+        "Farf and me [Pgm 02:1]",
+        "Zep Farfisa [Pgm 10:1]",
+        "Lisa Farfisa [Pgm 14:1]",
+        "Orbit [Pgm 26:3]",
+        "My Sound [Pgm 27:1]",
+        "Phased Farfy [Pgm 28:3]",
+        "Glory Days [Pgm 29:2]",
+        "Decade [Pgm 32:1]"
+      ]
+    },
+    {
+      "name": "Piano — Grand",
+      "patches": [
+        "StudioGrand2 Ya [Pgm 01:2]",
+        "Grand Lady D sml [Pgm 02:2]",
+        "ElecGrand CP80 [Pgm 04:2]",
+        "Peters Grand [Pgm 07:2]",
+        "Bright Lady D [Pgm 08:2]",
+        "SteinwayPwr [Pgm 09:2]",
+        "Mono Piano [Pgm 10:2]",
+        "Broken [Pgm 14:2]",
+        "Play it Cold [Pgm 15:2]"
+      ]
+    },
+    {
+      "name": "Piano — Upright",
+      "patches": [
+        "RainPiano [Pgm 03:2]",
+        "Toms Waiter [Pgm 05:2]"
+      ]
+    },
+    {
+      "name": "Electric Piano — EPiano1",
+      "patches": [
+        "E Piano MKII [Pgm 01:3]",
+        "E Piano MKI Deep [Pgm 02:3]",
+        "EP Brite Tines [Pgm 05:3]",
+        "E Piano MK1 Suit [Pgm 06:3]",
+        "Twin Face [Pgm 08:3]",
+        "TradeMarkII [Pgm 11:3]",
+        "Naughty Suit [Pgm 12:2]",
+        "No Quarter [Pgm 13:2]",
+        "Angry Tines MKV [Pgm 17:3]",
+        "Tine for jam [Pgm 18:3]",
+        "Black EP [Pgm 19:2]",
+        "Super Tines [Pgm 20:3]",
+        "7ender Combo [Pgm 24:1]",
+        "MkV Spread [Pgm 25:1]",
+        "SlipperySky [Pgm 25:2]",
+        "Slow Marks [Pgm 25:3]",
+        "Soft Mint [Pgm 25:4]",
+        "Turn Me RM Knob [Pgm 26:2]",
+        "Ivory Tine Bells [Pgm 26:4]",
+        "Suit w rotary-RM [Pgm 27:2]",
+        "Tine Lately [Pgm 27:3]",
+        "Belly Tines [Pgm 29:1]",
+        "Tines for Debby [Pgm 29:3]",
+        "MkI CompEQ [Pgm 30:1]",
+        "MkII  CompEQ [Pgm 31:1]",
+        "Ivory Tine Bells [Pgm 32:2]"
+      ]
+    },
+    {
+      "name": "Electric Piano — EPiano2 / Wurlitzer",
+      "patches": [
+        "Wurlitzer 200A [Pgm 04:3]",
+        "EQd Wurlitzer [Pgm 09:3]",
+        "WurlyTramp [Pgm 15:3]",
+        "Logical Wurlie [Pgm 20:2]"
+      ]
+    },
+    {
+      "name": "Clav / Harpsichord",
+      "patches": [
+        "Clavinet 1 [Pgm 03:3]",
+        "Harpsichrd Ital [Pgm 06:2]",
+        "Clavinet 2 [Pgm 07:3]",
+        "Clavinet 4 [Pgm 10:3]",
+        "FreakOff [Pgm 12:3]",
+        "Custard Pie Clav [Pgm 13:3]",
+        "Clavinet 3 [Pgm 16:3]",
+        "Mumbay Dream [Pgm 17:2]",
+        "Sweepstakes [Pgm 28:4]",
+        "SloPhased Bite [Pgm 30:2]",
+        "Bonkers [Pgm 31:4]"
+      ]
+    },
+    {
+      "name": "Sample / User",
+      "patches": [
+        "The Biggest Sur [Pgm 01:4]",
+        "Bary And Brass [Pgm 02:4]",
+        "Orch Strings [Pgm 03:4]",
+        "Mellotron 3Viol [Pgm 04:4]",
+        "G2X StageKeys [Pgm 05:4]",
+        "OrchTrumpets [Pgm 06:4]",
+        "Mellotron Flute [Pgm 07:4]",
+        "Harp [Pgm 08:4]",
+        "CathedralOrgan3 [Pgm 09:1]",
+        "MellotronBoys [Pgm 09:4]",
+        "Almost Fairlight [Pgm 10:4]",
+        "Marimba [Pgm 11:2]",
+        "Backward Vibes [Pgm 11:4]",
+        "Danny Boy [Pgm 12:1]",
+        "Tubular Bells [Pgm 12:4]",
+        "22 Violins [Pgm 13:4]",
+        "PizzicatoStrings [Pgm 14:3]",
+        "String Orchestra [Pgm 14:4]",
+        "String Quartet [Pgm 15:4]",
+        "Fan organ [Pgm 16:1]",
+        "Celeste [Pgm 16:2]",
+        "SynthString 1 [Pgm 16:4]",
+        "ShineOn Rick [Pgm 17:1]",
+        "Big StingsAttack [Pgm 17:4]",
+        "Vibraphone [Pgm 18:2]",
+        "Marcato Strings [Pgm 18:4]",
+        "Ians breath [Pgm 19:3]",
+        "Chorus Choir [Pgm 19:4]",
+        "PumpOrgan 1 [Pgm 20:1]",
+        "Organ Flute [Pgm 20:4]",
+        "Mellotron 16Vio [Pgm 21:1]",
+        "SynthString 2 [Pgm 21:2]",
+        "Solo Violin [Pgm 21:3]",
+        "G2X Eighties [Pgm 21:4]",
+        "PumpOrgan 2 [Pgm 22:1]",
+        "Melodica [Pgm 22:2]",
+        "Not in church [Pgm 22:3]",
+        "Crystal Clear [Pgm 22:4]",
+        "Armageddy [Pgm 23:1]",
+        "Smoooth [Pgm 23:3]",
+        "RingMod Brass [Pgm 23:4]",
+        "Chip n Dale [Pgm 24:3]",
+        "Stabbelery [Pgm 26:1]",
+        "The Hamptons [Pgm 29:4]",
+        "Underwood [Pgm 30:3]",
+        "BeeStrings [Pgm 31:3]",
+        "The Kings String [Pgm 32:4]"
+      ]
+    }
+  ]
+}

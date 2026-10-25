@@ -1,0 +1,12 @@
+{
+  "format": "rehearsal-assistant-bandpack",
+  "schema_version": 1,
+  "project_id": "Smoke_On_the_Water_Deep_Purple",
+  "title": "Smoke On the Water",
+  "artist": "Deep Purple",
+  "project_file": "project.json",
+  "audio_copied": true,
+  "source_count": 0,
+  "stem_count": 6,
+  "artwork": "artwork.jpg"
+}

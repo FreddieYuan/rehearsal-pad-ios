@@ -1,0 +1,12 @@
+{
+  "format": "rehearsal-assistant-bandpack",
+  "schema_version": 1,
+  "project_id": "盆栽_倒車入庫",
+  "title": "盆栽",
+  "artist": "倒車入庫",
+  "project_file": "project.json",
+  "audio_copied": true,
+  "source_count": 0,
+  "stem_count": 6,
+  "artwork": "artwork.jpg"
+}

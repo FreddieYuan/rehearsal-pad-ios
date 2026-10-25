@@ -1,0 +1,905 @@
+{
+  "schema_version": 1,
+  "id": "你要的愛_戴佩妮",
+  "song": {
+    "title": "你要的愛",
+    "artist": "戴佩妮",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/你要的愛_戴佩妮/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 250.0
+  },
+  "analysis": {
+    "bpm": 74.0,
+    "key": "A Minor",
+    "confidence": {
+      "imported_key_rechecked": 1.0,
+      "major_tonic_score": 0.167,
+      "relative_minor_score": 0.265,
+      "relative_minor_override": 1.0
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 30.0,
+      "source": "imported"
+    },
+    {
+      "id": "2_section_0",
+      "label": "Section 0",
+      "start": 30.0,
+      "end": 80.0,
+      "source": "imported"
+    },
+    {
+      "id": "3_verse",
+      "label": "Verse",
+      "start": 80.0,
+      "end": 140.0,
+      "source": "imported"
+    },
+    {
+      "id": "4_chorus",
+      "label": "Chorus",
+      "start": 140.0,
+      "end": 200.0,
+      "source": "imported"
+    },
+    {
+      "id": "5_section_0_rep",
+      "label": "Section 0 (Rep)",
+      "start": 200.0,
+      "end": 210.0,
+      "source": "imported"
+    },
+    {
+      "id": "6_intro_rep",
+      "label": "Intro (Rep)",
+      "start": 210.0,
+      "end": 240.0,
+      "source": "imported"
+    },
+    {
+      "id": "7_section_3",
+      "label": "Section 3",
+      "start": 240.0,
+      "end": 250.0,
+      "source": "imported"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 1.13,
+      "end": 7.699,
+      "text": "雖然經常夢見你",
+      "source": "imported"
+    },
+    {
+      "start": 7.699,
+      "end": 11.339,
+      "text": "還是毫無頭緒",
+      "source": "imported"
+    },
+    {
+      "start": 11.339,
+      "end": 15.59,
+      "text": "外面正在下著雨",
+      "source": "imported"
+    },
+    {
+      "start": 15.59,
+      "end": 18.299,
+      "text": "今天是星期幾",
+      "source": "imported"
+    },
+    {
+      "start": 18.299,
+      "end": 20.819,
+      "text": "But I don`t know",
+      "source": "imported"
+    },
+    {
+      "start": 20.819,
+      "end": 26.959,
+      "text": "你去那裡",
+      "source": "imported"
+    },
+    {
+      "start": 26.959,
+      "end": 33.8,
+      "text": "雖然不曾懷疑你",
+      "source": "imported"
+    },
+    {
+      "start": 33.8,
+      "end": 39.88,
+      "text": "還是忐忑不定",
+      "source": "imported"
+    },
+    {
+      "start": 39.88,
+      "end": 43.68,
+      "text": "誰是你的那個唯一",
+      "source": "imported"
+    },
+    {
+      "start": 43.68,
+      "end": 49.68,
+      "text": "原諒我懷疑自己",
+      "source": "imported"
+    },
+    {
+      "start": 49.68,
+      "end": 53.2,
+      "text": "我明白",
+      "source": "imported"
+    },
+    {
+      "start": 53.2,
+      "end": 56.16,
+      "text": "我要的愛",
+      "source": "imported"
+    },
+    {
+      "start": 56.16,
+      "end": 60.61,
+      "text": "會把我寵壞",
+      "source": "imported"
+    },
+    {
+      "start": 60.61,
+      "end": 62.15,
+      "text": "像一個小孩",
+      "source": "imported"
+    },
+    {
+      "start": 62.15,
+      "end": 66.6,
+      "text": "只懂在你懷裡壞",
+      "source": "imported"
+    },
+    {
+      "start": 66.6,
+      "end": 69.3,
+      "text": "你要的愛",
+      "source": "imported"
+    },
+    {
+      "start": 69.3,
+      "end": 73.48,
+      "text": "不只是依賴",
+      "source": "imported"
+    },
+    {
+      "start": 73.48,
+      "end": 75.7,
+      "text": "要像個大男孩",
+      "source": "imported"
+    },
+    {
+      "start": 75.7,
+      "end": 76.73,
+      "text": "風吹又日曬",
+      "source": "imported"
+    },
+    {
+      "start": 76.73,
+      "end": 79.73,
+      "text": "生活自由自在",
+      "source": "imported"
+    },
+    {
+      "start": 95.16,
+      "end": 101.4,
+      "text": "雖然不曾懷疑你",
+      "source": "imported"
+    },
+    {
+      "start": 101.4,
+      "end": 108.7,
+      "text": "還是忐忑不定",
+      "source": "imported"
+    },
+    {
+      "start": 108.7,
+      "end": 111.539,
+      "text": "誰是你的那個唯一",
+      "source": "imported"
+    },
+    {
+      "start": 111.539,
+      "end": 117.979,
+      "text": "原諒我懷疑自己",
+      "source": "imported"
+    },
+    {
+      "start": 117.979,
+      "end": 120.94,
+      "text": "我明白",
+      "source": "imported"
+    },
+    {
+      "start": 120.94,
+      "end": 124.19,
+      "text": "我要的愛",
+      "source": "imported"
+    },
+    {
+      "start": 124.19,
+      "end": 128.75900000000001,
+      "text": "會把我寵壞",
+      "source": "imported"
+    },
+    {
+      "start": 128.75900000000001,
+      "end": 131.99,
+      "text": "像一個小孩",
+      "source": "imported"
+    },
+    {
+      "start": 131.99,
+      "end": 134.29,
+      "text": "只懂在你懷裡壞",
+      "source": "imported"
+    },
+    {
+      "start": 134.29,
+      "end": 137.109,
+      "text": "你要的愛",
+      "source": "imported"
+    },
+    {
+      "start": 137.109,
+      "end": 141.619,
+      "text": "不只是依賴",
+      "source": "imported"
+    },
+    {
+      "start": 141.619,
+      "end": 143.399,
+      "text": "要像個大男孩",
+      "source": "imported"
+    },
+    {
+      "start": 143.399,
+      "end": 144.749,
+      "text": "風吹又日曬",
+      "source": "imported"
+    },
+    {
+      "start": 144.749,
+      "end": 147.749,
+      "text": "生活自由自在",
+      "source": "imported"
+    },
+    {
+      "start": 173.659,
+      "end": 176.699,
+      "text": "我明白",
+      "source": "imported"
+    },
+    {
+      "start": 176.699,
+      "end": 179.109,
+      "text": "我要的愛",
+      "source": "imported"
+    },
+    {
+      "start": 179.109,
+      "end": 183.839,
+      "text": "會把我寵壞",
+      "source": "imported"
+    },
+    {
+      "start": 183.839,
+      "end": 185.439,
+      "text": "像一個小孩",
+      "source": "imported"
+    },
+    {
+      "start": 185.439,
+      "end": 189.339,
+      "text": "只懂在你懷裡壞",
+      "source": "imported"
+    },
+    {
+      "start": 189.339,
+      "end": 192.429,
+      "text": "你要的愛",
+      "source": "imported"
+    },
+    {
+      "start": 192.429,
+      "end": 196.719,
+      "text": "不只是依賴",
+      "source": "imported"
+    },
+    {
+      "start": 196.719,
+      "end": 198.409,
+      "text": "要像個大男孩",
+      "source": "imported"
+    },
+    {
+      "start": 198.409,
+      "end": 199.949,
+      "text": "風吹又日曬",
+      "source": "imported"
+    },
+    {
+      "start": 199.949,
+      "end": 202.949,
+      "text": "生活自由自在",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 0.4644,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 3.8545,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 6.966,
+      "chord": "Dm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 10.3329,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 11.1456,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 13.4676,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 16.6487,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 18.4134,
+      "chord": "Dm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 20.0388,
+      "chord": "G7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 23.3128,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 26.494,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 30.0002,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 33.042,
+      "chord": "Dm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 36.4089,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 38.7541,
+      "chord": "F7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 39.5436,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 42.7015,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 44.0018,
+      "chord": "Dm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 46.0684,
+      "chord": "G7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 49.2495,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 52.2913,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 55.7047,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 58.9555,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 62.2295,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 65.5035,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 69.1026,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 72.1676,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 75.3255,
+      "chord": "G7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 78.4834,
+      "chord": "Bbm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 81.6646,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 84.9154,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 86.564,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 88.1894,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 91.3937,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 93.2281,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 94.8303,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 98.0811,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 101.3319,
+      "chord": "Dm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 104.7917,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 106.4171,
+      "chord": "F7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 107.8335,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.8521,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 112.2917,
+      "chord": "Dm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 114.2422,
+      "chord": "G7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 117.3537,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 121.0456,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 123.9946,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 127.3382,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 130.3104,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 133.5612,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 137.2532,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 140.4807,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 143.7315,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 144.6835,
+      "chord": "G7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 147.3538,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 149.7919,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 153.2517,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 154.4591,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 156.7115,
+      "chord": "Dm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 159.8462,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 161.9592,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 163.097,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 166.4406,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 167.6481,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 169.645,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 173.0351,
+      "chord": "Bbm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 175.3107,
+      "chord": "C7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 176.1001,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 179.3509,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 182.6946,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 185.7596,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 188.3138,
+      "chord": "C#/F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 189.0104,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 192.3541,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 195.5817,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 198.8325,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 202.1994,
+      "chord": "Bbm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 205.543,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 208.5849,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 212.0446,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 215.0632,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 218.3605,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 221.7041,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 225.1871,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 227.9967,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 233.2212,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 80.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 140.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 210.0,
+      "detail": "All Draws Out [Pgm 05:1] — 88 8888 888",
+      "source": "imported"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/你要的愛_戴佩妮",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 44
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "other"
+  },
+  "created_at": "2026-10-24T06:41:01.171981+00:00",
+  "updated_at": "2026-10-24T06:41:01.172156+00:00"
+}

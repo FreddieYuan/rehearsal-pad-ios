@@ -1,0 +1,1297 @@
+{
+  "schema_version": 1,
+  "id": "Fly_Away_Lenny_Kravitz",
+  "song": {
+    "title": "Fly Away",
+    "artist": "Lenny Kravitz",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/Fly_Away_Lenny_Kravitz/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 224.0
+  },
+  "analysis": {
+    "bpm": 80.3,
+    "key": "D Major",
+    "confidence": {
+      "imported_key_rechecked": 1.0,
+      "major_tonic_score": 0.296,
+      "relative_minor_score": 0.0
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 10.0,
+      "source": "imported"
+    },
+    {
+      "id": "2_section_4",
+      "label": "Section 4",
+      "start": 10.0,
+      "end": 20.0,
+      "source": "imported"
+    },
+    {
+      "id": "3_verse",
+      "label": "Verse",
+      "start": 20.0,
+      "end": 50.0,
+      "source": "imported"
+    },
+    {
+      "id": "4_chorus",
+      "label": "Chorus",
+      "start": 50.0,
+      "end": 80.0,
+      "source": "imported"
+    },
+    {
+      "id": "5_section_1",
+      "label": "Section 1",
+      "start": 80.0,
+      "end": 100.0,
+      "source": "imported"
+    },
+    {
+      "id": "6_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 100.0,
+      "end": 120.0,
+      "source": "imported"
+    },
+    {
+      "id": "7_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 120.0,
+      "end": 150.0,
+      "source": "imported"
+    },
+    {
+      "id": "8_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 150.0,
+      "end": 210.0,
+      "source": "imported"
+    },
+    {
+      "id": "9_section_1_rep",
+      "label": "Section 1 (Rep)",
+      "start": 210.0,
+      "end": 224.0,
+      "source": "imported"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 26.005,
+      "end": 27.781,
+      "text": "I wish that I could fly",
+      "source": "imported"
+    },
+    {
+      "start": 27.781,
+      "end": 29.348,
+      "text": "Into the sky",
+      "source": "imported"
+    },
+    {
+      "start": 29.348,
+      "end": 32.117,
+      "text": "So very high",
+      "source": "imported"
+    },
+    {
+      "start": 32.117,
+      "end": 38.152,
+      "text": "Just like a dragonfly",
+      "source": "imported"
+    },
+    {
+      "start": 38.152,
+      "end": 39.902,
+      "text": "I'd fly above the trees",
+      "source": "imported"
+    },
+    {
+      "start": 39.902,
+      "end": 41.443,
+      "text": "Over the seas",
+      "source": "imported"
+    },
+    {
+      "start": 41.443,
+      "end": 43.716,
+      "text": "In all degrees",
+      "source": "imported"
+    },
+    {
+      "start": 43.716,
+      "end": 48.261,
+      "text": "To anywhere I please",
+      "source": "imported"
+    },
+    {
+      "start": 48.261,
+      "end": 52.388,
+      "text": "Oh, I want to get away",
+      "source": "imported"
+    },
+    {
+      "start": 52.388,
+      "end": 56.046,
+      "text": "I want to fly away",
+      "source": "imported"
+    },
+    {
+      "start": 56.046,
+      "end": 61.244,
+      "text": "Yea, yea, yea",
+      "source": "imported"
+    },
+    {
+      "start": 61.244,
+      "end": 64.562,
+      "text": "I want to get away",
+      "source": "imported"
+    },
+    {
+      "start": 64.562,
+      "end": 68.166,
+      "text": "I want to fly away",
+      "source": "imported"
+    },
+    {
+      "start": 68.166,
+      "end": 74.122,
+      "text": "Yea, yea, yea",
+      "source": "imported"
+    },
+    {
+      "start": 74.122,
+      "end": 76.003,
+      "text": "Let's go and see the stars",
+      "source": "imported"
+    },
+    {
+      "start": 76.003,
+      "end": 80.05199999999999,
+      "text": "The Milky Way or even Mars",
+      "source": "imported"
+    },
+    {
+      "start": 80.05199999999999,
+      "end": 86.03399999999999,
+      "text": "Where it could just be ours",
+      "source": "imported"
+    },
+    {
+      "start": 86.03399999999999,
+      "end": 87.863,
+      "text": "Let's fade into the sun",
+      "source": "imported"
+    },
+    {
+      "start": 87.863,
+      "end": 89.561,
+      "text": "Let your spirit fly",
+      "source": "imported"
+    },
+    {
+      "start": 89.561,
+      "end": 92.14699999999999,
+      "text": "Where we are one",
+      "source": "imported"
+    },
+    {
+      "start": 92.14699999999999,
+      "end": 94.655,
+      "text": "Just for a little fun",
+      "source": "imported"
+    },
+    {
+      "start": 94.655,
+      "end": 97.345,
+      "text": "Oh, oh, oh yea",
+      "source": "imported"
+    },
+    {
+      "start": 97.345,
+      "end": 100.375,
+      "text": "I want to get away",
+      "source": "imported"
+    },
+    {
+      "start": 100.375,
+      "end": 104.11099999999999,
+      "text": "I want to fly away",
+      "source": "imported"
+    },
+    {
+      "start": 104.11099999999999,
+      "end": 109.675,
+      "text": "Yea, yea, yea",
+      "source": "imported"
+    },
+    {
+      "start": 109.675,
+      "end": 112.313,
+      "text": "I want to get away",
+      "source": "imported"
+    },
+    {
+      "start": 112.313,
+      "end": 116.15299999999999,
+      "text": "I want to fly away",
+      "source": "imported"
+    },
+    {
+      "start": 116.15299999999999,
+      "end": 122.65299999999999,
+      "text": "Yea, yea, yea",
+      "source": "imported"
+    },
+    {
+      "start": 132.846,
+      "end": 138.41,
+      "text": "I got to get away",
+      "source": "imported"
+    },
+    {
+      "start": 138.41,
+      "end": 142.615,
+      "text": "Girl I got to get away",
+      "source": "imported"
+    },
+    {
+      "start": 142.615,
+      "end": 145.332,
+      "text": "Oh, oh, oh yea",
+      "source": "imported"
+    },
+    {
+      "start": 145.332,
+      "end": 148.336,
+      "text": "I want to get away",
+      "source": "imported"
+    },
+    {
+      "start": 148.336,
+      "end": 152.098,
+      "text": "I want to fly away",
+      "source": "imported"
+    },
+    {
+      "start": 152.098,
+      "end": 155.99,
+      "text": "Yea, yea, yea",
+      "source": "imported"
+    },
+    {
+      "start": 155.99,
+      "end": 156.225,
+      "text": "(With you )",
+      "source": "imported"
+    },
+    {
+      "start": 156.225,
+      "end": 157.453,
+      "text": "Oh yeah",
+      "source": "imported"
+    },
+    {
+      "start": 157.453,
+      "end": 160.353,
+      "text": "I want to get away",
+      "source": "imported"
+    },
+    {
+      "start": 160.353,
+      "end": 164.088,
+      "text": "I want to fly away",
+      "source": "imported"
+    },
+    {
+      "start": 164.088,
+      "end": 167.85,
+      "text": "Yea, yea, yea",
+      "source": "imported"
+    },
+    {
+      "start": 167.85,
+      "end": 168.006,
+      "text": "(With you )",
+      "source": "imported"
+    },
+    {
+      "start": 168.006,
+      "end": 169.495,
+      "text": "I got to get away",
+      "source": "imported"
+    },
+    {
+      "start": 169.495,
+      "end": 171.82,
+      "text": "I want to get away",
+      "source": "imported"
+    },
+    {
+      "start": 171.82,
+      "end": 175.686,
+      "text": "I want to get away",
+      "source": "imported"
+    },
+    {
+      "start": 175.686,
+      "end": 177.933,
+      "text": "I want to get away",
+      "source": "imported"
+    },
+    {
+      "start": 177.933,
+      "end": 180.415,
+      "text": "I want to get away",
+      "source": "imported"
+    },
+    {
+      "start": 180.415,
+      "end": 181.329,
+      "text": "Yea",
+      "source": "imported"
+    },
+    {
+      "start": 181.329,
+      "end": 184.359,
+      "text": "I want to get away",
+      "source": "imported"
+    },
+    {
+      "start": 184.359,
+      "end": 188.095,
+      "text": "I want to fly away",
+      "source": "imported"
+    },
+    {
+      "start": 188.095,
+      "end": 191.7,
+      "text": "Yea, yea, yea",
+      "source": "imported"
+    },
+    {
+      "start": 191.7,
+      "end": 191.856,
+      "text": "(With you )",
+      "source": "imported"
+    },
+    {
+      "start": 191.856,
+      "end": 193.424,
+      "text": "Girl I got to get away",
+      "source": "imported"
+    },
+    {
+      "start": 193.424,
+      "end": 195.905,
+      "text": "I want to get away",
+      "source": "imported"
+    },
+    {
+      "start": 195.905,
+      "end": 199.301,
+      "text": "I want to get away",
+      "source": "imported"
+    },
+    {
+      "start": 199.301,
+      "end": 201.966,
+      "text": "I want to get away",
+      "source": "imported"
+    },
+    {
+      "start": 201.966,
+      "end": 204.16,
+      "text": "I want to get away",
+      "source": "imported"
+    },
+    {
+      "start": 204.16,
+      "end": 205.362,
+      "text": "Yea",
+      "source": "imported"
+    },
+    {
+      "start": 205.362,
+      "end": 208.627,
+      "text": "I want to get away",
+      "source": "imported"
+    },
+    {
+      "start": 208.627,
+      "end": 212.049,
+      "text": "I want to fly away",
+      "source": "imported"
+    },
+    {
+      "start": 212.049,
+      "end": 215.654,
+      "text": "Yea, yea, yea",
+      "source": "imported"
+    },
+    {
+      "start": 215.654,
+      "end": 215.837,
+      "text": "(With you )",
+      "source": "imported"
+    },
+    {
+      "start": 215.837,
+      "end": 220.837,
+      "text": "Yea, yea, yea, yea, yea",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 2.7167,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 4.2725,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 5.5496,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 7.2678,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 8.5449,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 10.2864,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 11.5403,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 13.2586,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 14.5125,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 16.2307,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 17.7168,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 19.2261,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 20.5264,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 22.0357,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 23.5218,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 25.2169,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 32.7169,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 34.5977,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 37.4073,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 38.7077,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 40.5653,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 49.4121,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 50.7124,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 52.2217,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 53.731,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 55.2171,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 56.7263,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 58.3285,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 59.7217,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 61.3936,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 62.7171,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 64.2264,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 65.7125,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 67.2218,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 68.7311,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 70.2171,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 71.889,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 73.2357,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 74.7218,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 76.2311,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 77.9029,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 79.4122,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.9215,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 82.3844,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 83.9169,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 85.2172,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 86.9123,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 88.4216,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 89.7219,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 91.417,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 92.903,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 94.2266,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 95.9216,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 97.4077,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 98.7312,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 100.2173,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 101.9124,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 103.6074,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 104.722,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 106.5332,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 107.9263,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 109.5982,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.8985,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 112.3846,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 113.9171,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 115.5889,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 116.9357,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 118.5146,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 120.0936,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 121.5797,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 123.089,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 124.5751,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 125.7128,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 126.6649,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 127.4079,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 128.894,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 130.7748,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 132.6556,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 133.5844,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 135.4652,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 139.5751,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 141.6649,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 145.7749,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 146.9359,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 148.5845,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 149.908,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 151.6031,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 153.0892,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 154.6449,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 156.131,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 157.7099,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 159.1031,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 160.5892,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 161.9127,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 163.5846,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 165.0939,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 166.7193,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 168.0893,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 169.5985,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 171.1078,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 172.5939,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 174.08,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 175.5893,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 177.0986,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 178.5847,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 180.094,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 181.789,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 183.1126,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 184.5986,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 186.0847,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 187.7798,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 189.1962,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 190.6823,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 192.2612,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 193.7473,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 195.0941,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 196.5801,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 198.2752,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 199.7613,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 201.0848,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 202.5709,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 204.2427,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 205.7752,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 207.0988,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 208.7706,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 210.2799,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 211.766,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 213.1592,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 214.7381,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 216.4564,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 217.9425,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 20.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 100.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 120.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 150.0,
+      "detail": "All Draws Out [Pgm 05:1] — 88 8888 888",
+      "source": "imported"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/Fly_Away_Lenny_Kravitz",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 61
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "other"
+  },
+  "created_at": "2026-10-24T06:41:01.116924+00:00",
+  "updated_at": "2026-10-24T06:41:01.117254+00:00"
+}

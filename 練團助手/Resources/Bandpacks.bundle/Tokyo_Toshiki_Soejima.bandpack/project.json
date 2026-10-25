@@ -1,0 +1,559 @@
+{
+  "schema_version": 1,
+  "id": "Tokyo_Toshiki_Soejima",
+  "song": {
+    "title": "Tokyo",
+    "artist": "Toshiki Soejima",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/Tokyo/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 205.0
+  },
+  "analysis": {
+    "bpm": 95.3,
+    "key": "F Major",
+    "confidence": {
+      "imported_key_rechecked": 1.0,
+      "major_tonic_score": 0.359,
+      "relative_minor_score": 0.075
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 20.0,
+      "source": "imported"
+    },
+    {
+      "id": "2_verse",
+      "label": "Verse",
+      "start": 20.0,
+      "end": 60.0,
+      "source": "imported"
+    },
+    {
+      "id": "3_section_3",
+      "label": "Section 3",
+      "start": 60.0,
+      "end": 100.0,
+      "source": "imported"
+    },
+    {
+      "id": "4_chorus",
+      "label": "Chorus",
+      "start": 100.0,
+      "end": 120.0,
+      "source": "imported"
+    },
+    {
+      "id": "5_section_2",
+      "label": "Section 2",
+      "start": 120.0,
+      "end": 150.0,
+      "source": "imported"
+    },
+    {
+      "id": "6_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 150.0,
+      "end": 190.0,
+      "source": "imported"
+    },
+    {
+      "id": "7_intro_rep",
+      "label": "Intro (Rep)",
+      "start": 190.0,
+      "end": 205.0,
+      "source": "imported"
+    }
+  ],
+  "lyrics": [],
+  "chords": [
+    {
+      "time": 0.0697,
+      "chord": "Bbmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 0.5573,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 5.596,
+      "chord": "Fmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 10.1471,
+      "chord": "Bbmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 25.2633,
+      "chord": "Fmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 30.0234,
+      "chord": "Bbmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 35.3872,
+      "chord": "Fmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 40.1473,
+      "chord": "Bbmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 43.9322,
+      "chord": "Gm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 45.395,
+      "chord": "Fmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 48.669,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 50.248,
+      "chord": "Bbmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 55.6118,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 56.0298,
+      "chord": "Fmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 58.9787,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 60.1861,
+      "chord": "Bbmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 64.7837,
+      "chord": "Gm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 66.0376,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 66.7806,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 69.1955,
+      "chord": "B7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 70.4958,
+      "chord": "Bbmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 74.5593,
+      "chord": "Gm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 75.8132,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 77.0902,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.8751,
+      "chord": "Bbmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 85.2869,
+      "chord": "Gm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 86.2621,
+      "chord": "Fmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 87.1909,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 90.9061,
+      "chord": "Bbmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 96.0377,
+      "chord": "Fmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 96.9898,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 100.9139,
+      "chord": "Bbmaj7/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 106.2545,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 111.27,
+      "chord": "Bbmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 115.9605,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 117.1215,
+      "chord": "Fmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 119.5363,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 121.6261,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 124.459,
+      "chord": "C7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 126.6649,
+      "chord": "F/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 129.4977,
+      "chord": "Fmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 131.4017,
+      "chord": "Bbmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 136.9977,
+      "chord": "Fmaj7/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 141.5256,
+      "chord": "Bbmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 146.8662,
+      "chord": "Fmaj7/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 150.3492,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 151.3012,
+      "chord": "Fmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 151.9282,
+      "chord": "Bbmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 155.4112,
+      "chord": "Gm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 156.0381,
+      "chord": "C7/E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 157.1991,
+      "chord": "Fmaj7/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 160.4499,
+      "chord": "Am7/G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 161.7038,
+      "chord": "Bbmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 167.6016,
+      "chord": "C/G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 168.2054,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 169.9468,
+      "chord": "C7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 170.4345,
+      "chord": "Bbmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 176.7503,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 180.9763,
+      "chord": "Fmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 182.1373,
+      "chord": "Bbmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 183.5305,
+      "chord": "Gm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 187.6172,
+      "chord": "Fmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 188.8711,
+      "chord": "Am7/G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 189.707,
+      "chord": "Gm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 191.1002,
+      "chord": "F7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 191.6111,
+      "chord": "Bbmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 193.5848,
+      "chord": "Gm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 197.2767,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 0.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 20.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 60.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 100.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 120.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 150.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 190.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/Tokyo",
+    "lyrics_source": "",
+    "lyrics_candidates": [
+      {
+        "source": "gp_chorus_import",
+        "status": "missing",
+        "line_count": 0
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "piano"
+  },
+  "created_at": "2026-10-24T06:41:01.154246+00:00",
+  "updated_at": "2026-10-24T06:41:01.154255+00:00"
+}

@@ -1,0 +1,1143 @@
+{
+  "schema_version": 1,
+  "id": "Zombie_The_Cranberries",
+  "song": {
+    "title": "Zombie",
+    "artist": "The Cranberries",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/Zombie_The_Cranberries/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 307.0
+  },
+  "analysis": {
+    "bpm": 82.7,
+    "key": "G Major",
+    "confidence": {
+      "imported_key_rechecked": 1.0,
+      "major_tonic_score": 0.254,
+      "relative_minor_score": 0.308
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 10.0,
+      "source": "imported"
+    },
+    {
+      "id": "2_chorus",
+      "label": "Chorus",
+      "start": 10.0,
+      "end": 20.0,
+      "source": "imported"
+    },
+    {
+      "id": "3_section_2",
+      "label": "Section 2",
+      "start": 20.0,
+      "end": 40.0,
+      "source": "imported"
+    },
+    {
+      "id": "4_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 40.0,
+      "end": 90.0,
+      "source": "imported"
+    },
+    {
+      "id": "5_section_2_rep",
+      "label": "Section 2 (Rep)",
+      "start": 90.0,
+      "end": 100.0,
+      "source": "imported"
+    },
+    {
+      "id": "6_verse",
+      "label": "Verse",
+      "start": 100.0,
+      "end": 120.0,
+      "source": "imported"
+    },
+    {
+      "id": "7_section_2_rep",
+      "label": "Section 2 (Rep)",
+      "start": 120.0,
+      "end": 130.0,
+      "source": "imported"
+    },
+    {
+      "id": "8_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 130.0,
+      "end": 180.0,
+      "source": "imported"
+    },
+    {
+      "id": "9_section_2_rep",
+      "label": "Section 2 (Rep)",
+      "start": 180.0,
+      "end": 190.0,
+      "source": "imported"
+    },
+    {
+      "id": "10_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 190.0,
+      "end": 230.0,
+      "source": "imported"
+    },
+    {
+      "id": "11_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 230.0,
+      "end": 240.0,
+      "source": "imported"
+    },
+    {
+      "id": "12_section_1",
+      "label": "Section 1",
+      "start": 240.0,
+      "end": 250.0,
+      "source": "imported"
+    },
+    {
+      "id": "13_section_2_rep",
+      "label": "Section 2 (Rep)",
+      "start": 250.0,
+      "end": 260.0,
+      "source": "imported"
+    },
+    {
+      "id": "14_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 260.0,
+      "end": 290.0,
+      "source": "imported"
+    },
+    {
+      "id": "15_section_1_rep",
+      "label": "Section 1 (Rep)",
+      "start": 290.0,
+      "end": 307.0,
+      "source": "imported"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 49.61,
+      "end": 54.15,
+      "text": "Another head hangs lowly",
+      "source": "imported"
+    },
+    {
+      "start": 54.15,
+      "end": 60.99,
+      "text": "Child is slowly taken",
+      "source": "imported"
+    },
+    {
+      "start": 60.99,
+      "end": 65.78,
+      "text": "And the violence caused such silence",
+      "source": "imported"
+    },
+    {
+      "start": 65.78,
+      "end": 70.82,
+      "text": "Who are we mistaken",
+      "source": "imported"
+    },
+    {
+      "start": 70.82,
+      "end": 73.77,
+      "text": "But you see it's not me",
+      "source": "imported"
+    },
+    {
+      "start": 73.77,
+      "end": 76.7,
+      "text": "It's not my family",
+      "source": "imported"
+    },
+    {
+      "start": 76.7,
+      "end": 82.59,
+      "text": "In your head in your head they are fighting",
+      "source": "imported"
+    },
+    {
+      "start": 82.59,
+      "end": 85.4,
+      "text": "With their tanks and their bombs",
+      "source": "imported"
+    },
+    {
+      "start": 85.4,
+      "end": 88.31,
+      "text": "And their bombs and their guns",
+      "source": "imported"
+    },
+    {
+      "start": 88.31,
+      "end": 94.66,
+      "text": "In your head in your head they are crying",
+      "source": "imported"
+    },
+    {
+      "start": 94.66,
+      "end": 100.03,
+      "text": "In your head in your head",
+      "source": "imported"
+    },
+    {
+      "start": 100.03,
+      "end": 104.22,
+      "text": "Zombie zombie zombie",
+      "source": "imported"
+    },
+    {
+      "start": 104.22,
+      "end": 105.71000000000001,
+      "text": "Ey ey ey",
+      "source": "imported"
+    },
+    {
+      "start": 105.71000000000001,
+      "end": 111.52000000000001,
+      "text": "What's in your head in your head",
+      "source": "imported"
+    },
+    {
+      "start": 111.52000000000001,
+      "end": 115.08,
+      "text": "Zombie zombie zombie",
+      "source": "imported"
+    },
+    {
+      "start": 115.08,
+      "end": 118.46000000000001,
+      "text": "Ey ey ey ey oh",
+      "source": "imported"
+    },
+    {
+      "start": 118.46000000000001,
+      "end": 121.71,
+      "text": "Du du du du",
+      "source": "imported"
+    },
+    {
+      "start": 121.71,
+      "end": 124.49,
+      "text": "Du du du du",
+      "source": "imported"
+    },
+    {
+      "start": 124.49,
+      "end": 127.43,
+      "text": "Du du du du",
+      "source": "imported"
+    },
+    {
+      "start": 127.43,
+      "end": 132.93,
+      "text": "Du du du du",
+      "source": "imported"
+    },
+    {
+      "start": 142.39,
+      "end": 146.91,
+      "text": "Another mother's breaking",
+      "source": "imported"
+    },
+    {
+      "start": 146.91,
+      "end": 153.57,
+      "text": "Heart is taking over",
+      "source": "imported"
+    },
+    {
+      "start": 153.57,
+      "end": 158.42000000000002,
+      "text": "When the violence causes silence",
+      "source": "imported"
+    },
+    {
+      "start": 158.42000000000002,
+      "end": 163.57,
+      "text": "We must be mistaken",
+      "source": "imported"
+    },
+    {
+      "start": 163.57,
+      "end": 166.32999999999998,
+      "text": "It's the same old theme",
+      "source": "imported"
+    },
+    {
+      "start": 166.32999999999998,
+      "end": 169.17000000000002,
+      "text": "Since nineteen-sixteen",
+      "source": "imported"
+    },
+    {
+      "start": 169.17000000000002,
+      "end": 175.06,
+      "text": "In your head in your head they're still fighting",
+      "source": "imported"
+    },
+    {
+      "start": 175.06,
+      "end": 177.7,
+      "text": "With their tanks and their bombs",
+      "source": "imported"
+    },
+    {
+      "start": 177.7,
+      "end": 180.7,
+      "text": "And their bombs and their guns",
+      "source": "imported"
+    },
+    {
+      "start": 180.7,
+      "end": 186.85,
+      "text": "In your head in your head they are dying",
+      "source": "imported"
+    },
+    {
+      "start": 186.85,
+      "end": 192.13,
+      "text": "In your head in your head",
+      "source": "imported"
+    },
+    {
+      "start": 192.13,
+      "end": 195.86,
+      "text": "Zombie zombie zombie",
+      "source": "imported"
+    },
+    {
+      "start": 195.86,
+      "end": 197.76,
+      "text": "Ey ey ey",
+      "source": "imported"
+    },
+    {
+      "start": 197.76,
+      "end": 203.57,
+      "text": "What's in your head in your head",
+      "source": "imported"
+    },
+    {
+      "start": 203.57,
+      "end": 206.88,
+      "text": "Zombie zombie zombie",
+      "source": "imported"
+    },
+    {
+      "start": 206.88,
+      "end": 209.72,
+      "text": "Ey ey ey ey",
+      "source": "imported"
+    },
+    {
+      "start": 209.72,
+      "end": 214.73,
+      "text": "Oh oh oh oh oh oh oh",
+      "source": "imported"
+    },
+    {
+      "start": 214.73,
+      "end": 219.73,
+      "text": "Ey oh la la la",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 1.2074,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 4.435,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 7.709,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 11.3313,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 14.0016,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 17.1828,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 20.062,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 22.9413,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 25.7045,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 28.8624,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 31.8578,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 34.7603,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 37.5002,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 40.7742,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 44.3966,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 46.4167,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 49.3656,
+      "chord": "Em7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 50.0854,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 52.2913,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 55.3564,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 58.1428,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 61.0917,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 64.0174,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 67.2682,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 70.2171,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 72.6785,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 75.906,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 78.6692,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 81.92,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 84.2884,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 87.3999,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 90.1399,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 93.7854,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 96.1306,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 99.1028,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 102.0749,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 102.818,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 104.9774,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 107.5548,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.3412,
+      "chord": "Fm/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 111.1075,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 113.4991,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 116.4945,
+      "chord": "Eb/G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 119.2577,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 120.4419,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 122.2531,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 125.1091,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 127.524,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 128.4296,
+      "chord": "Eb/G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 129.4977,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 130.8677,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 134.0256,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 136.9049,
+      "chord": "Em7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 137.4389,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 139.6216,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 142.5009,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 145.4266,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 148.422,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 151.2083,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 154.0644,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 156.874,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 160.0784,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 162.7719,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 165.5583,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 168.693,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 171.6883,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 174.5444,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 177.0522,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 179.9314,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 182.9732,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 186.0151,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 188.6389,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 190.5894,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 192.0987,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 194.3975,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 196.7659,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 197.1839,
+      "chord": "Eb/G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 199.9702,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 203.0353,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 206.0539,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 208.8403,
+      "chord": "Eb/G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 210.7211,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 211.2551,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 214.4595,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 217.153,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 222.6329,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 225.698,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 228.345,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 234.0571,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 242.486,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 244.5526,
+      "chord": "Em7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 247.9891,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 250.3343,
+      "chord": "Em7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 250.6826,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 253.3994,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 255.0712,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 258.9257,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 261.7121,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 264.4753,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 267.2617,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 270.3732,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 271.9521,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 272.7648,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 273.5311,
+      "chord": "Gmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 275.8066,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 277.3391,
+      "chord": "Gmaj7/B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 278.1983,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 280.9382,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 283.655,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 285.0249,
+      "chord": "Gmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 286.6968,
+      "chord": "F#m7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 287.3702,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 289.1349,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 292.1767,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 293.1984,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 297.2619,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 300.025,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 300.8842,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 303.0901,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 20.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 100.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 190.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 230.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 250.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 260.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/Zombie_The_Cranberries",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 38
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "other"
+  },
+  "created_at": "2026-10-24T06:41:01.166347+00:00",
+  "updated_at": "2026-10-24T06:41:01.166582+00:00"
+}

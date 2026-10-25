@@ -1,0 +1,680 @@
+{
+  "schema_version": 1,
+  "id": "愛瘋了_婭薇",
+  "song": {
+    "title": "愛瘋了",
+    "artist": "婭薇",
+    "source_url": "",
+    "audio_path": "/Users/freddietw/GP-AI-Projects/練團助手/data/media/愛瘋了_婭薇/original.mp4",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "",
+    "duration_sec": 259.24
+  },
+  "analysis": {
+    "bpm": 129.2,
+    "key": "B Major",
+    "confidence": {
+      "local_audio_tempo": 0.75,
+      "local_audio_key": 0.65,
+      "web_chord_reference": 0.65,
+      "lyrics_manual_required": 1.0
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 7.4303,
+      "source": "web"
+    },
+    {
+      "id": "2_verse",
+      "label": "Verse",
+      "start": 7.4303,
+      "end": 20.4334,
+      "source": "web"
+    },
+    {
+      "id": "3_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 20.4334,
+      "end": 33.4365,
+      "source": "web"
+    },
+    {
+      "id": "4_chorus",
+      "label": "Chorus",
+      "start": 33.4365,
+      "end": 52.0124,
+      "source": "web"
+    },
+    {
+      "id": "5_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 52.0124,
+      "end": 65.0155,
+      "source": "web"
+    },
+    {
+      "id": "6_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 65.0155,
+      "end": 81.7337,
+      "source": "web"
+    },
+    {
+      "id": "7_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 81.7337,
+      "end": 100.3096,
+      "source": "web"
+    },
+    {
+      "id": "8_outro_wait",
+      "label": "Outro / Vamp",
+      "start": 100.3096,
+      "end": 256.28,
+      "source": "web"
+    }
+  ],
+  "lyrics": [],
+  "chords": [
+    {
+      "time": 0.0,
+      "chord": "Bmaj7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 1.8576,
+      "chord": "A#m7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 3.7152,
+      "chord": "Bmaj7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 5.5728,
+      "chord": "D#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 6.5015,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 7.4303,
+      "chord": "Bmaj7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 9.2879,
+      "chord": "A#m7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 11.1455,
+      "chord": "Bmaj7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 11.7647,
+      "chord": "D#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 12.3839,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 13.0031,
+      "chord": "A#m7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 14.8607,
+      "chord": "D#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 16.7183,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 18.5759,
+      "chord": "C#sus4",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 19.5046,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 20.4334,
+      "chord": "Bmaj7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 22.291,
+      "chord": "A#m7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 24.1486,
+      "chord": "Bmaj7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 24.7678,
+      "chord": "D#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 25.387,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 26.0062,
+      "chord": "A#m7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 27.8638,
+      "chord": "D#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 29.7214,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 31.5789,
+      "chord": "C#sus4",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 32.5077,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 33.4365,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 35.2941,
+      "chord": "A#m7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 36.2229,
+      "chord": "D#m7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 37.1517,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 37.6161,
+      "chord": "F#/A#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 38.0805,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 38.5449,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 39.0093,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 40.8669,
+      "chord": "A#m7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 41.7957,
+      "chord": "D#m7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 42.7245,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 43.1889,
+      "chord": "F#/A#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 43.6533,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 44.1176,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 44.582,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 46.4396,
+      "chord": "A#m7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 48.2972,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 50.1548,
+      "chord": "D#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 51.0836,
+      "chord": "D#m/C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 52.0124,
+      "chord": "Bmaj7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 53.87,
+      "chord": "A#m7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 55.7276,
+      "chord": "Bmaj7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 56.3467,
+      "chord": "D#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 56.9659,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 57.5851,
+      "chord": "A#m7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 59.4427,
+      "chord": "D#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 61.3003,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 63.1579,
+      "chord": "C#sus4",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 64.0867,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 65.0155,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 66.8731,
+      "chord": "A#m7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 67.8019,
+      "chord": "D#m7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 68.7307,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 69.195,
+      "chord": "F#/A#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 69.6594,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 70.1238,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 70.5882,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 72.4458,
+      "chord": "A#m7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 73.3746,
+      "chord": "D#m7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 74.3034,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 74.7678,
+      "chord": "F#/A#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 75.2322,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 75.6966,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 76.161,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 78.0186,
+      "chord": "F#/A#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 78.9474,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 79.8762,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 81.7337,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 83.5913,
+      "chord": "A#m7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 84.5201,
+      "chord": "D#m7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 85.4489,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 85.9133,
+      "chord": "F#/A#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 86.3777,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 86.8421,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 87.3065,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 89.1641,
+      "chord": "A#m7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 90.0929,
+      "chord": "D#m7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 91.0217,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 91.4861,
+      "chord": "F#/A#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 91.9505,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 92.4149,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 92.8793,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 94.7368,
+      "chord": "A#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 96.5944,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 97.5232,
+      "chord": "A#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 98.452,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 100.3096,
+      "chord": "B",
+      "source": "web",
+      "confidence": 0.45
+    }
+  ],
+  "band_notes": [],
+  "exports": {},
+  "sources": {
+    "media_import": "/Users/freddietw/Desktop/water1777975350.MP4",
+    "media_original": "/Users/freddietw/GP-AI-Projects/練團助手/data/media/water1777975350/original.mp4",
+    "lyrics_source": "needs_manual_lrc",
+    "lyrics_status": "copyright_restricted_user_input_required",
+    "chord_source": "web_reference_plus_manual_timing",
+    "chord_status": "draft_needs_rehearsal_check",
+    "media_import_original_filename": "water1777975350.MP4",
+    "metadata_source": "manual_user_provided",
+    "metadata_refs": [
+      {
+        "source": "Shazam",
+        "url": "https://www.shazam.com/zh-tw/song/908275293/%E6%84%9B%E7%98%8B%E4%BA%86",
+        "note": "戴佩妮版本 metadata / BPM reference"
+      },
+      {
+        "source": "Chord4",
+        "url": "https://chord4.com/zh-hant/tabs/20289",
+        "note": "戴佩妮版本和弦參考；依本地音訊轉為 B Major"
+      }
+    ],
+    "lyrics_refs": [
+      {
+        "source": "Shazam",
+        "url": "https://www.shazam.com/zh-tw/song/908275293/%E6%84%9B%E7%98%8B%E4%BA%86",
+        "status": "reference_only_copyrighted"
+      }
+    ],
+    "completion_note": "Chord skeleton prepared from public metadata/chord references and local audio BPM/key. Full lyrics require user-provided or licensed LRC.",
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "piano"
+  },
+  "created_at": "2026-05-07T15:03:25.638480+00:00",
+  "updated_at": "2026-05-07T15:03:25.638489+00:00"
+}

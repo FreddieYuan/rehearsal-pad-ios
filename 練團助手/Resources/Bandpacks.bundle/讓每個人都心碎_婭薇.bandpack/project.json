@@ -1,0 +1,609 @@
+{
+  "schema_version": 1,
+  "id": "讓每個人都心碎_婭薇",
+  "song": {
+    "title": "讓每個人都心碎",
+    "artist": "婭薇",
+    "source_url": "",
+    "audio_path": "/Users/freddietw/GP-AI-Projects/練團助手/data/media/讓每個人都心碎_婭薇/original.mp4",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "",
+    "duration_sec": 307.72
+  },
+  "analysis": {
+    "bpm": 103.4,
+    "key": "C# Major",
+    "confidence": {
+      "local_audio_tempo": 0.75,
+      "local_audio_key": 0.65,
+      "web_chord_reference": 0.65,
+      "lyrics_manual_required": 1.0
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 18.5687,
+      "source": "web"
+    },
+    {
+      "id": "2_verse",
+      "label": "Verse",
+      "start": 18.5687,
+      "end": 37.1373,
+      "source": "web"
+    },
+    {
+      "id": "3_pre-chorus",
+      "label": "Pre-Chorus",
+      "start": 37.1373,
+      "end": 46.4217,
+      "source": "web"
+    },
+    {
+      "id": "4_chorus",
+      "label": "Chorus",
+      "start": 46.4217,
+      "end": 64.9903,
+      "source": "web"
+    },
+    {
+      "id": "5_interlude",
+      "label": "Interlude",
+      "start": 64.9903,
+      "end": 83.559,
+      "source": "web"
+    },
+    {
+      "id": "6_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 83.559,
+      "end": 102.1277,
+      "source": "web"
+    },
+    {
+      "id": "7_pre-chorus_rep",
+      "label": "Pre-Chorus (Rep)",
+      "start": 102.1277,
+      "end": 111.412,
+      "source": "web"
+    },
+    {
+      "id": "8_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 111.412,
+      "end": 129.9807,
+      "source": "web"
+    },
+    {
+      "id": "9_ending",
+      "label": "Ending",
+      "start": 129.9807,
+      "end": 148.5493,
+      "source": "web"
+    },
+    {
+      "id": "10_outro_wait",
+      "label": "Outro / Vamp",
+      "start": 148.5493,
+      "end": 307.72,
+      "source": "web"
+    }
+  ],
+  "lyrics": [],
+  "chords": [
+    {
+      "time": 0.0,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 2.3211,
+      "chord": "G#/C",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 4.6422,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 6.9632,
+      "chord": "F#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 9.2843,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 11.6054,
+      "chord": "G#/C",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 13.9265,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 16.2476,
+      "chord": "G#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 18.5687,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 20.8897,
+      "chord": "G#/C",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 23.2108,
+      "chord": "A#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 25.5319,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 26.6925,
+      "chord": "G#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 27.853,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 30.1741,
+      "chord": "G#/C",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 32.4952,
+      "chord": "A#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 34.8162,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 35.9768,
+      "chord": "G#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 37.1373,
+      "chord": "A#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 39.4584,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 41.7795,
+      "chord": "A#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 44.1006,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 45.2611,
+      "chord": "G#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 46.4217,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 48.7427,
+      "chord": "G#/C",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 51.0638,
+      "chord": "A#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 53.3849,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 55.706,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 58.0271,
+      "chord": "G#/C",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 60.3482,
+      "chord": "A#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 62.6692,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 63.8298,
+      "chord": "G#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 64.9903,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 67.3114,
+      "chord": "G#/C",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 69.6325,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 71.9536,
+      "chord": "F#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 74.2747,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 76.5957,
+      "chord": "G#/C",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 78.9168,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 81.2379,
+      "chord": "G#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 83.559,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 85.8801,
+      "chord": "G#/C",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 88.2012,
+      "chord": "A#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 90.5222,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 91.6828,
+      "chord": "G#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 92.8433,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 95.1644,
+      "chord": "G#/C",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 97.4855,
+      "chord": "A#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 99.8066,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 100.9671,
+      "chord": "G#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 102.1277,
+      "chord": "A#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 104.4487,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 106.7698,
+      "chord": "A#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 109.0909,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 110.2515,
+      "chord": "G#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 111.412,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 113.7331,
+      "chord": "G#/C",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 116.0542,
+      "chord": "A#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 118.3752,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 120.6963,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 123.0174,
+      "chord": "G#/C",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 125.3385,
+      "chord": "A#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 127.6596,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 128.8201,
+      "chord": "G#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 129.9807,
+      "chord": "G#/C",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 131.1412,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 132.3017,
+      "chord": "F7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 134.6228,
+      "chord": "A#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 136.9439,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 139.265,
+      "chord": "G#/C",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 140.4255,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 141.5861,
+      "chord": "F7",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 143.9072,
+      "chord": "A#m",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 144.6809,
+      "chord": "F#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 145.4545,
+      "chord": "G#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 146.2282,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.65
+    },
+    {
+      "time": 148.5493,
+      "chord": "C#",
+      "source": "web",
+      "confidence": 0.45
+    }
+  ],
+  "band_notes": [],
+  "exports": {},
+  "sources": {
+    "media_import": "/Users/freddietw/Desktop/8ae2d9fa51bd3fbecd0c0c61a3780d67.mp4",
+    "media_original": "/Users/freddietw/GP-AI-Projects/練團助手/data/media/8ae2d9fa51bd3fbecd0c0c61a3780d67/original.mp4",
+    "lyrics_source": "needs_manual_lrc",
+    "lyrics_status": "copyright_restricted_user_input_required",
+    "chord_source": "web_reference_plus_manual_timing",
+    "chord_status": "draft_needs_rehearsal_check",
+    "media_import_original_filename": "8ae2d9fa51bd3fbecd0c0c61a3780d67.mp4",
+    "metadata_source": "manual_user_provided",
+    "metadata_refs": [
+      {
+        "source": "Shazam",
+        "url": "https://www.shazam.com/zh-tw/song/1532253761/%E8%AE%93%E6%AF%8F%E5%80%8B%E4%BA%BA%E9%83%BD%E5%BF%83%E7%A2%8E",
+        "note": "黃大煒版本 metadata / BPM reference"
+      },
+      {
+        "source": "Chord4",
+        "url": "https://chord4.com/zh-hant/tabs/13006",
+        "note": "張惠妹版本和弦參考；依本地音訊轉為 C# Major"
+      }
+    ],
+    "lyrics_refs": [
+      {
+        "source": "Shazam",
+        "url": "https://www.shazam.com/zh-tw/song/1532253761/%E8%AE%93%E6%AF%8F%E5%80%8B%E4%BA%BA%E9%83%BD%E5%BF%83%E7%A2%8E",
+        "status": "reference_only_copyrighted"
+      },
+      {
+        "source": "Mulanci",
+        "url": "https://www.mulanci.org/lyric/tl149561/",
+        "status": "reference_only_copyrighted"
+      }
+    ],
+    "completion_note": "Chord skeleton prepared from public metadata/chord references and local audio BPM/key. Full lyrics require user-provided or licensed LRC.",
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "piano"
+  },
+  "created_at": "2026-05-07T15:03:25.637791+00:00",
+  "updated_at": "2026-05-07T15:03:25.637927+00:00"
+}

@@ -1,0 +1,282 @@
+{
+  "format": "rehearsal-assistant-bandpack-index",
+  "schema_version": 1,
+  "packs": [
+    {
+      "project_id": "A_Thousand_Miles_Vanessa_Carlton",
+      "path": "A_Thousand_Miles_Vanessa_Carlton.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "All_Over_Now_Great_White",
+      "path": "All_Over_Now_Great_White.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "All_Summer_Long_Kid_Rock",
+      "path": "All_Summer_Long_Kid_Rock.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "Alone_Heart",
+      "path": "Alone_Heart.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "Animal_Instinct_The_Cranberries",
+      "path": "Animal_Instinct_The_Cranberries.bandpack",
+      "audio_copied": true,
+      "source_count": 2
+    },
+    {
+      "project_id": "Antonio_s_Song_Masayoshi_Takanaka",
+      "path": "Antonio_s_Song_Masayoshi_Takanaka.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "Aubrey_Masayoshi_Takanaka",
+      "path": "Aubrey_Masayoshi_Takanaka.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "Bon_Jovi-Born_To_Be_My_Baby_Lyrics",
+      "path": "Bon_Jovi-Born_To_Be_My_Baby_Lyrics.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "Cissy_Strut",
+      "path": "Cissy_Strut.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "Dont_Let_Me_Down_The_Beatles",
+      "path": "Dont_Let_Me_Down_The_Beatles.bandpack",
+      "audio_copied": true,
+      "source_count": 2
+    },
+    {
+      "project_id": "Dreams_The_Cranberries",
+      "path": "Dreams_The_Cranberries.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "First_Love_宇多田ヒカル",
+      "path": "First_Love_宇多田ヒカル.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "Flowers_Miley_Cyrus",
+      "path": "Flowers_Miley_Cyrus.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "Fly_Away_Lenny_Kravitz",
+      "path": "Fly_Away_Lenny_Kravitz.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "Green_Onions_The_Ventures",
+      "path": "Green_Onions_The_Ventures.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "I_Feel_the_Earth_Move_Carole_King",
+      "path": "I_Feel_the_Earth_Move_Carole_King.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "If_It_Makes_You_Happy_Sheryl_Crow",
+      "path": "If_It_Makes_You_Happy_Sheryl_Crow.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "Kiss_Me_Sixpence_None_The_Richer",
+      "path": "Kiss_Me_Sixpence_None_The_Richer.bandpack",
+      "audio_copied": true,
+      "source_count": 2
+    },
+    {
+      "project_id": "Love_Again_Dua_Lipa",
+      "path": "Love_Again_Dua_Lipa.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "Put_Your_Records_On_Corinne_Bailey_Rae",
+      "path": "Put_Your_Records_On_Corinne_Bailey_Rae.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "Roxette_The_Look",
+      "path": "Roxette_The_Look.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "Runaway_Baby_Bruno_Mars",
+      "path": "Runaway_Baby_Bruno_Mars.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "She_Knows_林曉培_Shino_Lin",
+      "path": "She_Knows_林曉培_Shino_Lin.bandpack",
+      "audio_copied": true,
+      "source_count": 2
+    },
+    {
+      "project_id": "Smoke_On_the_Water_Deep_Purple",
+      "path": "Smoke_On_the_Water_Deep_Purple.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "THAT_S_THE_WAY_OF_THE_WORLD_高中正義",
+      "path": "THAT_S_THE_WAY_OF_THE_WORLD_高中正義.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "Tighten_Up_YMO",
+      "path": "Tighten_Up_YMO.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "Tokyo_Toshiki_Soejima",
+      "path": "Tokyo_Toshiki_Soejima.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "Venus_孫燕姿",
+      "path": "Venus_孫燕姿.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "WE_RE_ALL_ALONE_高中正義",
+      "path": "WE_RE_ALL_ALONE_高中正義.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "Zombie_The_Cranberries",
+      "path": "Zombie_The_Cranberries.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "不再猶豫_Beyond",
+      "path": "不再猶豫_Beyond.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "你要的愛_戴佩妮",
+      "path": "你要的愛_戴佩妮.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "天亮以前說再見_四熹丸子",
+      "path": "天亮以前說再見_四熹丸子.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "心動_陳潔儀",
+      "path": "心動_陳潔儀.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "愛瘋了_婭薇",
+      "path": "愛瘋了_婭薇.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "愛缺_陶晶瑩",
+      "path": "愛缺_陶晶瑩.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "未接來電_楊乃文",
+      "path": "未接來電_楊乃文.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "海闊天空_Beyond",
+      "path": "海闊天空_Beyond.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "燕尾蝶_梁靜茹",
+      "path": "燕尾蝶_梁靜茹.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "盆栽_倒車入庫",
+      "path": "盆栽_倒車入庫.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "相愛後動物感傷_阿密特",
+      "path": "相愛後動物感傷_阿密特.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "第15個耳洞_戴佩妮",
+      "path": "第15個耳洞_戴佩妮.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "自由_張震嶽",
+      "path": "自由_張震嶽.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "說不出口_楊乃文",
+      "path": "說不出口_楊乃文.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "讓每個人都心碎_婭薇",
+      "path": "讓每個人都心碎_婭薇.bandpack",
+      "audio_copied": true,
+      "source_count": 0
+    },
+    {
+      "project_id": "靜止_楊乃文",
+      "path": "靜止_楊乃文.bandpack",
+      "audio_copied": true,
+      "source_count": 1
+    }
+  ]
+}

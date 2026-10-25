@@ -1,0 +1,1149 @@
+{
+  "schema_version": 1,
+  "id": "Venus_孫燕姿",
+  "song": {
+    "title": "Venus",
+    "artist": "孫燕姿",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/Venus_孫燕姿/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 211.42000000000002
+  },
+  "analysis": {
+    "bpm": 125.0,
+    "key": "D Major",
+    "confidence": {
+      "imported_key_rechecked": 1.0,
+      "major_tonic_score": 0.128,
+      "relative_minor_score": 0.132
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 10.0,
+      "source": "imported"
+    },
+    {
+      "id": "2_verse",
+      "label": "Verse",
+      "start": 10.0,
+      "end": 40.0,
+      "source": "imported"
+    },
+    {
+      "id": "3_chorus",
+      "label": "Chorus",
+      "start": 40.0,
+      "end": 60.0,
+      "source": "imported"
+    },
+    {
+      "id": "4_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 60.0,
+      "end": 80.0,
+      "source": "imported"
+    },
+    {
+      "id": "5_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 80.0,
+      "end": 100.0,
+      "source": "imported"
+    },
+    {
+      "id": "6_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 100.0,
+      "end": 110.0,
+      "source": "imported"
+    },
+    {
+      "id": "7_section_2",
+      "label": "Section 2",
+      "start": 110.0,
+      "end": 130.0,
+      "source": "imported"
+    },
+    {
+      "id": "8_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 130.0,
+      "end": 150.0,
+      "source": "imported"
+    },
+    {
+      "id": "9_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 150.0,
+      "end": 160.0,
+      "source": "imported"
+    },
+    {
+      "id": "10_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 160.0,
+      "end": 190.0,
+      "source": "imported"
+    },
+    {
+      "id": "11_section_4",
+      "label": "Section 4",
+      "start": 190.0,
+      "end": 208.0,
+      "source": "imported"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 20.74,
+      "end": 23.6,
+      "text": "Goddess on the mountain top",
+      "source": "imported"
+    },
+    {
+      "start": 23.6,
+      "end": 28.6,
+      "text": "Burning like a silver flame",
+      "source": "imported"
+    },
+    {
+      "start": 28.6,
+      "end": 31.34,
+      "text": "The summit of beauty and love",
+      "source": "imported"
+    },
+    {
+      "start": 31.34,
+      "end": 35.81,
+      "text": "And Venus was her name",
+      "source": "imported"
+    },
+    {
+      "start": 35.81,
+      "end": 42.29,
+      "text": "She's got it?Yeah' baby' she's got it",
+      "source": "imported"
+    },
+    {
+      "start": 42.29,
+      "end": 47.35,
+      "text": "I'm your Venus' I'm your fire",
+      "source": "imported"
+    },
+    {
+      "start": 47.35,
+      "end": 50.94,
+      "text": "At your desire",
+      "source": "imported"
+    },
+    {
+      "start": 50.94,
+      "end": 54.83,
+      "text": "Well' I'm your Venus' I'm your fire",
+      "source": "imported"
+    },
+    {
+      "start": 54.83,
+      "end": 61.83,
+      "text": "At your desire",
+      "source": "imported"
+    },
+    {
+      "start": 62.85,
+      "end": 66.9,
+      "text": "Her weapons were her crystal eyes",
+      "source": "imported"
+    },
+    {
+      "start": 66.9,
+      "end": 70.8,
+      "text": "Making every man a man",
+      "source": "imported"
+    },
+    {
+      "start": 70.8,
+      "end": 73.87,
+      "text": "Black as the dark night she was",
+      "source": "imported"
+    },
+    {
+      "start": 73.87,
+      "end": 76.51,
+      "text": "Got what no-one else had",
+      "source": "imported"
+    },
+    {
+      "start": 76.51,
+      "end": 78.289,
+      "text": "Wa!",
+      "source": "imported"
+    },
+    {
+      "start": 78.289,
+      "end": 85.74,
+      "text": "She's got it?Yeah' baby' she's got it",
+      "source": "imported"
+    },
+    {
+      "start": 85.74,
+      "end": 90.0,
+      "text": "I'm your Venus' I'm your fire",
+      "source": "imported"
+    },
+    {
+      "start": 90.0,
+      "end": 94.9,
+      "text": "At your desire",
+      "source": "imported"
+    },
+    {
+      "start": 94.9,
+      "end": 97.31,
+      "text": "Well' I'm your Venus' I'm your fire",
+      "source": "imported"
+    },
+    {
+      "start": 97.31,
+      "end": 104.31,
+      "text": "At your desire",
+      "source": "imported"
+    },
+    {
+      "start": 125.33,
+      "end": 133.2,
+      "text": "She's got it?Yeah' baby' she's got it",
+      "source": "imported"
+    },
+    {
+      "start": 133.2,
+      "end": 138.28,
+      "text": "I'm your Venus' I'm your fire",
+      "source": "imported"
+    },
+    {
+      "start": 138.28,
+      "end": 141.26,
+      "text": "At your desire",
+      "source": "imported"
+    },
+    {
+      "start": 141.26,
+      "end": 145.92000000000002,
+      "text": "Well' I'm your Venus' I'm your fire",
+      "source": "imported"
+    },
+    {
+      "start": 145.92000000000002,
+      "end": 149.77,
+      "text": "At your desire",
+      "source": "imported"
+    },
+    {
+      "start": 149.77,
+      "end": 152.36,
+      "text": "Goddess on the mountain top",
+      "source": "imported"
+    },
+    {
+      "start": 152.36,
+      "end": 156.829,
+      "text": "Burning like a silver flame",
+      "source": "imported"
+    },
+    {
+      "start": 156.829,
+      "end": 160.51,
+      "text": "The summit of beauty and love",
+      "source": "imported"
+    },
+    {
+      "start": 160.51,
+      "end": 164.88,
+      "text": "And Venus was her name",
+      "source": "imported"
+    },
+    {
+      "start": 164.88,
+      "end": 172.23,
+      "text": "She's got it?Yeah' baby' she's got it",
+      "source": "imported"
+    },
+    {
+      "start": 172.23,
+      "end": 175.6,
+      "text": "I'm your Venus' I'm your fire",
+      "source": "imported"
+    },
+    {
+      "start": 175.6,
+      "end": 179.75,
+      "text": "At your desire",
+      "source": "imported"
+    },
+    {
+      "start": 179.75,
+      "end": 183.6,
+      "text": "Well' I'm your Venus' I'm your fire",
+      "source": "imported"
+    },
+    {
+      "start": 183.6,
+      "end": 190.32,
+      "text": "At your desire",
+      "source": "imported"
+    },
+    {
+      "start": 190.32,
+      "end": 196.579,
+      "text": "Yeah' baby' she's got it",
+      "source": "imported"
+    },
+    {
+      "start": 196.579,
+      "end": 204.579,
+      "text": "Yeah' baby' she's got it",
+      "source": "imported"
+    },
+    {
+      "start": 206.42000000000002,
+      "end": 211.42000000000002,
+      "text": "Yeah' baby' she's got it",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 1.9505,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 5.4799,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 8.8004,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 9.288,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 9.7524,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 12.6084,
+      "chord": "A/E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 15.2555,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 16.4165,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 16.9041,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 17.6239,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 18.0883,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 21.1998,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 24.0327,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 25.0079,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 27.8407,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 28.3283,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 28.816,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 35.4569,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 37.3841,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 38.3361,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 39.056,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 40.0312,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 43.0962,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 43.8161,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 45.7898,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 48.0189,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 48.8083,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 49.7604,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 51.2,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 51.6644,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 53.5684,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 55.635,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 59.4431,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 60.488,
+      "chord": "Bsus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 62.8796,
+      "chord": "Em/B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 64.2961,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 65.0159,
+      "chord": "Em7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 71.6568,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 72.6088,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 73.8162,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 74.5361,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 75.7203,
+      "chord": "A/E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 76.6955,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 77.3921,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 79.2961,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.2249,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 81.2002,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 82.1522,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 85.2405,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 86.2157,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 86.4479,
+      "chord": "C7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 88.3287,
+      "chord": "B7/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 90.0005,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 93.5764,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 95.4805,
+      "chord": "B7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 97.6167,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 100.2405,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 101.448,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 106.9511,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 109.1338,
+      "chord": "C7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.4805,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 112.9419,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 114.5208,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 116.9125,
+      "chord": "C7/Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 118.3521,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 120.2329,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 120.9527,
+      "chord": "C7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 122.8336,
+      "chord": "G7/B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 127.1525,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 128.1045,
+      "chord": "G/B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 129.0565,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 129.7763,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 130.9605,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 134.8151,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 136.4172,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 138.8089,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 141.6649,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 142.617,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 144.0334,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 144.7764,
+      "chord": "B7/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 146.425,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 149.2811,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 151.9049,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 154.8307,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 155.7362,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 160.4731,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 161.1697,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 161.6573,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 162.6326,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 163.097,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 164.3044,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 166.4174,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 167.3694,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 168.1125,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 169.2735,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 172.1295,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 173.1048,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 174.7534,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 176.8896,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 180.2333,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 180.7209,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 182.3695,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 184.5058,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 187.385,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 187.8494,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 188.5693,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 192.1451,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 195.0012,
+      "chord": "A/E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 195.9532,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 196.9052,
+      "chord": "A/E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 197.8572,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 198.8093,
+      "chord": "A/E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 199.7613,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 200.7133,
+      "chord": "A/E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 201.6653,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 203.0817,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 204.0337,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 204.5214,
+      "chord": "A/E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 205.4734,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 206.3325,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 206.913,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 207.865,
+      "chord": "E/B",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 0.0,
+      "detail": "All Draws Out [Pgm 05:1] — 88 8888 888",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 10.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 40.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 60.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 80.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 100.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 110.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 130.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 160.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 190.0,
+      "detail": "All Draws Out [Pgm 05:1] — 88 8888 888",
+      "source": "imported"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/Venus_孫燕姿",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 36
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "other"
+  },
+  "created_at": "2026-10-24T06:41:01.159987+00:00",
+  "updated_at": "2026-10-24T06:41:01.160197+00:00"
+}

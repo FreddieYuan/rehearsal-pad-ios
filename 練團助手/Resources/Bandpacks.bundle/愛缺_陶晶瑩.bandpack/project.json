@@ -1,0 +1,746 @@
+{
+  "schema_version": 1,
+  "id": "愛缺_陶晶瑩",
+  "song": {
+    "title": "愛缺",
+    "artist": "陶晶瑩",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/愛缺_陶晶瑩/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 249.4752
+  },
+  "analysis": {
+    "bpm": 108.2,
+    "key": "C# Minor",
+    "confidence": {
+      "imported_key_rechecked": 1.0
+    }
+  },
+  "sections": [],
+  "lyrics": [
+    {
+      "start": 15.0,
+      "end": 23.0,
+      "text": "公元1999年 我拉著自己去海邊",
+      "source": "imported"
+    },
+    {
+      "start": 23.0,
+      "end": 30.0,
+      "text": "世紀末要找一點浪漫 真是煩呀煩",
+      "source": "imported"
+    },
+    {
+      "start": 30.0,
+      "end": 37.0,
+      "text": "明明是個很好的天 我非要自己帶把傘",
+      "source": "imported"
+    },
+    {
+      "start": 37.0,
+      "end": 44.0,
+      "text": "其實是想防患於未然 真是閒呀閒",
+      "source": "imported"
+    },
+    {
+      "start": 44.0,
+      "end": 51.0,
+      "text": "我長的不太一般 也掙了不少的錢",
+      "source": "imported"
+    },
+    {
+      "start": 51.0,
+      "end": 55.0,
+      "text": "找人愛還是非常的困難",
+      "source": "imported"
+    },
+    {
+      "start": 55.0,
+      "end": 62.0,
+      "text": "我寧願飛到天邊 把閒的錢都撒完",
+      "source": "imported"
+    },
+    {
+      "start": 62.0,
+      "end": 68.0,
+      "text": "也不能隨便找一個某某來陪伴",
+      "source": "imported"
+    },
+    {
+      "start": 68.0,
+      "end": 75.0,
+      "text": "征服我的那個人 你怎麼還不出現",
+      "source": "imported"
+    },
+    {
+      "start": 75.0,
+      "end": 81.0,
+      "text": "別讓我一個人站在高處不勝寒",
+      "source": "imported"
+    },
+    {
+      "start": 81.0,
+      "end": 88.0,
+      "text": "誰都明白除了改變 一切都在改變",
+      "source": "imported"
+    },
+    {
+      "start": 88.0,
+      "end": 96.0,
+      "text": "可變來變去 也改變不了我的孤獨感",
+      "source": "imported"
+    },
+    {
+      "start": 102.0,
+      "end": 109.0,
+      "text": "我在21世紀前 絕對沒有戀愛可談",
+      "source": "imported"
+    },
+    {
+      "start": 109.0,
+      "end": 116.0,
+      "text": "我雖然矬可見識也不短 不信走著看",
+      "source": "imported"
+    },
+    {
+      "start": 116.0,
+      "end": 123.0,
+      "text": "我不讓我人在曹營 也不讓我心在漢",
+      "source": "imported"
+    },
+    {
+      "start": 123.0,
+      "end": 130.0,
+      "text": "我讓我自己站在陽光下 盼呀盼",
+      "source": "imported"
+    },
+    {
+      "start": 130.0,
+      "end": 137.0,
+      "text": "征服我的那個人 你怎麼還不出現",
+      "source": "imported"
+    },
+    {
+      "start": 137.0,
+      "end": 143.0,
+      "text": "別讓我一個人站在高處不勝寒",
+      "source": "imported"
+    },
+    {
+      "start": 143.0,
+      "end": 150.0,
+      "text": "誰都明白除了改變 一切都在改變",
+      "source": "imported"
+    },
+    {
+      "start": 150.0,
+      "end": 158.0,
+      "text": "可變來變去 也改變不了我的孤獨感",
+      "source": "imported"
+    },
+    {
+      "start": 165.0,
+      "end": 171.0,
+      "text": "征服我的那個人 你怎麼還不出現",
+      "source": "imported"
+    },
+    {
+      "start": 171.0,
+      "end": 177.0,
+      "text": "別讓我一個人站在高處不勝寒",
+      "source": "imported"
+    },
+    {
+      "start": 177.0,
+      "end": 184.0,
+      "text": "誰都明白除了改變 一切都在改變",
+      "source": "imported"
+    },
+    {
+      "start": 184.0,
+      "end": 191.0,
+      "text": "可變來變去 也改變不了我的孤獨感",
+      "source": "imported"
+    },
+    {
+      "start": 191.0,
+      "end": 198.0,
+      "text": "一個人在海邊 盼呀盼",
+      "source": "imported"
+    },
+    {
+      "start": 198.0,
+      "end": 203.0,
+      "text": "我和你們之間 盼呀盼",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 1.4861,
+      "chord": "C#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 20.8515,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 27.1673,
+      "chord": "C#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 30.1395,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 33.6922,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 40.4956,
+      "chord": "C#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 46.9275,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 49.2263,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 51.6644,
+      "chord": "Ab7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 53.5917,
+      "chord": "C#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 55.7511,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 57.8177,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 60.1397,
+      "chord": "Ab7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 62.3224,
+      "chord": "C#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 65.3177,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 66.8735,
+      "chord": "C#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 68.8704,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 71.0531,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 73.3751,
+      "chord": "Ab7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 75.1398,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 75.6738,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 77.6475,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.0624,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 82.1058,
+      "chord": "Ab7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 84.3349,
+      "chord": "C#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 87.0284,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 88.7002,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 90.2792,
+      "chord": "Absus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 92.8566,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 95.1089,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 97.5006,
+      "chord": "Amaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 99.9619,
+      "chord": "Absus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 101.5873,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 104.1183,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 106.1616,
+      "chord": "Amaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 108.6926,
+      "chord": "Ab7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.3412,
+      "chord": "C#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.8753,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 112.5703,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 115.2174,
+      "chord": "E6/Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 117.5859,
+      "chord": "Absus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 118.9558,
+      "chord": "C#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 119.5828,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 121.4868,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 123.7159,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 124.3661,
+      "chord": "E/Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 125.8986,
+      "chord": "Abm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 126.4327,
+      "chord": "Absus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 128.0813,
+      "chord": "C#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 129.9389,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 138.9482,
+      "chord": "E/Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 140.3182,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 145.5195,
+      "chord": "C#/Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 158.7316,
+      "chord": "C#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 163.2131,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 167.4623,
+      "chord": "Amaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 170.6202,
+      "chord": "E/Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 172.2456,
+      "chord": "Absus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 174.6605,
+      "chord": "Ab7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 176.3323,
+      "chord": "C#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 180.6745,
+      "chord": "B6",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 185.0166,
+      "chord": "Amaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 186.433,
+      "chord": "A6",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 189.1962,
+      "chord": "Abm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 191.3324,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 193.8402,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 196.0693,
+      "chord": "C#m7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 198.1591,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 201.9672,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 202.5244,
+      "chord": "Amaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 203.6158,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 206.8434,
+      "chord": "E/Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 207.6793,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 211.2087,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 211.766,
+      "chord": "C#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 215.4812,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 219.7537,
+      "chord": "Amaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 220.6824,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 224.862,
+      "chord": "Absus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 225.5122,
+      "chord": "Ab7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 228.8559,
+      "chord": "C#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 233.2909,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 237.6562,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 239.2816,
+      "chord": "F#m7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 242.0448,
+      "chord": "C#/F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 243.1361,
+      "chord": "Absus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 243.4612,
+      "chord": "Ab7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 247.4318,
+      "chord": "C#sus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 248.2678,
+      "chord": "Absus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 249.4752,
+      "chord": "F#6",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/愛缺_陶晶瑩",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 26
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "other"
+  },
+  "created_at": "2026-10-24T06:41:01.180012+00:00",
+  "updated_at": "2026-10-24T06:41:01.180134+00:00"
+}

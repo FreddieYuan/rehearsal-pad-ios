@@ -1,0 +1,1237 @@
+{
+  "schema_version": 1,
+  "id": "盆栽_倒車入庫",
+  "song": {
+    "title": "盆栽",
+    "artist": "倒車入庫",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/盆栽_倒車入庫/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 350.314
+  },
+  "analysis": {
+    "bpm": 122.3,
+    "key": "B Minor",
+    "confidence": {
+      "imported_key_rechecked": 1.0
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 10.0,
+      "source": "imported"
+    },
+    {
+      "id": "2_chorus",
+      "label": "Chorus",
+      "start": 10.0,
+      "end": 20.0,
+      "source": "imported"
+    },
+    {
+      "id": "3_section_4",
+      "label": "Section 4",
+      "start": 20.0,
+      "end": 50.0,
+      "source": "imported"
+    },
+    {
+      "id": "4_section_1",
+      "label": "Section 1",
+      "start": 50.0,
+      "end": 70.0,
+      "source": "imported"
+    },
+    {
+      "id": "5_verse",
+      "label": "Verse",
+      "start": 70.0,
+      "end": 100.0,
+      "source": "imported"
+    },
+    {
+      "id": "6_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 100.0,
+      "end": 120.0,
+      "source": "imported"
+    },
+    {
+      "id": "7_section_4_rep",
+      "label": "Section 4 (Rep)",
+      "start": 120.0,
+      "end": 130.0,
+      "source": "imported"
+    },
+    {
+      "id": "8_section_1_rep",
+      "label": "Section 1 (Rep)",
+      "start": 130.0,
+      "end": 150.0,
+      "source": "imported"
+    },
+    {
+      "id": "9_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 150.0,
+      "end": 180.0,
+      "source": "imported"
+    },
+    {
+      "id": "10_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 180.0,
+      "end": 237.0,
+      "source": "imported"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 10.181,
+      "end": 18.124,
+      "text": "Thought I almost died in my dream again (Baby, almost died)",
+      "source": "imported"
+    },
+    {
+      "start": 18.124,
+      "end": 25.212,
+      "text": "Fightin' for my life, I couldn't breathe again",
+      "source": "imported"
+    },
+    {
+      "start": 25.212,
+      "end": 33.212,
+      "text": "I'm fallin' into new (Oh, oh)",
+      "source": "imported"
+    },
+    {
+      "start": 34.788,
+      "end": 42.788,
+      "text": "Without you goin' smooth (Fallin' in)",
+      "source": "imported"
+    },
+    {
+      "start": 43.12,
+      "end": 47.408,
+      "text": "'Cause my heart belongs to you",
+      "source": "imported"
+    },
+    {
+      "start": 47.408,
+      "end": 51.681,
+      "text": "I'll risk it all for you",
+      "source": "imported"
+    },
+    {
+      "start": 51.681,
+      "end": 55.971,
+      "text": "I won't just leave",
+      "source": "imported"
+    },
+    {
+      "start": 55.971,
+      "end": 60.541,
+      "text": "This time, I'll never leave",
+      "source": "imported"
+    },
+    {
+      "start": 60.541,
+      "end": 65.03,
+      "text": "I wanna share babies",
+      "source": "imported"
+    },
+    {
+      "start": 65.03,
+      "end": 69.583,
+      "text": "Protection, we won't need",
+      "source": "imported"
+    },
+    {
+      "start": 69.583,
+      "end": 73.861,
+      "text": "Your body next to me",
+      "source": "imported"
+    },
+    {
+      "start": 73.861,
+      "end": 78.613,
+      "text": "Is just a memory",
+      "source": "imported"
+    },
+    {
+      "start": 78.613,
+      "end": 86.613,
+      "text": "I'm fallin' in too deep, oh",
+      "source": "imported"
+    },
+    {
+      "start": 86.982,
+      "end": 94.982,
+      "text": "Without you, I can’t sleep",
+      "source": "imported"
+    },
+    {
+      "start": 95.146,
+      "end": 102.73400000000001,
+      "text": "Insomnia relieve, oh",
+      "source": "imported"
+    },
+    {
+      "start": 102.73400000000001,
+      "end": 110.73400000000001,
+      "text": "Talk to me, without you, I can't breathe",
+      "source": "imported"
+    },
+    {
+      "start": 148.88400000000001,
+      "end": 151.151,
+      "text": "My darkest hours",
+      "source": "imported"
+    },
+    {
+      "start": 151.151,
+      "end": 155.58100000000002,
+      "text": "Girl, I felt so alone inside of this crowded room",
+      "source": "imported"
+    },
+    {
+      "start": 155.58100000000002,
+      "end": 159.518,
+      "text": "Different girls on the floor, distractin' my thoughts of you",
+      "source": "imported"
+    },
+    {
+      "start": 159.518,
+      "end": 166.493,
+      "text": "I turned into the man I used to be, to be",
+      "source": "imported"
+    },
+    {
+      "start": 166.493,
+      "end": 168.724,
+      "text": "Put myself to sleep",
+      "source": "imported"
+    },
+    {
+      "start": 168.724,
+      "end": 172.973,
+      "text": "Just so I can get closer to you inside my dreams",
+      "source": "imported"
+    },
+    {
+      "start": 172.973,
+      "end": 177.433,
+      "text": "Didn't wanna wake up 'less you were beside me",
+      "source": "imported"
+    },
+    {
+      "start": 177.433,
+      "end": 184.397,
+      "text": "I just wanted to call you and say, and say",
+      "source": "imported"
+    },
+    {
+      "start": 184.397,
+      "end": 186.843,
+      "text": "Oh, baby",
+      "source": "imported"
+    },
+    {
+      "start": 186.843,
+      "end": 191.127,
+      "text": "Where are you now when I need you most?",
+      "source": "imported"
+    },
+    {
+      "start": 191.127,
+      "end": 195.602,
+      "text": "I'd give it all just to hold you close",
+      "source": "imported"
+    },
+    {
+      "start": 195.602,
+      "end": 201.50900000000001,
+      "text": "Sorry that I broke your heart, your heart",
+      "source": "imported"
+    },
+    {
+      "start": 201.50900000000001,
+      "end": 204.05,
+      "text": "Never comin' through",
+      "source": "imported"
+    },
+    {
+      "start": 204.05,
+      "end": 207.927,
+      "text": "I was running away from facin' reality",
+      "source": "imported"
+    },
+    {
+      "start": 207.927,
+      "end": 212.502,
+      "text": "Wastin' all of my time on living my fantasies",
+      "source": "imported"
+    },
+    {
+      "start": 212.502,
+      "end": 219.019,
+      "text": "Spendin' money to compensate, compensate",
+      "source": "imported"
+    },
+    {
+      "start": 219.019,
+      "end": 221.997,
+      "text": "'Cause I want you, baby",
+      "source": "imported"
+    },
+    {
+      "start": 221.997,
+      "end": 225.971,
+      "text": "I'll be livin' in Heaven when I'm inside of you",
+      "source": "imported"
+    },
+    {
+      "start": 225.971,
+      "end": 230.484,
+      "text": "It was definitely a blessing, wakin' beside you",
+      "source": "imported"
+    },
+    {
+      "start": 230.484,
+      "end": 237.109,
+      "text": "I'll never let you down again, again",
+      "source": "imported"
+    },
+    {
+      "start": 237.109,
+      "end": 239.583,
+      "text": "Oh, baby",
+      "source": "imported"
+    },
+    {
+      "start": 239.583,
+      "end": 243.873,
+      "text": "Where are you now when I need you most?",
+      "source": "imported"
+    },
+    {
+      "start": 243.873,
+      "end": 248.372,
+      "text": "I'd give it all just to hold you close",
+      "source": "imported"
+    },
+    {
+      "start": 248.372,
+      "end": 254.437,
+      "text": "Sorry that I broke your heart, your heart",
+      "source": "imported"
+    },
+    {
+      "start": 254.437,
+      "end": 257.212,
+      "text": "I said, baby",
+      "source": "imported"
+    },
+    {
+      "start": 257.212,
+      "end": 261.543,
+      "text": "I'll treat you better than I did before",
+      "source": "imported"
+    },
+    {
+      "start": 261.543,
+      "end": 266.063,
+      "text": "I'll hold you down and not let you go",
+      "source": "imported"
+    },
+    {
+      "start": 266.063,
+      "end": 274.063,
+      "text": "This time, I won't break your heart, your heart, yeah",
+      "source": "imported"
+    },
+    {
+      "start": 282.68399999999997,
+      "end": 287.136,
+      "text": "I know it's all my fault",
+      "source": "imported"
+    },
+    {
+      "start": 287.136,
+      "end": 291.862,
+      "text": "Made you put down your guard",
+      "source": "imported"
+    },
+    {
+      "start": 291.862,
+      "end": 296.277,
+      "text": "I know I made you fall",
+      "source": "imported"
+    },
+    {
+      "start": 296.277,
+      "end": 298.739,
+      "text": "I said you were wrong for me",
+      "source": "imported"
+    },
+    {
+      "start": 298.739,
+      "end": 303.278,
+      "text": "I lied to you, I lied to you, I lied to you (To you)",
+      "source": "imported"
+    },
+    {
+      "start": 303.278,
+      "end": 307.478,
+      "text": "Can't hide the truth, I stayed with her in spite of you",
+      "source": "imported"
+    },
+    {
+      "start": 307.478,
+      "end": 311.794,
+      "text": "You did some things that you regret, still right for you",
+      "source": "imported"
+    },
+    {
+      "start": 311.794,
+      "end": 315.963,
+      "text": "'Cause this house is not a home",
+      "source": "imported"
+    },
+    {
+      "start": 315.963,
+      "end": 318.97,
+      "text": "Without my baby",
+      "source": "imported"
+    },
+    {
+      "start": 318.97,
+      "end": 323.421,
+      "text": "Where are you now when I need you most?",
+      "source": "imported"
+    },
+    {
+      "start": 323.421,
+      "end": 327.561,
+      "text": "I gave it all just to hold you close",
+      "source": "imported"
+    },
+    {
+      "start": 327.561,
+      "end": 334.084,
+      "text": "Sorry that I broke your heart, your heart",
+      "source": "imported"
+    },
+    {
+      "start": 334.084,
+      "end": 336.45,
+      "text": "And I said, baby",
+      "source": "imported"
+    },
+    {
+      "start": 336.45,
+      "end": 340.881,
+      "text": "I'll treat you better than I did before",
+      "source": "imported"
+    },
+    {
+      "start": 340.881,
+      "end": 345.314,
+      "text": "I'll hold you down and not let you go",
+      "source": "imported"
+    },
+    {
+      "start": 345.314,
+      "end": 350.314,
+      "text": "This time, I won't break your heart, your heart, no",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 0.5341,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 2.5078,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 4.4815,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 6.4319,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 8.4056,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 10.3793,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 11.8886,
+      "chord": "Bm/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 12.5388,
+      "chord": "Em7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 13.6069,
+      "chord": "Bm/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 14.3035,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 16.2772,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 18.2509,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 19.5048,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 19.9924,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 22.1751,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 23.6844,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 25.658,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 27.6317,
+      "chord": "Em7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 29.5822,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 31.5559,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 33.5296,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 35.2247,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 37.4538,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 39.4275,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 41.4012,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 43.3749,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 45.3254,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 47.299,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 49.2727,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 51.2232,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 53.3827,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 55.635,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 56.8657,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 59.3502,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 61.3007,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 63.0422,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 64.3657,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 64.7605,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 66.6877,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 68.6846,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 71.0531,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 73.0035,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 74.954,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 76.9974,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 78.855,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.9912,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 82.9417,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 84.8922,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 86.7498,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 88.7931,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 90.7436,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 92.7869,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 94.5517,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 96.6879,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 98.7312,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 103.2127,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 105.0935,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 106.301,
+      "chord": "Bm/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 107.2762,
+      "chord": "Em7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 108.2746,
+      "chord": "Bm/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 108.948,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.2483,
+      "chord": "A/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.8985,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 112.9419,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 114.9852,
+      "chord": "Em7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 116.6106,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 118.0967,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 120.3722,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 122.0441,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 124.2268,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 126.2237,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 128.1741,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 129.9156,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 132.377,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 134.5829,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 135.8832,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 138.2516,
+      "chord": "Bm/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 140.4343,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 141.7346,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 143.1975,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 143.778,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 145.6588,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 147.7718,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 149.5829,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 151.9514,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 153.9019,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 155.8523,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 157.8028,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 159.8462,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 161.8895,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 163.84,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 165.6976,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 167.741,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 169.6914,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 171.7348,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 173.5924,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 175.6357,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 177.5862,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 182.0444,
+      "chord": "B/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 183.9949,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 185.481,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 186.224,
+      "chord": "Em7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 188.6389,
+      "chord": "F#/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 189.916,
+      "chord": "Bm/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 191.8665,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 193.3526,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 193.8402,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 195.303,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 195.8139,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 197.3,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 201.4795,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 204.9161,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 205.4037,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 209.3511,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 213.0431,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 217.0601,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 219.9162,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 220.9146,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 224.8388,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 228.8559,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 20.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 50.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 130.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 150.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 180.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/盆栽_倒車入庫",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 60
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "other"
+  },
+  "created_at": "2026-10-24T06:41:01.191791+00:00",
+  "updated_at": "2026-10-24T06:41:01.192162+00:00"
+}

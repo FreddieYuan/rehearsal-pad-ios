@@ -1,0 +1,1353 @@
+{
+  "schema_version": 1,
+  "id": "All_Summer_Long_Kid_Rock",
+  "song": {
+    "title": "All Summer Long",
+    "artist": "Kid Rock",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/All_Summer_Long_Kid_Rock/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 280.53
+  },
+  "analysis": {
+    "bpm": 104.2,
+    "key": "G Major",
+    "confidence": {
+      "imported_key_rechecked": 1.0,
+      "major_tonic_score": 0.39,
+      "relative_minor_score": 0.0
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 10.0,
+      "source": "imported"
+    },
+    {
+      "id": "2_verse",
+      "label": "Verse",
+      "start": 10.0,
+      "end": 30.0,
+      "source": "imported"
+    },
+    {
+      "id": "3_section_0",
+      "label": "Section 0",
+      "start": 30.0,
+      "end": 40.0,
+      "source": "imported"
+    },
+    {
+      "id": "4_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 40.0,
+      "end": 50.0,
+      "source": "imported"
+    },
+    {
+      "id": "5_section_0_rep",
+      "label": "Section 0 (Rep)",
+      "start": 50.0,
+      "end": 60.0,
+      "source": "imported"
+    },
+    {
+      "id": "6_chorus",
+      "label": "Chorus",
+      "start": 60.0,
+      "end": 70.0,
+      "source": "imported"
+    },
+    {
+      "id": "7_section_0_rep",
+      "label": "Section 0 (Rep)",
+      "start": 70.0,
+      "end": 80.0,
+      "source": "imported"
+    },
+    {
+      "id": "8_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 80.0,
+      "end": 100.0,
+      "source": "imported"
+    },
+    {
+      "id": "9_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 100.0,
+      "end": 120.0,
+      "source": "imported"
+    },
+    {
+      "id": "10_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 120.0,
+      "end": 130.0,
+      "source": "imported"
+    },
+    {
+      "id": "11_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 130.0,
+      "end": 140.0,
+      "source": "imported"
+    },
+    {
+      "id": "12_section_0_rep",
+      "label": "Section 0 (Rep)",
+      "start": 140.0,
+      "end": 160.0,
+      "source": "imported"
+    },
+    {
+      "id": "13_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 160.0,
+      "end": 170.0,
+      "source": "imported"
+    },
+    {
+      "id": "14_section_3",
+      "label": "Section 3",
+      "start": 170.0,
+      "end": 180.0,
+      "source": "imported"
+    },
+    {
+      "id": "15_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 180.0,
+      "end": 228.0,
+      "source": "imported"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 20.97,
+      "end": 25.94,
+      "text": "It was 1989, my thoughts were short my hair was long",
+      "source": "imported"
+    },
+    {
+      "start": 25.94,
+      "end": 30.99,
+      "text": "Caught somewhere between a boy and man",
+      "source": "imported"
+    },
+    {
+      "start": 30.99,
+      "end": 35.36,
+      "text": "She was seventeen and she was far from in-between",
+      "source": "imported"
+    },
+    {
+      "start": 35.36,
+      "end": 40.77,
+      "text": "It was summertime in Northern Michigan",
+      "source": "imported"
+    },
+    {
+      "start": 40.77,
+      "end": 45.37,
+      "text": "Ahh Ahh Ahh",
+      "source": "imported"
+    },
+    {
+      "start": 45.37,
+      "end": 49.76,
+      "text": "Ahh Ahh Ahh",
+      "source": "imported"
+    },
+    {
+      "start": 49.76,
+      "end": 51.96,
+      "text": "Splashing through the sand bar",
+      "source": "imported"
+    },
+    {
+      "start": 51.96,
+      "end": 54.14,
+      "text": "Talking by the campfire",
+      "source": "imported"
+    },
+    {
+      "start": 54.14,
+      "end": 59.15,
+      "text": "It's the simple things in life, like when and where",
+      "source": "imported"
+    },
+    {
+      "start": 59.15,
+      "end": 61.21,
+      "text": "We didn't have no internet",
+      "source": "imported"
+    },
+    {
+      "start": 61.21,
+      "end": 63.79,
+      "text": "But man I never will forget",
+      "source": "imported"
+    },
+    {
+      "start": 63.79,
+      "end": 67.82,
+      "text": "The way the moonlight shined upon her hair",
+      "source": "imported"
+    },
+    {
+      "start": 67.82,
+      "end": 70.03,
+      "text": "And we were trying different things",
+      "source": "imported"
+    },
+    {
+      "start": 70.03,
+      "end": 72.39,
+      "text": "We were smoking funny things",
+      "source": "imported"
+    },
+    {
+      "start": 72.39,
+      "end": 77.27,
+      "text": "Making love out by the lake to our favorite song",
+      "source": "imported"
+    },
+    {
+      "start": 77.27,
+      "end": 81.94,
+      "text": "Sipping whiskey out the bottle, not thinking 'bout tomorrow",
+      "source": "imported"
+    },
+    {
+      "start": 81.94,
+      "end": 89.94,
+      "text": "Singing Sweet home Alabama all summer long",
+      "source": "imported"
+    },
+    {
+      "start": 90.35,
+      "end": 95.35,
+      "text": "Singing Sweet home Alabama all summer long",
+      "source": "imported"
+    },
+    {
+      "start": 95.35,
+      "end": 97.12,
+      "text": "Catching Walleye from the dock",
+      "source": "imported"
+    },
+    {
+      "start": 97.12,
+      "end": 99.50999999999999,
+      "text": "Watching the waves roll off the rocks",
+      "source": "imported"
+    },
+    {
+      "start": 99.50999999999999,
+      "end": 105.24000000000001,
+      "text": "She'll forever hold a spot inside my soul",
+      "source": "imported"
+    },
+    {
+      "start": 105.24000000000001,
+      "end": 106.7,
+      "text": "We'd blister in the sun",
+      "source": "imported"
+    },
+    {
+      "start": 106.7,
+      "end": 109.27000000000001,
+      "text": "We couldn't wait for night to come",
+      "source": "imported"
+    },
+    {
+      "start": 109.27000000000001,
+      "end": 113.94,
+      "text": "To hit that sand and play some rock and roll",
+      "source": "imported"
+    },
+    {
+      "start": 113.94,
+      "end": 116.15,
+      "text": "While we were trying different things",
+      "source": "imported"
+    },
+    {
+      "start": 116.15,
+      "end": 118.53999999999999,
+      "text": "And we were smoking funny things",
+      "source": "imported"
+    },
+    {
+      "start": 118.53999999999999,
+      "end": 123.52,
+      "text": "Making love out by the lake to our favorite song",
+      "source": "imported"
+    },
+    {
+      "start": 123.52,
+      "end": 128.13,
+      "text": "Sipping whiskey out the bottle, not thinking 'bout tomorrow",
+      "source": "imported"
+    },
+    {
+      "start": 128.13,
+      "end": 136.13,
+      "text": "Singing Sweet Home Alabama all summer long",
+      "source": "imported"
+    },
+    {
+      "start": 137.34,
+      "end": 145.34,
+      "text": "Singing Sweet Home Alabama all summer long",
+      "source": "imported"
+    },
+    {
+      "start": 190.85,
+      "end": 195.28,
+      "text": "Now nothing seems as strange as when the leaves began to change",
+      "source": "imported"
+    },
+    {
+      "start": 195.28,
+      "end": 199.85,
+      "text": "Or how we thought those days would never end",
+      "source": "imported"
+    },
+    {
+      "start": 199.85,
+      "end": 204.43,
+      "text": "Sometimes I'll hear that song and I'll start to sing along",
+      "source": "imported"
+    },
+    {
+      "start": 204.43,
+      "end": 211.05,
+      "text": "And think man I'd love to see that girl again",
+      "source": "imported"
+    },
+    {
+      "start": 211.05,
+      "end": 213.29,
+      "text": "And we were trying different things",
+      "source": "imported"
+    },
+    {
+      "start": 213.29,
+      "end": 215.64,
+      "text": "We were smoking funny things",
+      "source": "imported"
+    },
+    {
+      "start": 215.64,
+      "end": 220.54,
+      "text": "Making love out by the lake to our favorite song",
+      "source": "imported"
+    },
+    {
+      "start": 220.54,
+      "end": 225.42000000000002,
+      "text": "Sipping whiskey out the bottle, not thinking 'bout tomorrow",
+      "source": "imported"
+    },
+    {
+      "start": 225.42000000000002,
+      "end": 230.38,
+      "text": "Singing Sweet home Alabama all summer long",
+      "source": "imported"
+    },
+    {
+      "start": 230.38,
+      "end": 232.49,
+      "text": "And we were trying different things",
+      "source": "imported"
+    },
+    {
+      "start": 232.49,
+      "end": 234.8,
+      "text": "We were smoking funny things",
+      "source": "imported"
+    },
+    {
+      "start": 234.8,
+      "end": 239.52,
+      "text": "Making love out by the lake to our favorite song",
+      "source": "imported"
+    },
+    {
+      "start": 239.52,
+      "end": 244.29,
+      "text": "Sipping whiskey out the bottle, not thinking 'bout tomorrow",
+      "source": "imported"
+    },
+    {
+      "start": 244.29,
+      "end": 248.86,
+      "text": "Singing Sweet home Alabama all summer long",
+      "source": "imported"
+    },
+    {
+      "start": 248.86,
+      "end": 253.57,
+      "text": "Singing Sweet home Alabama all summer long",
+      "source": "imported"
+    },
+    {
+      "start": 253.57,
+      "end": 258.13,
+      "text": "Singing Sweet Home Alabama all summer long",
+      "source": "imported"
+    },
+    {
+      "start": 258.13,
+      "end": 262.77,
+      "text": "Singing Sweet Home Alabama all summer long",
+      "source": "imported"
+    },
+    {
+      "start": 262.77,
+      "end": 270.77,
+      "text": "Singing Sweet Home Alabama all summer long",
+      "source": "imported"
+    },
+    {
+      "start": 275.53,
+      "end": 280.53,
+      "text": "Singing Sweet Home Alabama all summer long",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 2.2988,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 2.7864,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 4.3189,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 5.5031,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 7.8251,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 8.9861,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 10.1471,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 12.4923,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 13.514,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 14.8143,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 17.1595,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 18.3205,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 19.3654,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 21.8035,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 22.9645,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 24.1255,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 26.4707,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 27.6317,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 28.6766,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 31.1147,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 32.299,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 33.46,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 36.0838,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 36.9429,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 38.1272,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 40.4492,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 41.6334,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 42.7712,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 45.1164,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 46.347,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 47.4384,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 50.9214,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 52.0824,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 54.7294,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 55.5421,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 56.7728,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 59.3502,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 60.2558,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 61.4168,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 64.0406,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 64.923,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 66.084,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 68.406,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 69.5902,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 70.728,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 73.0732,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 74.3039,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 75.7203,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 78.019,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 79.18,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.341,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 82.9649,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 83.8473,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 84.7296,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 87.3767,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 88.2358,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 89.3736,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 91.9975,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 92.9727,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 94.3427,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 97.8257,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 98.708,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 102.3536,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 103.561,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 106.0688,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 107.1601,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 108.3211,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.3644,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 111.688,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 112.9883,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 115.3103,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 116.4713,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 117.6323,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 119.6756,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 121.1385,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 122.6014,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 124.6447,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 126.0611,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 126.9435,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 129.5673,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 130.4497,
+      "chord": "C/G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 131.7732,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 136.5566,
+      "chord": "Dm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 137.4389,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 138.6231,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 140.9451,
+      "chord": "Dm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 142.5705,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 143.2671,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 145.9142,
+      "chord": "Dm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 147.0752,
+      "chord": "C/G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 147.9576,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 150.5582,
+      "chord": "Dm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 151.7192,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 152.9034,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 154.9468,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 156.0845,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 157.2455,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 159.5675,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 160.7285,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 161.9127,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 164.2115,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 165.419,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 166.58,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 169.0645,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 170.1558,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 171.2007,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 173.2441,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 174.7302,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 175.8679,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 178.1435,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 179.6296,
+      "chord": "C/G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 180.6745,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 185.5042,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 186.5259,
+      "chord": "C/G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 188.4532,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 189.8696,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 191.3324,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 192.4934,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 194.7922,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 195.9764,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 197.3928,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 199.4826,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 200.6668,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 202.0136,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 204.1498,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 205.3108,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 206.4718,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 208.7938,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 209.978,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 211.139,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 213.461,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 214.622,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 215.783,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 218.105,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 219.2893,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 220.4038,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 0.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 10.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 30.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 40.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 50.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 70.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 80.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 100.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 120.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 130.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 140.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 180.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/All_Summer_Long_Kid_Rock",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 49
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "piano"
+  },
+  "created_at": "2026-10-24T06:41:01.092518+00:00",
+  "updated_at": "2026-10-24T06:41:01.092876+00:00"
+}

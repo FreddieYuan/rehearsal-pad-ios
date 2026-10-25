@@ -1,0 +1,816 @@
+{
+  "schema_version": 1,
+  "id": "Dreams_The_Cranberries",
+  "song": {
+    "title": "Dreams",
+    "artist": "The Cranberries",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/Dreams_The_Cranberries/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 260.26
+  },
+  "analysis": {
+    "bpm": 129.2,
+    "key": "E Major",
+    "confidence": {
+      "imported_key_rechecked": 1.0,
+      "major_tonic_score": 0.472,
+      "relative_minor_score": 0.0
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 10.0,
+      "source": "imported"
+    },
+    {
+      "id": "2_verse",
+      "label": "Verse",
+      "start": 10.0,
+      "end": 20.0,
+      "source": "imported"
+    },
+    {
+      "id": "3_section_2",
+      "label": "Section 2",
+      "start": 20.0,
+      "end": 50.0,
+      "source": "imported"
+    },
+    {
+      "id": "4_chorus",
+      "label": "Chorus",
+      "start": 50.0,
+      "end": 70.0,
+      "source": "imported"
+    },
+    {
+      "id": "5_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 70.0,
+      "end": 80.0,
+      "source": "imported"
+    },
+    {
+      "id": "6_section_3",
+      "label": "Section 3",
+      "start": 80.0,
+      "end": 90.0,
+      "source": "imported"
+    },
+    {
+      "id": "7_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 90.0,
+      "end": 110.0,
+      "source": "imported"
+    },
+    {
+      "id": "8_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 110.0,
+      "end": 140.0,
+      "source": "imported"
+    },
+    {
+      "id": "9_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 140.0,
+      "end": 150.0,
+      "source": "imported"
+    },
+    {
+      "id": "10_section_3_rep",
+      "label": "Section 3 (Rep)",
+      "start": 150.0,
+      "end": 160.0,
+      "source": "imported"
+    },
+    {
+      "id": "11_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 160.0,
+      "end": 170.0,
+      "source": "imported"
+    },
+    {
+      "id": "12_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 170.0,
+      "end": 190.0,
+      "source": "imported"
+    },
+    {
+      "id": "13_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 190.0,
+      "end": 200.0,
+      "source": "imported"
+    },
+    {
+      "id": "14_section_3_rep",
+      "label": "Section 3 (Rep)",
+      "start": 200.0,
+      "end": 240.0,
+      "source": "imported"
+    },
+    {
+      "id": "15_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 240.0,
+      "end": 253.0,
+      "source": "imported"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 33.53,
+      "end": 41.47,
+      "text": "Oh, my life is changing everyday,",
+      "source": "imported"
+    },
+    {
+      "start": 41.47,
+      "end": 48.92,
+      "text": "In every possible way.",
+      "source": "imported"
+    },
+    {
+      "start": 48.92,
+      "end": 52.5,
+      "text": "And oh, my dreams,",
+      "source": "imported"
+    },
+    {
+      "start": 52.5,
+      "end": 55.32,
+      "text": "it's never quiet as it seems,",
+      "source": "imported"
+    },
+    {
+      "start": 55.32,
+      "end": 61.3,
+      "text": "Never quiet as it seems.",
+      "source": "imported"
+    },
+    {
+      "start": 61.3,
+      "end": 66.63,
+      "text": "I know I've felt like this before,",
+      "source": "imported"
+    },
+    {
+      "start": 66.63,
+      "end": 71.22,
+      "text": "but now I'm feeling it even more,",
+      "source": "imported"
+    },
+    {
+      "start": 71.22,
+      "end": 78.03999999999999,
+      "text": "Because it came from you.",
+      "source": "imported"
+    },
+    {
+      "start": 78.03999999999999,
+      "end": 80.42,
+      "text": "And then I open up and see",
+      "source": "imported"
+    },
+    {
+      "start": 80.42,
+      "end": 85.6,
+      "text": "the person falling here is me,",
+      "source": "imported"
+    },
+    {
+      "start": 85.6,
+      "end": 92.85,
+      "text": "A different way to be.",
+      "source": "imported"
+    },
+    {
+      "start": 92.85,
+      "end": 98.64,
+      "text": "Ah, la da ah...",
+      "source": "imported"
+    },
+    {
+      "start": 98.64,
+      "end": 101.14,
+      "text": "La...",
+      "source": "imported"
+    },
+    {
+      "start": 109.5,
+      "end": 115.31,
+      "text": "I want more imposible to ignore,",
+      "source": "imported"
+    },
+    {
+      "start": 115.31,
+      "end": 123.31,
+      "text": "Imposible to ignore.",
+      "source": "imported"
+    },
+    {
+      "start": 123.92,
+      "end": 127.03,
+      "text": "And they'll come true,",
+      "source": "imported"
+    },
+    {
+      "start": 127.03,
+      "end": 130.58,
+      "text": "impossible not to do,",
+      "source": "imported"
+    },
+    {
+      "start": 130.58,
+      "end": 137.94,
+      "text": "Impossible not to do.",
+      "source": "imported"
+    },
+    {
+      "start": 137.94,
+      "end": 141.32,
+      "text": "And now I tell you openly,",
+      "source": "imported"
+    },
+    {
+      "start": 141.32,
+      "end": 145.82,
+      "text": "you have my heart so don't hurt me.",
+      "source": "imported"
+    },
+    {
+      "start": 145.82,
+      "end": 151.82999999999998,
+      "text": "You're what I couldn't find.",
+      "source": "imported"
+    },
+    {
+      "start": 151.82999999999998,
+      "end": 156.18,
+      "text": "A totally amazing mind,",
+      "source": "imported"
+    },
+    {
+      "start": 156.18,
+      "end": 160.81,
+      "text": "so understanding and so kind;",
+      "source": "imported"
+    },
+    {
+      "start": 160.81,
+      "end": 168.31,
+      "text": "You're everything to me.",
+      "source": "imported"
+    },
+    {
+      "start": 168.31,
+      "end": 172.02,
+      "text": "Oh, my life,",
+      "source": "imported"
+    },
+    {
+      "start": 172.02,
+      "end": 176.09,
+      "text": "Is changing every day,",
+      "source": "imported"
+    },
+    {
+      "start": 176.09,
+      "end": 182.41,
+      "text": "In every possible way.",
+      "source": "imported"
+    },
+    {
+      "start": 182.41,
+      "end": 186.78,
+      "text": "And oh, my dreams,",
+      "source": "imported"
+    },
+    {
+      "start": 186.78,
+      "end": 190.54,
+      "text": "It's never quiet as it seems,",
+      "source": "imported"
+    },
+    {
+      "start": 190.54,
+      "end": 193.34,
+      "text": "'Cause you're a dream to me,",
+      "source": "imported"
+    },
+    {
+      "start": 193.34,
+      "end": 199.34,
+      "text": "Dream to me.",
+      "source": "imported"
+    },
+    {
+      "start": 211.79,
+      "end": 219.79,
+      "text": "Ah, da, da da da, da, la...",
+      "source": "imported"
+    },
+    {
+      "start": 225.89,
+      "end": 233.89,
+      "text": "Ah, da, da da da, da, la...",
+      "source": "imported"
+    },
+    {
+      "start": 240.68,
+      "end": 248.68,
+      "text": "Ah, da, da da da, da, la...",
+      "source": "imported"
+    },
+    {
+      "start": 255.26,
+      "end": 260.26,
+      "text": "Ah, da, da da da, da, la...",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 2.9489,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 6.8731,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 9.9614,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 10.3793,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 14.3035,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 22.2912,
+      "chord": "Amaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 25.333,
+      "chord": "B7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 29.35,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 36.8501,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 40.4492,
+      "chord": "B7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 44.3501,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 52.0127,
+      "chord": "Amaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 53.6845,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 55.7279,
+      "chord": "B7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 59.3502,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 61.9044,
+      "chord": "Emaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 66.9663,
+      "chord": "Amaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 70.5422,
+      "chord": "B7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 74.3967,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 81.7342,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 85.4494,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 89.1182,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 92.8334,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 96.9665,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 98.6384,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 104.304,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 107.0208,
+      "chord": "G/D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 108.0192,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 111.7344,
+      "chord": "Amaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 115.2174,
+      "chord": "B7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 119.2345,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 121.5565,
+      "chord": "Emaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 126.781,
+      "chord": "Amaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 130.7051,
+      "chord": "B7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 134.4435,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 142.2919,
+      "chord": "Amaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 145.3569,
+      "chord": "B7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 149.374,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 156.7811,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 160.4963,
+      "chord": "B7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 164.0258,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 171.6419,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 175.4035,
+      "chord": "B7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 179.142,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 186.8742,
+      "chord": "Amaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 190.5894,
+      "chord": "B7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 194.1653,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 201.735,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 205.2644,
+      "chord": "B7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 208.9796,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 216.3171,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 219.9859,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 223.6546,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 230.9921,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 234.6609,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 238.3528,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 250.7755,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 0.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 10.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 20.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 50.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 70.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 80.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 90.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 110.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 140.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 150.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 160.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 170.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 190.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 200.0,
+      "detail": "Suit w rotary-RM [Pgm 27:2]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 240.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/Dreams_The_Cranberries",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 35
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "other"
+  },
+  "created_at": "2026-10-24T06:41:01.108855+00:00",
+  "updated_at": "2026-10-24T06:41:01.109067+00:00"
+}

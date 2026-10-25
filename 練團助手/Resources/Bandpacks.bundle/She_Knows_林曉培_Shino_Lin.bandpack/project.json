@@ -1,0 +1,614 @@
+{
+  "schema_version": 1,
+  "id": "She_Knows_林曉培_Shino_Lin",
+  "song": {
+    "title": "She Knows",
+    "artist": "林曉培",
+    "source_url": "https://www.youtube.com/watch?v=nQMIklPWeUY",
+    "audio_path": "/Users/freddietw/GP-AI-Projects/練團助手/data/media/She_Knows_林曉培_Shino_Lin/original.mp3",
+    "preview_path": "audio/original.mp3",
+    "artwork_path": "",
+    "duration_sec": 242.0
+  },
+  "analysis": {
+    "bpm": null,
+    "key": "G Minor",
+    "confidence": {
+      "google_drive_import": 1.0,
+      "metadata_from_filename": 0.8,
+      "manual_jitapu_chart": 1.0,
+      "key_from_manual_chart": 1.0
+    }
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "label": "Intro",
+      "start": 0,
+      "end": 20,
+      "source": "manual"
+    },
+    {
+      "id": "verse_1",
+      "label": "Verse 1",
+      "start": 20,
+      "end": 58,
+      "source": "manual"
+    },
+    {
+      "id": "part_star",
+      "label": "Part *",
+      "start": 58,
+      "end": 92,
+      "source": "manual"
+    },
+    {
+      "id": "chorus",
+      "label": "Chorus #",
+      "start": 92,
+      "end": 128,
+      "source": "manual"
+    },
+    {
+      "id": "interlude",
+      "label": "Interlude",
+      "start": 128,
+      "end": 148,
+      "source": "manual"
+    },
+    {
+      "id": "verse_2",
+      "label": "Verse 2",
+      "start": 148,
+      "end": 188,
+      "source": "manual"
+    },
+    {
+      "id": "repeat_star_chorus",
+      "label": "Repeat * #",
+      "start": 188,
+      "end": 232,
+      "source": "manual"
+    },
+    {
+      "id": "outro",
+      "label": "Outro",
+      "start": 232,
+      "end": 242.0,
+      "source": "manual"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 20,
+      "end": 29,
+      "text": "黑暗裡誰冷眼的張望",
+      "source": "manual"
+    },
+    {
+      "start": 29,
+      "end": 39,
+      "text": "繼續或放棄有什麼不一樣",
+      "source": "manual"
+    },
+    {
+      "start": 39,
+      "end": 48,
+      "text": "別在耳邊說著天真的謊",
+      "source": "manual"
+    },
+    {
+      "start": 48,
+      "end": 58,
+      "text": "安慰抵不上　痛哭一場",
+      "source": "manual"
+    },
+    {
+      "start": 58,
+      "end": 67,
+      "text": "失望的墮落的浮躁的不安",
+      "source": "manual"
+    },
+    {
+      "start": 67,
+      "end": 76,
+      "text": "分裂的冷酷的誰的憂傷　被解放",
+      "source": "manual"
+    },
+    {
+      "start": 76,
+      "end": 84,
+      "text": "沸騰的擁擠的喧嘩的熱情",
+      "source": "manual"
+    },
+    {
+      "start": 84,
+      "end": 92,
+      "text": "放肆的忘情的昨天所有的快樂　都遺忘",
+      "source": "manual"
+    },
+    {
+      "start": 92,
+      "end": 99,
+      "text": "Because she knows",
+      "source": "manual"
+    },
+    {
+      "start": 99,
+      "end": 106,
+      "text": "Don't wanna be your angel",
+      "source": "manual"
+    },
+    {
+      "start": 106,
+      "end": 114,
+      "text": "不想背著一副黑色的翅膀",
+      "source": "manual"
+    },
+    {
+      "start": 114,
+      "end": 120,
+      "text": "She knows",
+      "source": "manual"
+    },
+    {
+      "start": 120,
+      "end": 126,
+      "text": "Nothing can last forever",
+      "source": "manual"
+    },
+    {
+      "start": 126,
+      "end": 128,
+      "text": "她的心只懂得真實的模樣",
+      "source": "manual"
+    },
+    {
+      "start": 138,
+      "end": 148,
+      "text": "Da di li da li la la...",
+      "source": "manual"
+    },
+    {
+      "start": 148,
+      "end": 158,
+      "text": "破曉的陽光落肩上",
+      "source": "manual"
+    },
+    {
+      "start": 158,
+      "end": 168,
+      "text": "張開眼的人懂得自由飛翔",
+      "source": "manual"
+    },
+    {
+      "start": 168,
+      "end": 178,
+      "text": "不需要誰支撐的力量",
+      "source": "manual"
+    },
+    {
+      "start": 178,
+      "end": 188,
+      "text": "一個人走到最遠的地方",
+      "source": "manual"
+    },
+    {
+      "start": 188,
+      "end": 196,
+      "text": "失望的墮落的浮躁的不安",
+      "source": "manual"
+    },
+    {
+      "start": 196,
+      "end": 204,
+      "text": "分裂的冷酷的誰的憂傷　被解放",
+      "source": "manual"
+    },
+    {
+      "start": 204,
+      "end": 212,
+      "text": "Because she knows",
+      "source": "manual"
+    },
+    {
+      "start": 212,
+      "end": 220,
+      "text": "Don't wanna be your angel",
+      "source": "manual"
+    },
+    {
+      "start": 220,
+      "end": 226,
+      "text": "不想背著一副黑色的翅膀",
+      "source": "manual"
+    },
+    {
+      "start": 226,
+      "end": 232,
+      "text": "她的心只懂得真實的模樣",
+      "source": "manual"
+    },
+    {
+      "start": 240,
+      "end": 242.0,
+      "text": "She knows!!",
+      "source": "manual"
+    }
+  ],
+  "chords": [
+    {
+      "time": 0.0,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 2.5,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 5.0,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 7.5,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 10.0,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 12.5,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 15.0,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 17.5,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 24.5,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 32.333,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 35.667,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 43.5,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 51.333,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 54.667,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 62.5,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 71.5,
+      "chord": "Bb",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.0,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 88.0,
+      "chord": "Bb",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 95.5,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 102.5,
+      "chord": "Bb",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 108.667,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 111.333,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 117.0,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 123.0,
+      "chord": "Bb",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 126.667,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 127.333,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 128.0,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 130.5,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 133.0,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 135.5,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 140.0,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 142.0,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 144.0,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 146.0,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 153.0,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 161.333,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 164.667,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 173.0,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 181.333,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 184.667,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 192.0,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 200.0,
+      "chord": "Bb",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 208.0,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 216.0,
+      "chord": "Bb",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 222.0,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 224.0,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 228.0,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 230.0,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 232.0,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 234.0,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 236.0,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 238.0,
+      "chord": "C",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 241.0,
+      "chord": "Gm",
+      "source": "manual",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "guitar",
+      "label": "吉他譜：Gm / C / Bb",
+      "time": 0.0,
+      "detail": "User-provided She Knows PDF from chord4/jitapu applied as manual chart source. BPM was not shown in the PDF.",
+      "source": "manual"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "google_drive_file_id": "1lC7OXMNBLbLiuDH9OQ45dLp4ESyUsAIk",
+    "google_drive_title": "_She Knows-林曉培 Shino Lin.mp3",
+    "media_import_source": "google_drive",
+    "media_original": "/Users/freddietw/GP-AI-Projects/練團助手/data/media/She_Knows_林曉培_Shino_Lin/original.mp3",
+    "metadata_source": "youtube_metadata",
+    "lyrics_source": "user_provided_jitapu_pdf",
+    "lyrics_status": "applied_from_user_pdf",
+    "chord_source": "user_provided_pdf_chart",
+    "chord_status": "applied_from_user_pdf",
+    "youtube_video_id": "nQMIklPWeUY",
+    "youtube_url": "https://www.youtube.com/watch?v=nQMIklPWeUY",
+    "youtube_title": "She Knows 林曉培",
+    "youtube_channel": "林曉培官方頻道 - 萊茯音樂",
+    "alternate_artist_name": "Shino Lin",
+    "chart_source": "user_provided_jitapu_pdf",
+    "key_source": "manual_from_chart_tonic",
+    "bpm_source": "not_in_pdf",
+    "manual_override": "true",
+    "pdf_chart_file": "sources/She-Knows-jitapu.pdf",
+    "alignment_status": "section_estimated_from_chart_not_audio_aligned",
+    "score_references": [
+      {
+        "type": "PDF chart",
+        "url": "",
+        "note": "User-provided She Knows PDF; applied as manual rehearsal chart.",
+        "file": "sources/She-Knows-jitapu.pdf",
+        "role": "manual_reference",
+        "status": "applied",
+        "confidence": 1.0
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "other"
+  },
+  "created_at": "2026-08-22T14:03:34.185191+00:00",
+  "updated_at": "2026-08-22T15:23:30.595266+00:00"
+}

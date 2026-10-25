@@ -1,0 +1,991 @@
+{
+  "schema_version": 1,
+  "id": "If_It_Makes_You_Happy_Sheryl_Crow",
+  "song": {
+    "title": "If It Makes You Happy",
+    "artist": "Sheryl Crow",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/Sheryl_Crow_-_If_It_Makes_You_Happy_(Official_Music_Video)/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 280.109
+  },
+  "analysis": {
+    "bpm": 93.8,
+    "key": "G Major",
+    "confidence": {
+      "imported_key_rechecked": 1.0,
+      "major_tonic_score": 0.5,
+      "relative_minor_score": 0.035
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 10.0,
+      "source": "imported"
+    },
+    {
+      "id": "2_verse",
+      "label": "Verse",
+      "start": 10.0,
+      "end": 20.0,
+      "source": "imported"
+    },
+    {
+      "id": "3_chorus",
+      "label": "Chorus",
+      "start": 20.0,
+      "end": 80.0,
+      "source": "imported"
+    },
+    {
+      "id": "4_section_2",
+      "label": "Section 2",
+      "start": 80.0,
+      "end": 90.0,
+      "source": "imported"
+    },
+    {
+      "id": "5_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 90.0,
+      "end": 110.0,
+      "source": "imported"
+    },
+    {
+      "id": "6_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 110.0,
+      "end": 120.0,
+      "source": "imported"
+    },
+    {
+      "id": "7_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 120.0,
+      "end": 130.0,
+      "source": "imported"
+    },
+    {
+      "id": "8_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 130.0,
+      "end": 150.0,
+      "source": "imported"
+    },
+    {
+      "id": "9_section_2_rep",
+      "label": "Section 2 (Rep)",
+      "start": 150.0,
+      "end": 180.0,
+      "source": "imported"
+    },
+    {
+      "id": "10_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 180.0,
+      "end": 190.0,
+      "source": "imported"
+    },
+    {
+      "id": "11_section_0",
+      "label": "Section 0",
+      "start": 190.0,
+      "end": 200.0,
+      "source": "imported"
+    },
+    {
+      "id": "12_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 200.0,
+      "end": 210.0,
+      "source": "imported"
+    },
+    {
+      "id": "13_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 210.0,
+      "end": 240.0,
+      "source": "imported"
+    },
+    {
+      "id": "14_section_2_rep",
+      "label": "Section 2 (Rep)",
+      "start": 240.0,
+      "end": 260.0,
+      "source": "imported"
+    },
+    {
+      "id": "15_section_0_rep",
+      "label": "Section 0 (Rep)",
+      "start": 260.0,
+      "end": 274.0,
+      "source": "imported"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 19.84,
+      "end": 27.84,
+      "text": "I belong, a long way from here",
+      "source": "imported"
+    },
+    {
+      "start": 30.89,
+      "end": 35.488,
+      "text": "I put on a poncho and played for mosquitoes",
+      "source": "imported"
+    },
+    {
+      "start": 35.488,
+      "end": 39.955,
+      "text": "And drank 'till I was thirsty again",
+      "source": "imported"
+    },
+    {
+      "start": 39.955,
+      "end": 47.955,
+      "text": "We went searching, through thrift store jungles",
+      "source": "imported"
+    },
+    {
+      "start": 50.195,
+      "end": 55.654,
+      "text": "Found Geronimo's rifle, Marilyn's shampoo",
+      "source": "imported"
+    },
+    {
+      "start": 55.654,
+      "end": 60.069,
+      "text": "And Benny Goodman's cursive pen",
+      "source": "imported"
+    },
+    {
+      "start": 60.069,
+      "end": 65.738,
+      "text": "Well, okay, I made this up",
+      "source": "imported"
+    },
+    {
+      "start": 65.738,
+      "end": 69.055,
+      "text": "I promise you I'd never give up",
+      "source": "imported"
+    },
+    {
+      "start": 69.055,
+      "end": 74.541,
+      "text": "If it makes you happy",
+      "source": "imported"
+    },
+    {
+      "start": 74.541,
+      "end": 79.191,
+      "text": "It can't be that bad",
+      "source": "imported"
+    },
+    {
+      "start": 79.191,
+      "end": 83.945,
+      "text": "If it makes you happy",
+      "source": "imported"
+    },
+    {
+      "start": 83.945,
+      "end": 91.945,
+      "text": "Then why the hell are you so sad?",
+      "source": "imported"
+    },
+    {
+      "start": 95.596,
+      "end": 103.596,
+      "text": "Get down, real low down",
+      "source": "imported"
+    },
+    {
+      "start": 105.96600000000001,
+      "end": 111.00800000000001,
+      "text": "You listen to Coltrane, derail your own train",
+      "source": "imported"
+    },
+    {
+      "start": 111.00800000000001,
+      "end": 115.37,
+      "text": "Well, who hasn't been there before?",
+      "source": "imported"
+    },
+    {
+      "start": 115.37,
+      "end": 123.37,
+      "text": "I come 'round, around the hard way",
+      "source": "imported"
+    },
+    {
+      "start": 125.767,
+      "end": 128.066,
+      "text": "Bring you comics in bed",
+      "source": "imported"
+    },
+    {
+      "start": 128.066,
+      "end": 131.122,
+      "text": "Scrape the mold off the bread",
+      "source": "imported"
+    },
+    {
+      "start": 131.122,
+      "end": 135.563,
+      "text": "And serve you french toast again",
+      "source": "imported"
+    },
+    {
+      "start": 135.563,
+      "end": 141.258,
+      "text": "Okay, I still get stoned",
+      "source": "imported"
+    },
+    {
+      "start": 141.258,
+      "end": 144.941,
+      "text": "I'm not the kind of girl you'd take home",
+      "source": "imported"
+    },
+    {
+      "start": 144.941,
+      "end": 149.956,
+      "text": "If it makes you happy",
+      "source": "imported"
+    },
+    {
+      "start": 149.956,
+      "end": 154.554,
+      "text": "It can't be that bad",
+      "source": "imported"
+    },
+    {
+      "start": 154.554,
+      "end": 159.387,
+      "text": "If it makes you happy",
+      "source": "imported"
+    },
+    {
+      "start": 159.387,
+      "end": 164.559,
+      "text": "Then why the hell are you so sad?",
+      "source": "imported"
+    },
+    {
+      "start": 164.559,
+      "end": 170.097,
+      "text": "If it makes you happy",
+      "source": "imported"
+    },
+    {
+      "start": 170.097,
+      "end": 174.877,
+      "text": "It can't be that bad",
+      "source": "imported"
+    },
+    {
+      "start": 174.877,
+      "end": 179.501,
+      "text": "If it makes you happy",
+      "source": "imported"
+    },
+    {
+      "start": 179.501,
+      "end": 187.501,
+      "text": "Then why the hell are you so sad?",
+      "source": "imported"
+    },
+    {
+      "start": 210.926,
+      "end": 218.926,
+      "text": "We've been far, far away from here",
+      "source": "imported"
+    },
+    {
+      "start": 222.002,
+      "end": 226.652,
+      "text": "I put on a poncho and played for mosquitoes",
+      "source": "imported"
+    },
+    {
+      "start": 226.652,
+      "end": 231.04,
+      "text": "And everywhere in between",
+      "source": "imported"
+    },
+    {
+      "start": 231.04,
+      "end": 236.65699999999998,
+      "text": "Well, okay, we get along",
+      "source": "imported"
+    },
+    {
+      "start": 236.65699999999998,
+      "end": 240.523,
+      "text": "So what if right now, everything's wrong?",
+      "source": "imported"
+    },
+    {
+      "start": 240.523,
+      "end": 245.591,
+      "text": "If it makes you happy",
+      "source": "imported"
+    },
+    {
+      "start": 245.591,
+      "end": 250.136,
+      "text": "It can't be that bad",
+      "source": "imported"
+    },
+    {
+      "start": 250.136,
+      "end": 254.916,
+      "text": "If it makes you happy",
+      "source": "imported"
+    },
+    {
+      "start": 254.916,
+      "end": 260.193,
+      "text": "Then why the hell are you so sad?",
+      "source": "imported"
+    },
+    {
+      "start": 260.193,
+      "end": 265.731,
+      "text": "If it makes you happy",
+      "source": "imported"
+    },
+    {
+      "start": 265.731,
+      "end": 270.224,
+      "text": "It can't be that bad",
+      "source": "imported"
+    },
+    {
+      "start": 270.224,
+      "end": 275.109,
+      "text": "If it makes you happy",
+      "source": "imported"
+    },
+    {
+      "start": 275.109,
+      "end": 280.109,
+      "text": "Then why the hell are you so sad?",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 3.3437,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 20.6658,
+      "chord": "Gsus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 22.384,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 25.7045,
+      "chord": "Gsus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 27.9104,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 31.0451,
+      "chord": "Gsus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 33.251,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 35.782,
+      "chord": "Gsus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 37.9646,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 41.0993,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 43.6303,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 46.4631,
+      "chord": "Gsus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 48.3439,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 51.1768,
+      "chord": "Gsus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 53.3595,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 55.8904,
+      "chord": "Gsus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 58.4214,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 61.231,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 66.2698,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 68.9168,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 71.3085,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 73.8162,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 76.4401,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 78.855,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 81.3627,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 84.0562,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 86.4247,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 88.9324,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 91.4402,
+      "chord": "Gsus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 93.1585,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 101.5176,
+      "chord": "Gsus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 103.561,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 116.9357,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 119.3506,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 121.9512,
+      "chord": "Gsus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 123.9946,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 132.0054,
+      "chord": "Gsus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 133.8863,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 136.9977,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 141.9204,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 144.521,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 146.9359,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 149.6294,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 152.1604,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 154.6449,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 157.1759,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 159.7533,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 162.1914,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 164.7688,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 169.5985,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 172.2921,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 174.7998,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 177.3308,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 179.9082,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 182.3231,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 184.9237,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 190.1714,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 194.8619,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 200.2024,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 205.0786,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 212.8341,
+      "chord": "Gsus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 214.7149,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 217.5478,
+      "chord": "Gsus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 219.7537,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 222.8883,
+      "chord": "Gsus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 224.7924,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 227.9503,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 232.6639,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 235.4968,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 237.7956,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 240.5587,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 243.02,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 245.551,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 247.8962,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 250.7755,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 253.0975,
+      "chord": "C/G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 255.6053,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 260.3421,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 260.8065,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 263.1517,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 265.6827,
+      "chord": "G/D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 268.1905,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 270.7447,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 273.2292,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 276.0388,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 20.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 80.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 90.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 110.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 130.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 150.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 180.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 210.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 240.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 260.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/Sheryl_Crow_-_If_It_Makes_You_Happy_(Official_Music_Video)",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 42
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "piano"
+  },
+  "created_at": "2026-10-24T06:41:01.139416+00:00",
+  "updated_at": "2026-10-24T06:41:01.139704+00:00"
+}

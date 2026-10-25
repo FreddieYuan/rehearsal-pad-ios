@@ -1,0 +1,1490 @@
+{
+  "schema_version": 1,
+  "id": "Runaway_Baby_Bruno_Mars",
+  "song": {
+    "title": "Runaway Baby",
+    "artist": "Bruno Mars",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/Runaway_Baby_Bruno_Mars/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 152.765
+  },
+  "analysis": {
+    "bpm": 82.7,
+    "key": "D# Major",
+    "confidence": {
+      "imported_key_rechecked": 1.0,
+      "major_tonic_score": 0.474,
+      "relative_minor_score": 0.0
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 10.0,
+      "source": "imported"
+    },
+    {
+      "id": "2_chorus",
+      "label": "Chorus",
+      "start": 10.0,
+      "end": 30.0,
+      "source": "imported"
+    },
+    {
+      "id": "3_section_1",
+      "label": "Section 1",
+      "start": 30.0,
+      "end": 40.0,
+      "source": "imported"
+    },
+    {
+      "id": "4_verse",
+      "label": "Verse",
+      "start": 40.0,
+      "end": 50.0,
+      "source": "imported"
+    },
+    {
+      "id": "5_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 50.0,
+      "end": 80.0,
+      "source": "imported"
+    },
+    {
+      "id": "6_section_1_rep",
+      "label": "Section 1 (Rep)",
+      "start": 80.0,
+      "end": 90.0,
+      "source": "imported"
+    },
+    {
+      "id": "7_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 90.0,
+      "end": 100.0,
+      "source": "imported"
+    },
+    {
+      "id": "8_section_4",
+      "label": "Section 4",
+      "start": 100.0,
+      "end": 110.0,
+      "source": "imported"
+    },
+    {
+      "id": "9_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 110.0,
+      "end": 130.0,
+      "source": "imported"
+    },
+    {
+      "id": "10_section_1_rep",
+      "label": "Section 1 (Rep)",
+      "start": 130.0,
+      "end": 147.0,
+      "source": "imported"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 0.422,
+      "end": 5.067,
+      "text": "Ahh yes!!!",
+      "source": "imported"
+    },
+    {
+      "start": 5.067,
+      "end": 6.26,
+      "text": "Well look at here",
+      "source": "imported"
+    },
+    {
+      "start": 6.26,
+      "end": 7.002,
+      "text": "Look at here",
+      "source": "imported"
+    },
+    {
+      "start": 7.002,
+      "end": 8.499,
+      "text": "Ah what do we have?",
+      "source": "imported"
+    },
+    {
+      "start": 8.499,
+      "end": 9.754,
+      "text": "Another pretty thang",
+      "source": "imported"
+    },
+    {
+      "start": 9.754,
+      "end": 11.507,
+      "text": "Ready for me to grab",
+      "source": "imported"
+    },
+    {
+      "start": 11.507,
+      "end": 12.509,
+      "text": "But little does she know",
+      "source": "imported"
+    },
+    {
+      "start": 12.509,
+      "end": 14.003,
+      "text": "That I'm a wolf in sheep's clothing",
+      "source": "imported"
+    },
+    {
+      "start": 14.003,
+      "end": 15.51,
+      "text": "'Cause at the end of the night",
+      "source": "imported"
+    },
+    {
+      "start": 15.51,
+      "end": 17.0,
+      "text": "It is her I'll be holding",
+      "source": "imported"
+    },
+    {
+      "start": 17.0,
+      "end": 18.262,
+      "text": "I love you so",
+      "source": "imported"
+    },
+    {
+      "start": 18.262,
+      "end": 19.967,
+      "text": "That's what you'll say",
+      "source": "imported"
+    },
+    {
+      "start": 19.967,
+      "end": 20.461,
+      "text": "You'll tell me",
+      "source": "imported"
+    },
+    {
+      "start": 20.461,
+      "end": 20.969,
+      "text": "Baby",
+      "source": "imported"
+    },
+    {
+      "start": 20.969,
+      "end": 21.153,
+      "text": "Baby",
+      "source": "imported"
+    },
+    {
+      "start": 21.153,
+      "end": 22.884,
+      "text": "Please don't go away",
+      "source": "imported"
+    },
+    {
+      "start": 22.884,
+      "end": 24.323,
+      "text": "But when I play",
+      "source": "imported"
+    },
+    {
+      "start": 24.323,
+      "end": 26.075,
+      "text": "I never stay",
+      "source": "imported"
+    },
+    {
+      "start": 26.075,
+      "end": 29.293,
+      "text": "So every girl that I meet yeah this is what I say",
+      "source": "imported"
+    },
+    {
+      "start": 29.293,
+      "end": 29.488,
+      "text": "Run",
+      "source": "imported"
+    },
+    {
+      "start": 29.488,
+      "end": 29.992,
+      "text": "Run",
+      "source": "imported"
+    },
+    {
+      "start": 29.992,
+      "end": 30.741,
+      "text": "Runaway",
+      "source": "imported"
+    },
+    {
+      "start": 30.741,
+      "end": 31.485,
+      "text": "Runaway",
+      "source": "imported"
+    },
+    {
+      "start": 31.485,
+      "end": 32.004,
+      "text": "Baby",
+      "source": "imported"
+    },
+    {
+      "start": 32.004,
+      "end": 34.501,
+      "text": "Before I put my spell on you",
+      "source": "imported"
+    },
+    {
+      "start": 34.501,
+      "end": 35.243,
+      "text": "You better",
+      "source": "imported"
+    },
+    {
+      "start": 35.243,
+      "end": 35.502,
+      "text": "Get",
+      "source": "imported"
+    },
+    {
+      "start": 35.502,
+      "end": 35.989,
+      "text": "Get",
+      "source": "imported"
+    },
+    {
+      "start": 35.989,
+      "end": 36.747,
+      "text": "Getaway",
+      "source": "imported"
+    },
+    {
+      "start": 36.747,
+      "end": 37.753,
+      "text": "Getaway darling",
+      "source": "imported"
+    },
+    {
+      "start": 37.753,
+      "end": 40.0,
+      "text": "'Cause everything you heard is true",
+      "source": "imported"
+    },
+    {
+      "start": 40.0,
+      "end": 42.99,
+      "text": "Your poor little heart will end up alone",
+      "source": "imported"
+    },
+    {
+      "start": 42.99,
+      "end": 46.239,
+      "text": "'Cause Lord knows I'm a rolling stone",
+      "source": "imported"
+    },
+    {
+      "start": 46.239,
+      "end": 46.738,
+      "text": "So you better",
+      "source": "imported"
+    },
+    {
+      "start": 46.738,
+      "end": 47.252,
+      "text": "Run",
+      "source": "imported"
+    },
+    {
+      "start": 47.252,
+      "end": 47.741,
+      "text": "Run",
+      "source": "imported"
+    },
+    {
+      "start": 47.741,
+      "end": 48.253,
+      "text": "Runaway",
+      "source": "imported"
+    },
+    {
+      "start": 48.253,
+      "end": 49.003,
+      "text": "Runaway",
+      "source": "imported"
+    },
+    {
+      "start": 49.003,
+      "end": 54.836,
+      "text": "Baby",
+      "source": "imported"
+    },
+    {
+      "start": 54.836,
+      "end": 56.03,
+      "text": "Well let me think",
+      "source": "imported"
+    },
+    {
+      "start": 56.03,
+      "end": 56.53,
+      "text": "Let me think",
+      "source": "imported"
+    },
+    {
+      "start": 56.53,
+      "end": 57.738,
+      "text": "Ah what should I do?",
+      "source": "imported"
+    },
+    {
+      "start": 57.738,
+      "end": 59.736,
+      "text": "So many eager young bunny's",
+      "source": "imported"
+    },
+    {
+      "start": 59.736,
+      "end": 61.2,
+      "text": "That I'd like to pursue",
+      "source": "imported"
+    },
+    {
+      "start": 61.2,
+      "end": 63.888,
+      "text": "Now even now they eating out the palm of my hand",
+      "source": "imported"
+    },
+    {
+      "start": 63.888,
+      "end": 66.655,
+      "text": "There's only one carrot and they all gotta share it",
+      "source": "imported"
+    },
+    {
+      "start": 66.655,
+      "end": 68.147,
+      "text": "I love you so",
+      "source": "imported"
+    },
+    {
+      "start": 68.147,
+      "end": 69.895,
+      "text": "That's what you'll say",
+      "source": "imported"
+    },
+    {
+      "start": 69.895,
+      "end": 70.146,
+      "text": "You'll tell me",
+      "source": "imported"
+    },
+    {
+      "start": 70.146,
+      "end": 70.636,
+      "text": "Baby",
+      "source": "imported"
+    },
+    {
+      "start": 70.636,
+      "end": 71.134,
+      "text": "Baby",
+      "source": "imported"
+    },
+    {
+      "start": 71.134,
+      "end": 72.634,
+      "text": "Please don't go away",
+      "source": "imported"
+    },
+    {
+      "start": 72.634,
+      "end": 74.141,
+      "text": "But when I play",
+      "source": "imported"
+    },
+    {
+      "start": 74.141,
+      "end": 75.881,
+      "text": "I never stay",
+      "source": "imported"
+    },
+    {
+      "start": 75.881,
+      "end": 79.07900000000001,
+      "text": "So every girl that I meet yeah this is what I say",
+      "source": "imported"
+    },
+    {
+      "start": 79.07900000000001,
+      "end": 79.322,
+      "text": "Run",
+      "source": "imported"
+    },
+    {
+      "start": 79.322,
+      "end": 79.828,
+      "text": "Run",
+      "source": "imported"
+    },
+    {
+      "start": 79.828,
+      "end": 80.57300000000001,
+      "text": "Runaway",
+      "source": "imported"
+    },
+    {
+      "start": 80.57300000000001,
+      "end": 81.078,
+      "text": "Runaway",
+      "source": "imported"
+    },
+    {
+      "start": 81.078,
+      "end": 81.83500000000001,
+      "text": "Baby",
+      "source": "imported"
+    },
+    {
+      "start": 81.83500000000001,
+      "end": 84.339,
+      "text": "Before I put my spell on you",
+      "source": "imported"
+    },
+    {
+      "start": 84.339,
+      "end": 84.842,
+      "text": "You better",
+      "source": "imported"
+    },
+    {
+      "start": 84.842,
+      "end": 85.32300000000001,
+      "text": "Get",
+      "source": "imported"
+    },
+    {
+      "start": 85.32300000000001,
+      "end": 85.582,
+      "text": "Get",
+      "source": "imported"
+    },
+    {
+      "start": 85.582,
+      "end": 86.33500000000001,
+      "text": "Getaway",
+      "source": "imported"
+    },
+    {
+      "start": 86.33500000000001,
+      "end": 87.08,
+      "text": "Getaway",
+      "source": "imported"
+    },
+    {
+      "start": 87.08,
+      "end": 87.777,
+      "text": "Darling",
+      "source": "imported"
+    },
+    {
+      "start": 87.777,
+      "end": 90.017,
+      "text": "'Cause everything you heard is true",
+      "source": "imported"
+    },
+    {
+      "start": 90.017,
+      "end": 92.769,
+      "text": "Your poor little heart will end up alone",
+      "source": "imported"
+    },
+    {
+      "start": 92.769,
+      "end": 96.021,
+      "text": "'Cause Lord knows I'm a rolling stone",
+      "source": "imported"
+    },
+    {
+      "start": 96.021,
+      "end": 96.773,
+      "text": "So you better",
+      "source": "imported"
+    },
+    {
+      "start": 96.773,
+      "end": 97.036,
+      "text": "Run",
+      "source": "imported"
+    },
+    {
+      "start": 97.036,
+      "end": 97.52600000000001,
+      "text": "Run",
+      "source": "imported"
+    },
+    {
+      "start": 97.52600000000001,
+      "end": 98.018,
+      "text": "Runaway",
+      "source": "imported"
+    },
+    {
+      "start": 98.018,
+      "end": 98.771,
+      "text": "Runaway",
+      "source": "imported"
+    },
+    {
+      "start": 98.771,
+      "end": 104.176,
+      "text": "Baby",
+      "source": "imported"
+    },
+    {
+      "start": 104.176,
+      "end": 106.63900000000001,
+      "text": "See I ain't try to hurt you baby",
+      "source": "imported"
+    },
+    {
+      "start": 106.63900000000001,
+      "end": 107.132,
+      "text": "No No",
+      "source": "imported"
+    },
+    {
+      "start": 107.132,
+      "end": 109.39099999999999,
+      "text": "No I just wanna work you baby",
+      "source": "imported"
+    },
+    {
+      "start": 109.39099999999999,
+      "end": 109.858,
+      "text": "Yup",
+      "source": "imported"
+    },
+    {
+      "start": 109.858,
+      "end": 110.307,
+      "text": "Yup",
+      "source": "imported"
+    },
+    {
+      "start": 110.307,
+      "end": 112.305,
+      "text": "See I ain't try to hurt you baby",
+      "source": "imported"
+    },
+    {
+      "start": 112.305,
+      "end": 112.814,
+      "text": "No",
+      "source": "imported"
+    },
+    {
+      "start": 112.814,
+      "end": 113.288,
+      "text": "No",
+      "source": "imported"
+    },
+    {
+      "start": 113.288,
+      "end": 115.287,
+      "text": "No I just wanna work you baby",
+      "source": "imported"
+    },
+    {
+      "start": 115.287,
+      "end": 117.233,
+      "text": "If you scared you better run",
+      "source": "imported"
+    },
+    {
+      "start": 117.233,
+      "end": 117.989,
+      "text": "(You better run)",
+      "source": "imported"
+    },
+    {
+      "start": 117.989,
+      "end": 118.977,
+      "text": "You better run",
+      "source": "imported"
+    },
+    {
+      "start": 118.977,
+      "end": 119.48599999999999,
+      "text": "(You better run)",
+      "source": "imported"
+    },
+    {
+      "start": 119.48599999999999,
+      "end": 120.194,
+      "text": "You better run",
+      "source": "imported"
+    },
+    {
+      "start": 120.194,
+      "end": 120.95,
+      "text": "(You better run)",
+      "source": "imported"
+    },
+    {
+      "start": 120.95,
+      "end": 121.682,
+      "text": "You better",
+      "source": "imported"
+    },
+    {
+      "start": 121.682,
+      "end": 122.199,
+      "text": "You better",
+      "source": "imported"
+    },
+    {
+      "start": 122.199,
+      "end": 122.935,
+      "text": "You better",
+      "source": "imported"
+    },
+    {
+      "start": 122.935,
+      "end": 123.195,
+      "text": "Run",
+      "source": "imported"
+    },
+    {
+      "start": 123.195,
+      "end": 123.697,
+      "text": "Run",
+      "source": "imported"
+    },
+    {
+      "start": 123.697,
+      "end": 124.43299999999999,
+      "text": "Runaway",
+      "source": "imported"
+    },
+    {
+      "start": 124.43299999999999,
+      "end": 125.189,
+      "text": "Runaway",
+      "source": "imported"
+    },
+    {
+      "start": 125.189,
+      "end": 125.687,
+      "text": "Baby",
+      "source": "imported"
+    },
+    {
+      "start": 125.687,
+      "end": 128.193,
+      "text": "Before I put my spell on you",
+      "source": "imported"
+    },
+    {
+      "start": 128.193,
+      "end": 128.687,
+      "text": "You better",
+      "source": "imported"
+    },
+    {
+      "start": 128.687,
+      "end": 129.182,
+      "text": "Get",
+      "source": "imported"
+    },
+    {
+      "start": 129.182,
+      "end": 129.693,
+      "text": "Get",
+      "source": "imported"
+    },
+    {
+      "start": 129.693,
+      "end": 130.197,
+      "text": "Getaway",
+      "source": "imported"
+    },
+    {
+      "start": 130.197,
+      "end": 130.94,
+      "text": "Getaway",
+      "source": "imported"
+    },
+    {
+      "start": 130.94,
+      "end": 131.45,
+      "text": "Darling",
+      "source": "imported"
+    },
+    {
+      "start": 131.45,
+      "end": 133.705,
+      "text": "'Cause everything you heard is true",
+      "source": "imported"
+    },
+    {
+      "start": 133.705,
+      "end": 136.7,
+      "text": "Your poor little heart will end up alone",
+      "source": "imported"
+    },
+    {
+      "start": 136.7,
+      "end": 139.945,
+      "text": "'Cause Lord knows I'm a rolling stone",
+      "source": "imported"
+    },
+    {
+      "start": 139.945,
+      "end": 140.446,
+      "text": "So you better",
+      "source": "imported"
+    },
+    {
+      "start": 140.446,
+      "end": 140.936,
+      "text": "Run",
+      "source": "imported"
+    },
+    {
+      "start": 140.936,
+      "end": 141.198,
+      "text": "Run",
+      "source": "imported"
+    },
+    {
+      "start": 141.198,
+      "end": 141.952,
+      "text": "Runaway",
+      "source": "imported"
+    },
+    {
+      "start": 141.952,
+      "end": 142.691,
+      "text": "Runaway",
+      "source": "imported"
+    },
+    {
+      "start": 142.691,
+      "end": 143.691,
+      "text": "Baby!",
+      "source": "imported"
+    },
+    {
+      "start": 144.37,
+      "end": 145.728,
+      "text": "主人聲 : Bruno Mars",
+      "source": "imported"
+    },
+    {
+      "start": 145.728,
+      "end": 146.407,
+      "text": "混音助理 : Christian Plata/Erik Madrid",
+      "source": "imported"
+    },
+    {
+      "start": 147.086,
+      "end": 147.765,
+      "text": "器樂 : Ari Levine/Brody Brown/Bruno Mars",
+      "source": "imported"
+    },
+    {
+      "start": 147.765,
+      "end": 152.765,
+      "text": "混音工程師 : Manny Marroquin",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 0.1393,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 1.4629,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 2.8793,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 4.2028,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 6.0372,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 7.3143,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 8.9397,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 10.031,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 11.6796,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 13.1657,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 14.6286,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 19.0171,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 20.0853,
+      "chord": "Bbm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 20.6425,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 21.9196,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 23.5915,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 24.8918,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 26.494,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 27.8175,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 29.4197,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 30.929,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 32.3686,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 33.6457,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 35.2943,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 36.7572,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 38.22,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 39.5668,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 41.1458,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 42.6318,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 44.0715,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 45.3718,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 46.9972,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 48.46,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 50.2712,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 51.2232,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 52.8486,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 54.1489,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 55.7743,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 57.2604,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 58.1428,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 58.7,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 60.1629,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 61.649,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 63.0654,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 64.3657,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 66.0376,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 67.8255,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 68.7775,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 70.4029,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 71.8658,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 73.3286,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 74.8379,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 76.4401,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 79.1568,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 81.0144,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 82.129,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 83.5918,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 85.0547,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 86.8659,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 88.1662,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 89.629,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 91.2544,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 92.5547,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 93.9944,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 95.4805,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 97.1059,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 98.4526,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 99.66,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 101.1461,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 102.9573,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 104.0486,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 105.6972,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 106.9976,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 108.7623,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 109.9233,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 111.5487,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 112.849,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 114.6601,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 115.7747,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 117.6091,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 118.7004,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 120.3722,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 123.1122,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 124.9234,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 126.3862,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 127.6633,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 129.3119,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 130.7748,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 132.2376,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 133.5147,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 135.1634,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 136.6262,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 138.0891,
+      "chord": "Ebm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 139.3662,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 141.0148,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 142.5241,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 143.9637,
+      "chord": "Eb/Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 0.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 10.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 30.0,
+      "detail": "All Draws Out [Pgm 05:1] — 88 8888 888",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 40.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 50.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 80.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 90.0,
+      "detail": "Suit w rotary-RM [Pgm 27:2]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 100.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 110.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 130.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/Runaway_Baby_Bruno_Mars",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 121
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "other"
+  },
+  "created_at": "2026-10-24T06:41:01.135876+00:00",
+  "updated_at": "2026-10-24T06:41:01.136496+00:00"
+}

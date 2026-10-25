@@ -1,0 +1,1065 @@
+{
+  "schema_version": 1,
+  "id": "說不出口_楊乃文",
+  "song": {
+    "title": "說不出口",
+    "artist": "楊乃文",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/說不出口_楊乃文/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 282.93
+  },
+  "analysis": {
+    "bpm": 93.8,
+    "key": "F Minor",
+    "confidence": {
+      "imported_key_rechecked": 1.0
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 10.0,
+      "source": "imported"
+    },
+    {
+      "id": "2_chorus",
+      "label": "Chorus",
+      "start": 10.0,
+      "end": 20.0,
+      "source": "imported"
+    },
+    {
+      "id": "3_section_3",
+      "label": "Section 3",
+      "start": 20.0,
+      "end": 30.0,
+      "source": "imported"
+    },
+    {
+      "id": "4_intro_rep",
+      "label": "Intro (Rep)",
+      "start": 30.0,
+      "end": 70.0,
+      "source": "imported"
+    },
+    {
+      "id": "5_section_3_rep",
+      "label": "Section 3 (Rep)",
+      "start": 70.0,
+      "end": 100.0,
+      "source": "imported"
+    },
+    {
+      "id": "6_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 100.0,
+      "end": 170.0,
+      "source": "imported"
+    },
+    {
+      "id": "7_verse",
+      "label": "Verse",
+      "start": 170.0,
+      "end": 180.0,
+      "source": "imported"
+    },
+    {
+      "id": "8_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 180.0,
+      "end": 190.0,
+      "source": "imported"
+    },
+    {
+      "id": "9_section_4",
+      "label": "Section 4",
+      "start": 190.0,
+      "end": 210.0,
+      "source": "imported"
+    },
+    {
+      "id": "10_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 210.0,
+      "end": 278.0,
+      "source": "imported"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 25.97,
+      "end": 33.97,
+      "text": "天上烏雲終究它會散開來 看見了太陽",
+      "source": "imported"
+    },
+    {
+      "start": 35.97,
+      "end": 43.97,
+      "text": "時間將角落的灰和暗都趕走 露出了色彩",
+      "source": "imported"
+    },
+    {
+      "start": 45.98,
+      "end": 53.98,
+      "text": "心裡塵埃終究它會掉下來 看見了願望",
+      "source": "imported"
+    },
+    {
+      "start": 56.67,
+      "end": 64.67,
+      "text": "迷濛的世界不再將你我隔開 它沒有阻礙",
+      "source": "imported"
+    },
+    {
+      "start": 68.41,
+      "end": 76.41,
+      "text": "如果只是想回到過去 那明天有什麼意義",
+      "source": "imported"
+    },
+    {
+      "start": 78.47,
+      "end": 85.31,
+      "text": "知道你不曾埋怨不說抱歉 離去或傷心的一瞬間",
+      "source": "imported"
+    },
+    {
+      "start": 85.31,
+      "end": 90.43,
+      "text": "都是清風吹",
+      "source": "imported"
+    },
+    {
+      "start": 90.43,
+      "end": 96.77000000000001,
+      "text": "我要我一點一點不見 一點一點蛻變",
+      "source": "imported"
+    },
+    {
+      "start": 96.77000000000001,
+      "end": 101.33,
+      "text": "像天使雪白的容顏在你眼前",
+      "source": "imported"
+    },
+    {
+      "start": 101.33,
+      "end": 106.82,
+      "text": "把它全部打破 全部從頭",
+      "source": "imported"
+    },
+    {
+      "start": 106.82,
+      "end": 111.68,
+      "text": "開始我的新的冒險",
+      "source": "imported"
+    },
+    {
+      "start": 111.68,
+      "end": 116.93,
+      "text": "因為我全部我都看見 全部我都聽見",
+      "source": "imported"
+    },
+    {
+      "start": 116.93,
+      "end": 121.43,
+      "text": "擁抱你是唯一我會的語言",
+      "source": "imported"
+    },
+    {
+      "start": 121.43,
+      "end": 127.09,
+      "text": "當我舉起了手 向前走",
+      "source": "imported"
+    },
+    {
+      "start": 127.09,
+      "end": 133.59,
+      "text": "那激動在我的心頭 說不出口",
+      "source": "imported"
+    },
+    {
+      "start": 169.14,
+      "end": 175.64,
+      "text": "到了明天 都還有明天會接手",
+      "source": "imported"
+    },
+    {
+      "start": 179.53,
+      "end": 181.53,
+      "text": "不會寂寞",
+      "source": "imported"
+    },
+    {
+      "start": 189.45,
+      "end": 195.39,
+      "text": "我要我一點一點不見 一點一點蛻變",
+      "source": "imported"
+    },
+    {
+      "start": 195.39,
+      "end": 199.96,
+      "text": "像天使雪白的容顏在你眼前",
+      "source": "imported"
+    },
+    {
+      "start": 199.96,
+      "end": 205.3,
+      "text": "把它全部打破 全部從頭",
+      "source": "imported"
+    },
+    {
+      "start": 205.3,
+      "end": 209.57999999999998,
+      "text": "開始我的新的冒險",
+      "source": "imported"
+    },
+    {
+      "start": 209.57999999999998,
+      "end": 215.51,
+      "text": "因為我全部我都看見 全部我都聽見",
+      "source": "imported"
+    },
+    {
+      "start": 215.51,
+      "end": 220.27,
+      "text": "擁抱你是唯一我會的語言",
+      "source": "imported"
+    },
+    {
+      "start": 220.27,
+      "end": 225.52,
+      "text": "當我舉起了手 向前走",
+      "source": "imported"
+    },
+    {
+      "start": 225.52,
+      "end": 232.02,
+      "text": "那激動在我的心頭 說不出口",
+      "source": "imported"
+    },
+    {
+      "start": 274.19,
+      "end": 274.6,
+      "text": "吉他 Guitar｜蔡侑良 Tsaiyuliang / 陳君豪 Howe",
+      "source": "imported"
+    },
+    {
+      "start": 274.6,
+      "end": 275.02,
+      "text": "貝斯 Bass｜Tim Lefebvre",
+      "source": "imported"
+    },
+    {
+      "start": 275.02,
+      "end": 275.44,
+      "text": "鼓 Drum｜羅尊龍 Lo Tsun-Lung",
+      "source": "imported"
+    },
+    {
+      "start": 275.44,
+      "end": 275.85,
+      "text": "合音編寫 Background Vocal Arrangement｜伍佰 Wu Bai",
+      "source": "imported"
+    },
+    {
+      "start": 275.85,
+      "end": 276.27,
+      "text": "合音 Background Vocal｜伍佰 Wu Bai / 楊乃文 Naiwen Yang",
+      "source": "imported"
+    },
+    {
+      "start": 276.68,
+      "end": 277.1,
+      "text": "錄音室 Recording Studio｜BB Road Studio /  Lights up Studio",
+      "source": "imported"
+    },
+    {
+      "start": 277.52,
+      "end": 277.93,
+      "text": "混音錄音室 Mixing Studio｜Purring Sound Studio",
+      "source": "imported"
+    },
+    {
+      "start": 277.93,
+      "end": 282.93,
+      "text": "製作助理 Production Assistant｜沈冠霖 SHENB / 林頡 Jie Lin",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 6.4784,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 8.7307,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 11.5635,
+      "chord": "Bbm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 13.7694,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 15.9521,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 18.8082,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 21.6642,
+      "chord": "Bbm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 23.5683,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 26.0528,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 26.9351,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 28.9088,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 31.138,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 31.6488,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 34.2959,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 36.8268,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 37.9646,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 39.3578,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 40.4724,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 41.7495,
+      "chord": "Bbm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 44.3733,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 46.9043,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 48.4833,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 49.1334,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 51.3393,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 51.9663,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 54.474,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 57.005,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 58.3053,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 59.536,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 60.8131,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 62.0669,
+      "chord": "Bbm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 63.344,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 64.5979,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 69.4973,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 72.0747,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 74.7218,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 77.2528,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.2482,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 82.2915,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 84.8225,
+      "chord": "Bbm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 87.3535,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 92.6012,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 94.9,
+      "chord": "Fm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 96.4789,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 97.4309,
+      "chord": "C#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 100.3102,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 102.5161,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 105.0239,
+      "chord": "Ab/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 105.9759,
+      "chord": "Fm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 107.7406,
+      "chord": "Bbm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 108.6926,
+      "chord": "Bbm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.3877,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 112.7561,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 115.0549,
+      "chord": "Fm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 117.9574,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 120.3722,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 122.88,
+      "chord": "C#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 125.2484,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 127.9884,
+      "chord": "Bbm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 130.2872,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 133.0968,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 138.1123,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 140.3878,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 143.2207,
+      "chord": "Bbm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 145.4498,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 148.3291,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 150.4653,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 153.3446,
+      "chord": "Bbm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 155.8756,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 158.3601,
+      "chord": "Bbm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 160.5892,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 166.2781,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 171.2704,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 177.0289,
+      "chord": "Caug",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 177.6791,
+      "chord": "Fm/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 178.933,
+      "chord": "Caug",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 181.2085,
+      "chord": "Bbm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 186.3169,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 191.5646,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 193.7473,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 196.4408,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 199.1343,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 201.6421,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 204.057,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 204.8929,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 206.3093,
+      "chord": "Bbm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 209.235,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 211.5802,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 213.9719,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 215.5508,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 216.8047,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 219.1035,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 221.7041,
+      "chord": "C#maj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 224.0958,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 225.0478,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 226.9286,
+      "chord": "Bbm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 229.4596,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 231.9906,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 234.4751,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 236.9364,
+      "chord": "Bbm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 239.3745,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 242.1377,
+      "chord": "Bbm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 244.3668,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 247.6176,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 249.9396,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 251.7043,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 252.1687,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 254.7229,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 257.37,
+      "chord": "Bbm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 259.5991,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 263.2214,
+      "chord": "Bbm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 264.5217,
+      "chord": "Fm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 268.4227,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 269.723,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 270.7911,
+      "chord": "Cm/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 271.7663,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 0.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 10.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 70.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 100.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 180.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 190.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 210.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/說不出口_楊乃文",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 35
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "other"
+  },
+  "created_at": "2026-10-24T06:41:01.203308+00:00",
+  "updated_at": "2026-10-24T06:41:01.203594+00:00"
+}

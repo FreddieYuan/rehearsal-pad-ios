@@ -1,0 +1,1816 @@
+{
+  "schema_version": 1,
+  "id": "Love_Again_Dua_Lipa",
+  "song": {
+    "title": "Love Again",
+    "artist": "Dua Lipa",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/Love_Again_Dua_Lipa/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 262.618
+  },
+  "analysis": {
+    "bpm": 114.8,
+    "key": "F# Minor",
+    "confidence": {
+      "imported_key_rechecked": 1.0
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 10.0,
+      "source": "imported"
+    },
+    {
+      "id": "2_section_0",
+      "label": "Section 0",
+      "start": 10.0,
+      "end": 40.0,
+      "source": "imported"
+    },
+    {
+      "id": "3_verse",
+      "label": "Verse",
+      "start": 40.0,
+      "end": 70.0,
+      "source": "imported"
+    },
+    {
+      "id": "4_section_1",
+      "label": "Section 1",
+      "start": 70.0,
+      "end": 80.0,
+      "source": "imported"
+    },
+    {
+      "id": "5_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 80.0,
+      "end": 90.0,
+      "source": "imported"
+    },
+    {
+      "id": "6_section_1_rep",
+      "label": "Section 1 (Rep)",
+      "start": 90.0,
+      "end": 100.0,
+      "source": "imported"
+    },
+    {
+      "id": "7_chorus",
+      "label": "Chorus",
+      "start": 100.0,
+      "end": 110.0,
+      "source": "imported"
+    },
+    {
+      "id": "8_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 110.0,
+      "end": 120.0,
+      "source": "imported"
+    },
+    {
+      "id": "9_section_1_rep",
+      "label": "Section 1 (Rep)",
+      "start": 120.0,
+      "end": 150.0,
+      "source": "imported"
+    },
+    {
+      "id": "10_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 150.0,
+      "end": 180.0,
+      "source": "imported"
+    },
+    {
+      "id": "11_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 180.0,
+      "end": 190.0,
+      "source": "imported"
+    },
+    {
+      "id": "12_section_1_rep",
+      "label": "Section 1 (Rep)",
+      "start": 190.0,
+      "end": 200.0,
+      "source": "imported"
+    },
+    {
+      "id": "13_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 200.0,
+      "end": 240.0,
+      "source": "imported"
+    },
+    {
+      "id": "14_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 240.0,
+      "end": 250.0,
+      "source": "imported"
+    },
+    {
+      "id": "15_section_0_rep",
+      "label": "Section 0 (Rep)",
+      "start": 250.0,
+      "end": 262.0,
+      "source": "imported"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 33.04,
+      "end": 37.294,
+      "text": "I never thought that I would find a way out",
+      "source": "imported"
+    },
+    {
+      "start": 37.294,
+      "end": 41.288,
+      "text": "I never thought I’d hear my heart beat so loud",
+      "source": "imported"
+    },
+    {
+      "start": 41.288,
+      "end": 45.654,
+      "text": "I can’t believe there’s something left in my chest anymore",
+      "source": "imported"
+    },
+    {
+      "start": 45.654,
+      "end": 49.869,
+      "text": "But God damn, you got me in love again",
+      "source": "imported"
+    },
+    {
+      "start": 49.869,
+      "end": 53.784,
+      "text": "I used to think that I was made out of stone",
+      "source": "imported"
+    },
+    {
+      "start": 53.784,
+      "end": 57.791,
+      "text": "I used to spend so many nights on my own",
+      "source": "imported"
+    },
+    {
+      "start": 57.791,
+      "end": 62.113,
+      "text": "I never knew I had it in me to dance anymore",
+      "source": "imported"
+    },
+    {
+      "start": 62.113,
+      "end": 66.469,
+      "text": "But God damn, you got me in love again",
+      "source": "imported"
+    },
+    {
+      "start": 66.469,
+      "end": 70.604,
+      "text": "Show me, that Heaven’s right here baby",
+      "source": "imported"
+    },
+    {
+      "start": 70.604,
+      "end": 74.263,
+      "text": "Touch me, so I know I’m not crazy",
+      "source": "imported"
+    },
+    {
+      "start": 74.263,
+      "end": 78.503,
+      "text": "Never have I ever met somebody like you",
+      "source": "imported"
+    },
+    {
+      "start": 78.503,
+      "end": 82.81,
+      "text": "Used to be afraid of love and what it might do",
+      "source": "imported"
+    },
+    {
+      "start": 82.81,
+      "end": 88.26,
+      "text": "But God damn, you got me in love again",
+      "source": "imported"
+    },
+    {
+      "start": 88.26,
+      "end": 92.725,
+      "text": "You got me in love again",
+      "source": "imported"
+    },
+    {
+      "start": 92.725,
+      "end": 96.707,
+      "text": "You got me in love again",
+      "source": "imported"
+    },
+    {
+      "start": 96.707,
+      "end": 100.50200000000001,
+      "text": "You got me in love again",
+      "source": "imported"
+    },
+    {
+      "start": 100.50200000000001,
+      "end": 103.42699999999999,
+      "text": "Again",
+      "source": "imported"
+    },
+    {
+      "start": 103.42699999999999,
+      "end": 107.569,
+      "text": "So many nights my tears fell harder than rain",
+      "source": "imported"
+    },
+    {
+      "start": 107.569,
+      "end": 111.827,
+      "text": "Scared I would take my broken heart to the grave",
+      "source": "imported"
+    },
+    {
+      "start": 111.827,
+      "end": 115.964,
+      "text": "I’d rather die than have to live in a storm like before",
+      "source": "imported"
+    },
+    {
+      "start": 115.964,
+      "end": 120.357,
+      "text": "But God damn, you got me in love again",
+      "source": "imported"
+    },
+    {
+      "start": 120.357,
+      "end": 124.476,
+      "text": "Show me, that Heaven’s right here baby",
+      "source": "imported"
+    },
+    {
+      "start": 124.476,
+      "end": 128.064,
+      "text": "Touch me, so I know I’m not crazy",
+      "source": "imported"
+    },
+    {
+      "start": 128.064,
+      "end": 132.308,
+      "text": "Never have I ever met somebody like you",
+      "source": "imported"
+    },
+    {
+      "start": 132.308,
+      "end": 136.625,
+      "text": "Used to be afraid of love and what it might do",
+      "source": "imported"
+    },
+    {
+      "start": 136.625,
+      "end": 142.061,
+      "text": "But God damn, you got me in love again",
+      "source": "imported"
+    },
+    {
+      "start": 142.061,
+      "end": 146.056,
+      "text": "You got me in love again",
+      "source": "imported"
+    },
+    {
+      "start": 146.056,
+      "end": 150.48,
+      "text": "You got me in love again",
+      "source": "imported"
+    },
+    {
+      "start": 150.48,
+      "end": 154.32,
+      "text": "You got me in love again",
+      "source": "imported"
+    },
+    {
+      "start": 154.32,
+      "end": 157.329,
+      "text": "Again",
+      "source": "imported"
+    },
+    {
+      "start": 157.329,
+      "end": 161.398,
+      "text": "I can’t believe, I can’t believe, I finally found someone",
+      "source": "imported"
+    },
+    {
+      "start": 161.398,
+      "end": 165.6,
+      "text": "I’ll sink my teeth in disbelief cos you’re the one that I want",
+      "source": "imported"
+    },
+    {
+      "start": 165.6,
+      "end": 169.767,
+      "text": "I can’t believe, I can’t believe, I’m not afraid anymore",
+      "source": "imported"
+    },
+    {
+      "start": 169.767,
+      "end": 177.767,
+      "text": "But God damn, you got me in love again",
+      "source": "imported"
+    },
+    {
+      "start": 177.871,
+      "end": 182.084,
+      "text": "I never thought that I would find a way out",
+      "source": "imported"
+    },
+    {
+      "start": 182.084,
+      "end": 186.343,
+      "text": "I never thought I’d hear my heart beat so loud",
+      "source": "imported"
+    },
+    {
+      "start": 186.343,
+      "end": 190.38400000000001,
+      "text": "I can’t believe there’s something left in my chest anymore",
+      "source": "imported"
+    },
+    {
+      "start": 190.38400000000001,
+      "end": 198.38400000000001,
+      "text": "But God damn, you got me in love again",
+      "source": "imported"
+    },
+    {
+      "start": 203.776,
+      "end": 207.969,
+      "text": "I can’t believe, I can’t believe, I finally found someone",
+      "source": "imported"
+    },
+    {
+      "start": 207.969,
+      "end": 212.243,
+      "text": "I’ll sink my teeth in disbelief cos you’re the one that I want",
+      "source": "imported"
+    },
+    {
+      "start": 212.243,
+      "end": 216.321,
+      "text": "I can’t believe there’s something left inside my chest anymore",
+      "source": "imported"
+    },
+    {
+      "start": 216.321,
+      "end": 221.962,
+      "text": "But God damn, you got me in love again",
+      "source": "imported"
+    },
+    {
+      "start": 221.962,
+      "end": 225.997,
+      "text": "You got me in love again",
+      "source": "imported"
+    },
+    {
+      "start": 225.997,
+      "end": 230.341,
+      "text": "You got me in love again",
+      "source": "imported"
+    },
+    {
+      "start": 230.341,
+      "end": 232.75,
+      "text": "You got me in love again",
+      "source": "imported"
+    },
+    {
+      "start": 232.75,
+      "end": 240.75,
+      "text": "And again, and again, and again and again",
+      "source": "imported"
+    },
+    {
+      "start": 254.162,
+      "end": 254.546,
+      "text": "貝斯 : koz",
+      "source": "imported"
+    },
+    {
+      "start": 255.314,
+      "end": 255.698,
+      "text": "和聲 : Clarence Coffee Jr/Alma Goodman/Vanessa Luciano",
+      "source": "imported"
+    },
+    {
+      "start": 256.85,
+      "end": 257.234,
+      "text": "人聲製作 : Lorna Blackwood",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 8.7307,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 13.8391,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 18.8546,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 21.3624,
+      "chord": "F#m6/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 22.2912,
+      "chord": "Bm7/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 23.1271,
+      "chord": "F#m6",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 27.3995,
+      "chord": "Em7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 28.3283,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 31.6256,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 32.6937,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 33.8083,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 34.7603,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 35.782,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 36.8501,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 37.895,
+      "chord": "Bm/D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 38.8702,
+      "chord": "E/Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 40.1473,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 40.6581,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 41.9585,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 43.0034,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 44.025,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 45.0699,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 46.1148,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 47.1365,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 48.1814,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 49.2263,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 50.248,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 51.2697,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 52.3146,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 53.3362,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 54.3579,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 55.426,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 56.4709,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 57.6551,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 58.5143,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 59.8146,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 60.8363,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 61.6258,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 62.8796,
+      "chord": "Bm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 63.6923,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 64.9694,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 65.7589,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 67.0824,
+      "chord": "Bm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 68.1041,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 69.1258,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 70.1707,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 71.1924,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 71.9819,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 73.0035,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 74.211,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 75.2327,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 76.6259,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 77.4153,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 78.3906,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 79.4122,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.2482,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 81.5485,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 82.5934,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 83.6151,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 84.66,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 85.4262,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 86.7265,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 87.6785,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 88.7931,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 89.8148,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 90.8597,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 91.9046,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 93.6925,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 94.9928,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 96.0145,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 96.9665,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 98.1043,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 99.126,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 100.4263,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 100.9371,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 102.1678,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 103.2591,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 104.304,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 105.0703,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 106.3474,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 107.3923,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 108.4836,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 109.4589,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.3644,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 111.7809,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 112.5703,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 113.592,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 114.6369,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 115.6586,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 116.6571,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 117.7484,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 118.7701,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 119.815,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 120.3258,
+      "chord": "C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 120.8599,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 122.137,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 122.9032,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 124.1803,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 124.993,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 126.2701,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 127.0596,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 128.1741,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 129.1029,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 130.4033,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 131.1927,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 132.4698,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 133.2825,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 134.5364,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 135.3259,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 136.0922,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 137.4157,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 138.4374,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 139.4823,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 140.4343,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 141.781,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 142.5705,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 143.5922,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 145.8213,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 147.4699,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 148.7935,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 149.8151,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 150.8368,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 152.1371,
+      "chord": "F#m/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 153.1588,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 154.1805,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 155.0164,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 156.2703,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 157.0366,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 158.3137,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 159.1263,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 160.4034,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 161.1929,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 162.47,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 163.2595,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 164.5598,
+      "chord": "F#m/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 165.3261,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 166.6032,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 167.6481,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 168.6698,
+      "chord": "F#m/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 169.4824,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 170.4809,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 171.7812,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 172.5707,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 173.8478,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 174.8927,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 175.9144,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 176.9361,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 177.981,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 179.0259,
+      "chord": "Bm/D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 179.8153,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 181.58,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 184.7147,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 185.6668,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 188.6389,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 189.7535,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 190.6823,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 192.656,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 193.4687,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 196.3479,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 197.6483,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 198.6932,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 199.9238,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 201.0848,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 202.6638,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 203.848,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 204.8697,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 205.9146,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 206.9362,
+      "chord": "F#m/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 207.9811,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 209.0028,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 210.0477,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 211.0926,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 212.1143,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 213.4378,
+      "chord": "Bm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 214.1809,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 215.2258,
+      "chord": "F#m/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 216.2474,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 217.5478,
+      "chord": "Bm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 218.3372,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 219.3589,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 220.3806,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 221.4255,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 222.4472,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 223.4921,
+      "chord": "F#m/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 224.7924,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 225.5819,
+      "chord": "Bm/D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 226.2552,
+      "chord": "C#m/E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 226.859,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 227.1376,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 228.6701,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 229.8776,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 230.7367,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 232.037,
+      "chord": "F#m/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 232.8033,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 234.0571,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 234.8698,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 235.9147,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 236.9364,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 238.2367,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 239.2584,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 240.3033,
+      "chord": "F#m/C#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 241.325,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 242.3699,
+      "chord": "Bm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 243.4148,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 244.3668,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 249.1966,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 250.7755,
+      "chord": "F#m",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 252.0758,
+      "chord": "B7/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 253.0975,
+      "chord": "F#m6",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 257.37,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 0.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 10.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 40.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 70.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 80.0,
+      "detail": "All Draws Out [Pgm 05:1] — 88 8888 888",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 90.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 100.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 110.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 120.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 150.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 180.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 190.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 200.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 240.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 250.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/Love_Again_Dua_Lipa",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 59
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "other"
+  },
+  "created_at": "2026-10-24T06:41:01.128344+00:00",
+  "updated_at": "2026-10-24T06:41:01.128711+00:00"
+}

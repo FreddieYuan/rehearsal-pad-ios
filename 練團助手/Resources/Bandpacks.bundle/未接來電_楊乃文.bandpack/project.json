@@ -1,0 +1,956 @@
+{
+  "schema_version": 1,
+  "id": "未接來電_楊乃文",
+  "song": {
+    "title": "未接來電",
+    "artist": "楊乃文",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/楊乃文_Naiwen_Yang_-_【未接來電】[Official_Music_Video]/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 292.0
+  },
+  "analysis": {
+    "bpm": 76.0,
+    "key": "D# Major",
+    "confidence": {
+      "imported_key_rechecked": 1.0,
+      "major_tonic_score": 0.277,
+      "relative_minor_score": 0.31
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 40.0,
+      "source": "imported"
+    },
+    {
+      "id": "2_verse",
+      "label": "Verse",
+      "start": 40.0,
+      "end": 60.0,
+      "source": "imported"
+    },
+    {
+      "id": "3_chorus",
+      "label": "Chorus",
+      "start": 60.0,
+      "end": 110.0,
+      "source": "imported"
+    },
+    {
+      "id": "4_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 110.0,
+      "end": 140.0,
+      "source": "imported"
+    },
+    {
+      "id": "5_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 140.0,
+      "end": 170.0,
+      "source": "imported"
+    },
+    {
+      "id": "6_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 170.0,
+      "end": 180.0,
+      "source": "imported"
+    },
+    {
+      "id": "7_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 180.0,
+      "end": 240.0,
+      "source": "imported"
+    },
+    {
+      "id": "8_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 240.0,
+      "end": 250.0,
+      "source": "imported"
+    },
+    {
+      "id": "9_intro_rep",
+      "label": "Intro (Rep)",
+      "start": 250.0,
+      "end": 270.0,
+      "source": "imported"
+    },
+    {
+      "id": "10_section_4",
+      "label": "Section 4",
+      "start": 270.0,
+      "end": 280.0,
+      "source": "imported"
+    },
+    {
+      "id": "11_section_2",
+      "label": "Section 2",
+      "start": 280.0,
+      "end": 292.0,
+      "source": "imported"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 12.95,
+      "end": 18.95,
+      "text": "想看透 雲層的背後是什麼",
+      "source": "imported"
+    },
+    {
+      "start": 23.79,
+      "end": 30.29,
+      "text": "走在熟悉的巷子口 你曾陪我",
+      "source": "imported"
+    },
+    {
+      "start": 32.13,
+      "end": 38.58,
+      "text": "風吹信紙的承諾 是一場奢侈的夢",
+      "source": "imported"
+    },
+    {
+      "start": 38.58,
+      "end": 45.58,
+      "text": "別再說 該說的都已經說的太多",
+      "source": "imported"
+    },
+    {
+      "start": 49.24,
+      "end": 55.74,
+      "text": "就算是一句輕輕的 保持聯絡",
+      "source": "imported"
+    },
+    {
+      "start": 57.71,
+      "end": 64.27,
+      "text": "眼前的天空泛紅 像是離別的氣候",
+      "source": "imported"
+    },
+    {
+      "start": 64.27,
+      "end": 70.55,
+      "text": "也許你會想我深夜裡",
+      "source": "imported"
+    },
+    {
+      "start": 70.55,
+      "end": 76.89,
+      "text": "選擇陌生卻又眷戀熟悉",
+      "source": "imported"
+    },
+    {
+      "start": 76.89,
+      "end": 83.37,
+      "text": "未接來電或許是你 匿名的提醒",
+      "source": "imported"
+    },
+    {
+      "start": 83.37,
+      "end": 89.77,
+      "text": "在模糊的空氣裡 深陷過去的記憶",
+      "source": "imported"
+    },
+    {
+      "start": 89.77,
+      "end": 96.05,
+      "text": "也許我會開著收音機",
+      "source": "imported"
+    },
+    {
+      "start": 96.05,
+      "end": 102.45,
+      "text": "聽見你最愛的那首歌曲",
+      "source": "imported"
+    },
+    {
+      "start": 102.45,
+      "end": 108.97999999999999,
+      "text": "未接來電是你給我 殘酷的關心",
+      "source": "imported"
+    },
+    {
+      "start": 108.97999999999999,
+      "end": 115.4,
+      "text": "鋼琴失去了聲音 留下沉默的旋律",
+      "source": "imported"
+    },
+    {
+      "start": 115.4,
+      "end": 121.4,
+      "text": "別再說 想說的都不能再說",
+      "source": "imported"
+    },
+    {
+      "start": 126.08,
+      "end": 132.57999999999998,
+      "text": "就算是一句輕輕的 保持聯絡",
+      "source": "imported"
+    },
+    {
+      "start": 134.49,
+      "end": 141.11,
+      "text": "眼前的天空泛紅 像離別的氣候",
+      "source": "imported"
+    },
+    {
+      "start": 141.11,
+      "end": 147.18,
+      "text": "也許你會想我深夜裡",
+      "source": "imported"
+    },
+    {
+      "start": 147.18,
+      "end": 153.71,
+      "text": "選擇陌生卻又眷戀熟悉",
+      "source": "imported"
+    },
+    {
+      "start": 153.71,
+      "end": 160.22,
+      "text": "未接來電或許是你 匿名的提醒",
+      "source": "imported"
+    },
+    {
+      "start": 160.22,
+      "end": 166.56,
+      "text": "在模糊的空氣裡 深陷過去的記憶",
+      "source": "imported"
+    },
+    {
+      "start": 166.56,
+      "end": 172.78,
+      "text": "也許我會開著收音機",
+      "source": "imported"
+    },
+    {
+      "start": 172.78,
+      "end": 179.16,
+      "text": "聽見你最愛的那首歌曲",
+      "source": "imported"
+    },
+    {
+      "start": 179.16,
+      "end": 185.7,
+      "text": "未接來電是你給我 殘酷的關心",
+      "source": "imported"
+    },
+    {
+      "start": 185.7,
+      "end": 192.15,
+      "text": "鋼琴失去了聲音 留下沉默的旋律",
+      "source": "imported"
+    },
+    {
+      "start": 192.15,
+      "end": 195.65,
+      "text": "別再說 別再說",
+      "source": "imported"
+    },
+    {
+      "start": 204.91,
+      "end": 211.29,
+      "text": "未接來電或許是你 匿名的提醒",
+      "source": "imported"
+    },
+    {
+      "start": 211.29,
+      "end": 217.78,
+      "text": "在模糊的空氣裡 深陷過去的記憶",
+      "source": "imported"
+    },
+    {
+      "start": 217.78,
+      "end": 221.28,
+      "text": "別再說 別再說",
+      "source": "imported"
+    },
+    {
+      "start": 230.44,
+      "end": 236.89,
+      "text": "未接來電是你給我 殘酷的關心",
+      "source": "imported"
+    },
+    {
+      "start": 236.89,
+      "end": 241.89,
+      "text": "鋼琴失去了聲音 聽著微弱的呼吸",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 1.6022,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 4.8065,
+      "chord": "Abm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 8.0109,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 11.2152,
+      "chord": "Abm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 13.4676,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 17.6239,
+      "chord": "Abm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 20.8283,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 24.0094,
+      "chord": "Abm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 27.2602,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 30.4181,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 33.6457,
+      "chord": "F7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 36.8501,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 39.5204,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 43.2356,
+      "chord": "Abm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 46.4631,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 49.621,
+      "chord": "Abm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 52.8254,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 56.0298,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 59.2573,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 62.601,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 65.6428,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 70.2171,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 72.0283,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 75.4184,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 78.855,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.2482,
+      "chord": "Abmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 81.8271,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 83.2435,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 84.8689,
+      "chord": "Fm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 88.0036,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 91.2312,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 95.225,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 97.6167,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 101.0532,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 104.2112,
+      "chord": "Abmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 107.253,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 109.0409,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.7592,
+      "chord": "Fm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 113.8707,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 117.1215,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 120.3258,
+      "chord": "Abm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 123.5302,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 126.7577,
+      "chord": "Abm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 130.0317,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 133.0968,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 136.3708,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 139.6216,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 142.4312,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 146.425,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 149.1185,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 150.4421,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 152.4622,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 155.4808,
+      "chord": "Abmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 158.8245,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 160.4499,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 162.0521,
+      "chord": "Fm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 165.1635,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 168.484,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 172.4546,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 174.7998,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 178.4221,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 180.6512,
+      "chord": "Ebmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 181.2085,
+      "chord": "Abmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 184.6683,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 186.0383,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 187.5244,
+      "chord": "Fm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 190.868,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 194.0724,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 197.625,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 200.6204,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 203.6622,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 207.0291,
+      "chord": "Abmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 210.0477,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 211.6499,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 213.4378,
+      "chord": "Fm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 216.6886,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 219.7537,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 224.0261,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 226.1624,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 229.6221,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 232.6872,
+      "chord": "Abmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 235.8683,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 237.2383,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 238.7708,
+      "chord": "Fm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 242.4395,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 245.4814,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 248.6393,
+      "chord": "Abm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 252.0294,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 255.048,
+      "chord": "Abm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 258.4149,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 261.5728,
+      "chord": "Abm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 264.7771,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 268.0047,
+      "chord": "Abm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 271.1162,
+      "chord": "Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 284.398,
+      "chord": "Bbmaj7/F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 290.8996,
+      "chord": "Dm/F",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 0.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 40.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 60.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 110.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 140.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 170.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 180.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 240.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 250.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/楊乃文_Naiwen_Yang_-_【未接來電】[Official_Music_Video]",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 31
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "piano"
+  },
+  "created_at": "2026-10-24T06:41:01.182241+00:00",
+  "updated_at": "2026-10-24T06:41:01.182373+00:00"
+}

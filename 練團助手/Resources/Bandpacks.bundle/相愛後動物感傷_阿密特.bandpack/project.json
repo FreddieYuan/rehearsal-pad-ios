@@ -1,0 +1,1059 @@
+{
+  "schema_version": 1,
+  "id": "相愛後動物感傷_阿密特",
+  "song": {
+    "title": "相愛後動物感傷",
+    "artist": "阿密特",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/相愛後動物感傷_阿密特/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 269.24
+  },
+  "analysis": {
+    "bpm": 114.8,
+    "key": "G Major",
+    "confidence": {
+      "imported_key_rechecked": 1.0,
+      "major_tonic_score": 0.184,
+      "relative_minor_score": 0.185
+    }
+  },
+  "sections": [
+    {
+      "id": "1_verse",
+      "label": "Verse",
+      "start": 0.0,
+      "end": 60.0,
+      "source": "imported"
+    },
+    {
+      "id": "2_chorus",
+      "label": "Chorus",
+      "start": 60.0,
+      "end": 90.0,
+      "source": "imported"
+    },
+    {
+      "id": "3_section_1",
+      "label": "Section 1",
+      "start": 90.0,
+      "end": 100.0,
+      "source": "imported"
+    },
+    {
+      "id": "4_section_4",
+      "label": "Section 4",
+      "start": 100.0,
+      "end": 120.0,
+      "source": "imported"
+    },
+    {
+      "id": "5_section_1_rep",
+      "label": "Section 1 (Rep)",
+      "start": 120.0,
+      "end": 130.0,
+      "source": "imported"
+    },
+    {
+      "id": "6_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 130.0,
+      "end": 170.0,
+      "source": "imported"
+    },
+    {
+      "id": "7_section_1_rep",
+      "label": "Section 1 (Rep)",
+      "start": 170.0,
+      "end": 180.0,
+      "source": "imported"
+    },
+    {
+      "id": "8_section_4_rep",
+      "label": "Section 4 (Rep)",
+      "start": 180.0,
+      "end": 200.0,
+      "source": "imported"
+    },
+    {
+      "id": "9_section_1_rep",
+      "label": "Section 1 (Rep)",
+      "start": 200.0,
+      "end": 210.0,
+      "source": "imported"
+    },
+    {
+      "id": "10_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 210.0,
+      "end": 240.0,
+      "source": "imported"
+    },
+    {
+      "id": "11_section_3",
+      "label": "Section 3",
+      "start": 240.0,
+      "end": 251.0,
+      "source": "imported"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 19.25,
+      "end": 21.09,
+      "text": "一隻哀傷的貓",
+      "source": "imported"
+    },
+    {
+      "start": 21.09,
+      "end": 28.54,
+      "text": "倚著鐵窗舔著打架後的傷",
+      "source": "imported"
+    },
+    {
+      "start": 28.54,
+      "end": 30.69,
+      "text": "一張白色床單",
+      "source": "imported"
+    },
+    {
+      "start": 30.69,
+      "end": 38.63,
+      "text": "皺成一團不知所云的凌亂",
+      "source": "imported"
+    },
+    {
+      "start": 38.63,
+      "end": 43.38,
+      "text": "誰的菸頭 儘管囂張",
+      "source": "imported"
+    },
+    {
+      "start": 43.38,
+      "end": 48.22,
+      "text": "擴散理不亂還亂的貪婪",
+      "source": "imported"
+    },
+    {
+      "start": 48.22,
+      "end": 53.2,
+      "text": "誰撐的傘 一點溫暖",
+      "source": "imported"
+    },
+    {
+      "start": 53.2,
+      "end": 59.68,
+      "text": "究竟是天堂還是苦難",
+      "source": "imported"
+    },
+    {
+      "start": 59.68,
+      "end": 61.69,
+      "text": "在懸崖的頂端",
+      "source": "imported"
+    },
+    {
+      "start": 61.69,
+      "end": 69.23,
+      "text": "時間總是過得比時鐘還慢",
+      "source": "imported"
+    },
+    {
+      "start": 69.23,
+      "end": 71.27,
+      "text": "一旦汗被風乾",
+      "source": "imported"
+    },
+    {
+      "start": 71.27,
+      "end": 76.77,
+      "text": "包著皮膚一層隱形的惆悵",
+      "source": "imported"
+    },
+    {
+      "start": 79.61,
+      "end": 84.05,
+      "text": "誰的情感 無法張揚",
+      "source": "imported"
+    },
+    {
+      "start": 84.05,
+      "end": 88.89,
+      "text": "誰在陌生的房故作勇敢",
+      "source": "imported"
+    },
+    {
+      "start": 88.89,
+      "end": 93.55,
+      "text": "誰在夜晚 害怕腐爛",
+      "source": "imported"
+    },
+    {
+      "start": 93.55,
+      "end": 101.18,
+      "text": "任呼吸突然變得野蠻",
+      "source": "imported"
+    },
+    {
+      "start": 101.18,
+      "end": 106.69,
+      "text": "先愛吧 霸佔一副肩膀",
+      "source": "imported"
+    },
+    {
+      "start": 106.69,
+      "end": 111.22999999999999,
+      "text": "擋掉一點 遺憾",
+      "source": "imported"
+    },
+    {
+      "start": 111.22999999999999,
+      "end": 116.02000000000001,
+      "text": "先愛吧 啃噬一雙翅膀",
+      "source": "imported"
+    },
+    {
+      "start": 116.02000000000001,
+      "end": 120.77,
+      "text": "多熬過一季黑暗",
+      "source": "imported"
+    },
+    {
+      "start": 120.77,
+      "end": 124.34,
+      "text": "先愛吧 動物不都這樣",
+      "source": "imported"
+    },
+    {
+      "start": 124.34,
+      "end": 127.79,
+      "text": "一旦慾求不滿",
+      "source": "imported"
+    },
+    {
+      "start": 127.79,
+      "end": 135.26,
+      "text": "先愛吧 之後感傷",
+      "source": "imported"
+    },
+    {
+      "start": 135.26,
+      "end": 137.26,
+      "text": "之後再算",
+      "source": "imported"
+    },
+    {
+      "start": 156.16,
+      "end": 158.84,
+      "text": "是要點膽量",
+      "source": "imported"
+    },
+    {
+      "start": 158.84,
+      "end": 165.5,
+      "text": "還是真的要對生活感到煩",
+      "source": "imported"
+    },
+    {
+      "start": 165.5,
+      "end": 167.74,
+      "text": "天台望下的窗",
+      "source": "imported"
+    },
+    {
+      "start": 167.74,
+      "end": 175.62,
+      "text": "又有哪扇抱著滿足入夢鄉",
+      "source": "imported"
+    },
+    {
+      "start": 175.62,
+      "end": 180.46,
+      "text": "誰的情感 無法張揚",
+      "source": "imported"
+    },
+    {
+      "start": 180.46,
+      "end": 185.16,
+      "text": "誰在陌生的房故作勇敢",
+      "source": "imported"
+    },
+    {
+      "start": 185.16,
+      "end": 190.0,
+      "text": "誰在夜晚 害怕腐爛",
+      "source": "imported"
+    },
+    {
+      "start": 190.0,
+      "end": 194.5,
+      "text": "任呼吸突然變得野蠻",
+      "source": "imported"
+    },
+    {
+      "start": 220.96,
+      "end": 224.64,
+      "text": "先愛吧 霸佔一副肩膀",
+      "source": "imported"
+    },
+    {
+      "start": 224.64,
+      "end": 228.79,
+      "text": "擋掉一點遺憾",
+      "source": "imported"
+    },
+    {
+      "start": 228.79,
+      "end": 232.63,
+      "text": "先愛吧 啃噬一雙翅膀",
+      "source": "imported"
+    },
+    {
+      "start": 232.63,
+      "end": 236.76,
+      "text": "多熬過一季黑暗",
+      "source": "imported"
+    },
+    {
+      "start": 236.76,
+      "end": 239.9,
+      "text": "先愛吧 動物不都這樣",
+      "source": "imported"
+    },
+    {
+      "start": 239.9,
+      "end": 242.74,
+      "text": "一旦慾求不滿",
+      "source": "imported"
+    },
+    {
+      "start": 242.74,
+      "end": 249.13,
+      "text": "先愛吧 之後感傷",
+      "source": "imported"
+    },
+    {
+      "start": 249.13,
+      "end": 253.02,
+      "text": "之後再算",
+      "source": "imported"
+    },
+    {
+      "start": 253.02,
+      "end": 259.11,
+      "text": "之後感傷",
+      "source": "imported"
+    },
+    {
+      "start": 259.11,
+      "end": 263.3,
+      "text": "之後再算",
+      "source": "imported"
+    },
+    {
+      "start": 263.3,
+      "end": 267.24,
+      "text": "之後再算",
+      "source": "imported"
+    },
+    {
+      "start": 267.24,
+      "end": 269.24,
+      "text": "之後再算",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 10.1703,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 10.7044,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 12.8174,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 17.206,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 18.5295,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 19.2958,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 21.3856,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 25.542,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 27.655,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 29.7215,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 33.8779,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 35.9909,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 37.8485,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 42.6551,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 44.3501,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 46.4167,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 48.5065,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 50.8285,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 52.9647,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 53.2201,
+      "chord": "Cmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 54.7991,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 57.0979,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 60.9988,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 63.1118,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 65.1784,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 69.4044,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 71.471,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 73.5376,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 78.019,
+      "chord": "Asus2",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 79.2961,
+      "chord": "Bm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.341,
+      "chord": "Cmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 81.92,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 84.2652,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 86.6104,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 88.1662,
+      "chord": "Cmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 90.256,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 92.5083,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 96.8737,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 98.7312,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 100.8675,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 103.0037,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 105.14,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 106.9511,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 109.3195,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 111.3629,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 113.7313,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 115.3103,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 117.6787,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 119.7221,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 121.9512,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 123.9017,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 126.0147,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 127.9884,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 130.4497,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 134.2113,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 136.4172,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 138.7857,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 141.9204,
+      "chord": "G/D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 142.6634,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 144.7068,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 146.8662,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 151.0458,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 153.0892,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 155.3647,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 159.6372,
+      "chord": "Asus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 161.727,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 163.5614,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 165.6744,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 167.8338,
+      "chord": "Asus4",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 170.0165,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 171.6419,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 174.0568,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 177.8881,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 180.5351,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 182.6017,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 184.6451,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 186.7813,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 188.6157,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 190.9609,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 193.0971,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 195.3263,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 197.2071,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 199.2969,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 201.4099,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 203.4068,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 205.543,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 207.9347,
+      "chord": "Em7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 209.7459,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 211.8124,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 215.992,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 218.0818,
+      "chord": "Cmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 220.1716,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 224.2119,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 226.441,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 228.5308,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 232.6872,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 234.777,
+      "chord": "Cmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 236.8668,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 240.6748,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 0.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 60.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 100.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 120.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 130.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 170.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 180.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 200.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 210.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 240.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/相愛後動物感傷_阿密特",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 44
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "other"
+  },
+  "created_at": "2026-10-24T06:41:01.194828+00:00",
+  "updated_at": "2026-10-24T06:41:01.195037+00:00"
+}

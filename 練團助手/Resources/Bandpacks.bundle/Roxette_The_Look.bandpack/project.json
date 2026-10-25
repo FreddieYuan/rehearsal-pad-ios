@@ -1,0 +1,1451 @@
+{
+  "schema_version": 1,
+  "id": "Roxette_The_Look",
+  "song": {
+    "title": "Roxette",
+    "artist": "The Look",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/Roxette_-_The_Look/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 232.46
+  },
+  "analysis": {
+    "bpm": 93.8,
+    "key": "D Major",
+    "confidence": {
+      "imported_key_rechecked": 1.0,
+      "major_tonic_score": 0.245,
+      "relative_minor_score": 0.0
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 10.0,
+      "source": "imported"
+    },
+    {
+      "id": "2_section_2",
+      "label": "Section 2",
+      "start": 10.0,
+      "end": 30.0,
+      "source": "imported"
+    },
+    {
+      "id": "3_section_4",
+      "label": "Section 4",
+      "start": 30.0,
+      "end": 40.0,
+      "source": "imported"
+    },
+    {
+      "id": "4_chorus",
+      "label": "Chorus",
+      "start": 40.0,
+      "end": 60.0,
+      "source": "imported"
+    },
+    {
+      "id": "5_section_4_rep",
+      "label": "Section 4 (Rep)",
+      "start": 60.0,
+      "end": 80.0,
+      "source": "imported"
+    },
+    {
+      "id": "6_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 80.0,
+      "end": 100.0,
+      "source": "imported"
+    },
+    {
+      "id": "7_verse",
+      "label": "Verse",
+      "start": 100.0,
+      "end": 140.0,
+      "source": "imported"
+    },
+    {
+      "id": "8_section_2_rep",
+      "label": "Section 2 (Rep)",
+      "start": 140.0,
+      "end": 150.0,
+      "source": "imported"
+    },
+    {
+      "id": "9_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 150.0,
+      "end": 190.0,
+      "source": "imported"
+    },
+    {
+      "id": "10_intro_rep",
+      "label": "Intro (Rep)",
+      "start": 190.0,
+      "end": 200.0,
+      "source": "imported"
+    },
+    {
+      "id": "11_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 200.0,
+      "end": 220.0,
+      "source": "imported"
+    },
+    {
+      "id": "12_intro_rep",
+      "label": "Intro (Rep)",
+      "start": 220.0,
+      "end": 231.0,
+      "source": "imported"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 11.85,
+      "end": 13.32,
+      "text": "One, two, three, four",
+      "source": "imported"
+    },
+    {
+      "start": 19.2,
+      "end": 20.55,
+      "text": "Walkin' like a man",
+      "source": "imported"
+    },
+    {
+      "start": 20.55,
+      "end": 21.57,
+      "text": "Hitting like a hammer",
+      "source": "imported"
+    },
+    {
+      "start": 21.57,
+      "end": 23.1,
+      "text": "She's a juvenile scam",
+      "source": "imported"
+    },
+    {
+      "start": 23.1,
+      "end": 24.36,
+      "text": "Never was a quitter",
+      "source": "imported"
+    },
+    {
+      "start": 24.36,
+      "end": 25.89,
+      "text": "Tasty like a raindrop",
+      "source": "imported"
+    },
+    {
+      "start": 25.89,
+      "end": 29.46,
+      "text": "She's got the look",
+      "source": "imported"
+    },
+    {
+      "start": 29.46,
+      "end": 30.54,
+      "text": "Heavenly bound",
+      "source": "imported"
+    },
+    {
+      "start": 30.54,
+      "end": 31.71,
+      "text": "'Cause heaven's got her number",
+      "source": "imported"
+    },
+    {
+      "start": 31.71,
+      "end": 33.21,
+      "text": "When she's spinnin' me around",
+      "source": "imported"
+    },
+    {
+      "start": 33.21,
+      "end": 34.29,
+      "text": "Kissin' is a color",
+      "source": "imported"
+    },
+    {
+      "start": 34.29,
+      "end": 36.0,
+      "text": "Her lovin' is a wild dog",
+      "source": "imported"
+    },
+    {
+      "start": 36.0,
+      "end": 37.32,
+      "text": "She's got the look",
+      "source": "imported"
+    },
+    {
+      "start": 38.43,
+      "end": 39.72,
+      "text": "She's got the look",
+      "source": "imported"
+    },
+    {
+      "start": 39.72,
+      "end": 41.07,
+      "text": "(She's got the look)",
+      "source": "imported"
+    },
+    {
+      "start": 41.07,
+      "end": 42.39,
+      "text": "She's got the look",
+      "source": "imported"
+    },
+    {
+      "start": 42.39,
+      "end": 43.65,
+      "text": "(She's got the look)",
+      "source": "imported"
+    },
+    {
+      "start": 43.65,
+      "end": 45.81,
+      "text": "What in the world can make a",
+      "source": "imported"
+    },
+    {
+      "start": 45.81,
+      "end": 48.6,
+      "text": "Brown-eyed girl turn blue?",
+      "source": "imported"
+    },
+    {
+      "start": 48.6,
+      "end": 51.3,
+      "text": "When everything I'll ever do",
+      "source": "imported"
+    },
+    {
+      "start": 51.3,
+      "end": 53.76,
+      "text": "I'll do for you",
+      "source": "imported"
+    },
+    {
+      "start": 53.76,
+      "end": 56.22,
+      "text": "And I go la la la la la",
+      "source": "imported"
+    },
+    {
+      "start": 56.22,
+      "end": 62.04,
+      "text": "She's got the look",
+      "source": "imported"
+    },
+    {
+      "start": 62.34,
+      "end": 63.45,
+      "text": "Fire in the ice",
+      "source": "imported"
+    },
+    {
+      "start": 63.45,
+      "end": 64.62,
+      "text": "Naked to the T-bone",
+      "source": "imported"
+    },
+    {
+      "start": 64.62,
+      "end": 65.88,
+      "text": "Is a lover's disguise",
+      "source": "imported"
+    },
+    {
+      "start": 65.88,
+      "end": 67.32,
+      "text": "Bangin' on the head drum",
+      "source": "imported"
+    },
+    {
+      "start": 67.32,
+      "end": 68.82,
+      "text": "Shakin' like a mad bull",
+      "source": "imported"
+    },
+    {
+      "start": 68.82,
+      "end": 72.24,
+      "text": "She's got the  look",
+      "source": "imported"
+    },
+    {
+      "start": 72.24,
+      "end": 73.56,
+      "text": "Swayin' to the band",
+      "source": "imported"
+    },
+    {
+      "start": 73.56,
+      "end": 74.58,
+      "text": "Movin' like a hammer",
+      "source": "imported"
+    },
+    {
+      "start": 74.58,
+      "end": 76.2,
+      "text": "She's a miracle man",
+      "source": "imported"
+    },
+    {
+      "start": 76.2,
+      "end": 77.31,
+      "text": "Lovin' is the ocean",
+      "source": "imported"
+    },
+    {
+      "start": 77.31,
+      "end": 78.93,
+      "text": "And kissin' is the wet sand",
+      "source": "imported"
+    },
+    {
+      "start": 78.93,
+      "end": 80.34,
+      "text": "She's got the look",
+      "source": "imported"
+    },
+    {
+      "start": 81.39,
+      "end": 82.77,
+      "text": "She's got the look",
+      "source": "imported"
+    },
+    {
+      "start": 82.77,
+      "end": 84.0,
+      "text": "(She's got the look)",
+      "source": "imported"
+    },
+    {
+      "start": 84.0,
+      "end": 85.2,
+      "text": "She's got the look",
+      "source": "imported"
+    },
+    {
+      "start": 85.2,
+      "end": 86.61,
+      "text": "(She's got the look)",
+      "source": "imported"
+    },
+    {
+      "start": 86.61,
+      "end": 88.74,
+      "text": "What in the world can make a",
+      "source": "imported"
+    },
+    {
+      "start": 88.74,
+      "end": 91.53,
+      "text": "Brown-eyed girl turn blue?",
+      "source": "imported"
+    },
+    {
+      "start": 91.53,
+      "end": 94.25999999999999,
+      "text": "When everything I'll ever do",
+      "source": "imported"
+    },
+    {
+      "start": 94.25999999999999,
+      "end": 96.69,
+      "text": "I'll do for you",
+      "source": "imported"
+    },
+    {
+      "start": 96.69,
+      "end": 99.12,
+      "text": "And I go la la la la la",
+      "source": "imported"
+    },
+    {
+      "start": 99.12,
+      "end": 100.92,
+      "text": "She's got the look",
+      "source": "imported"
+    },
+    {
+      "start": 100.92,
+      "end": 102.92,
+      "text": "Ow!",
+      "source": "imported"
+    },
+    {
+      "start": 134.01,
+      "end": 135.45,
+      "text": "[Instrumental  Bridge]",
+      "source": "imported"
+    },
+    {
+      "start": 137.94,
+      "end": 139.32,
+      "text": "Walkin' like a man",
+      "source": "imported"
+    },
+    {
+      "start": 139.32,
+      "end": 140.28,
+      "text": "Hitting like a hammer",
+      "source": "imported"
+    },
+    {
+      "start": 140.28,
+      "end": 141.75,
+      "text": "She's a juvenile scam",
+      "source": "imported"
+    },
+    {
+      "start": 141.75,
+      "end": 143.07,
+      "text": "Never was a quitter",
+      "source": "imported"
+    },
+    {
+      "start": 143.07,
+      "end": 144.6,
+      "text": "Tasted like a raindrop",
+      "source": "imported"
+    },
+    {
+      "start": 144.6,
+      "end": 146.25,
+      "text": "She's got the look",
+      "source": "imported"
+    },
+    {
+      "start": 147.36,
+      "end": 148.26,
+      "text": "And she goes",
+      "source": "imported"
+    },
+    {
+      "start": 148.26,
+      "end": 149.4,
+      "text": "A-na na na na  na",
+      "source": "imported"
+    },
+    {
+      "start": 149.4,
+      "end": 150.39,
+      "text": "Na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 150.39,
+      "end": 151.95,
+      "text": "Na na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 151.95,
+      "end": 152.91,
+      "text": "Na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 152.91,
+      "end": 154.74,
+      "text": "Na na na na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 154.74,
+      "end": 156.3,
+      "text": "She's got the look",
+      "source": "imported"
+    },
+    {
+      "start": 157.2,
+      "end": 158.55,
+      "text": "She's got the look",
+      "source": "imported"
+    },
+    {
+      "start": 158.55,
+      "end": 159.78,
+      "text": "(She's got the look)",
+      "source": "imported"
+    },
+    {
+      "start": 159.78,
+      "end": 161.1,
+      "text": "She's got the look",
+      "source": "imported"
+    },
+    {
+      "start": 161.1,
+      "end": 162.36,
+      "text": "(She's got the look)",
+      "source": "imported"
+    },
+    {
+      "start": 162.36,
+      "end": 164.52,
+      "text": "What in the world can make a",
+      "source": "imported"
+    },
+    {
+      "start": 164.52,
+      "end": 167.34,
+      "text": "Brown-eyed girl turn blue?",
+      "source": "imported"
+    },
+    {
+      "start": 167.34,
+      "end": 170.04,
+      "text": "When everything I'll ever do",
+      "source": "imported"
+    },
+    {
+      "start": 170.04,
+      "end": 172.47,
+      "text": "I'll do for you",
+      "source": "imported"
+    },
+    {
+      "start": 172.47,
+      "end": 174.96,
+      "text": "And I go la la la la la",
+      "source": "imported"
+    },
+    {
+      "start": 174.96,
+      "end": 177.39,
+      "text": "She's got the look",
+      "source": "imported"
+    },
+    {
+      "start": 177.39,
+      "end": 179.37,
+      "text": "What in the world",
+      "source": "imported"
+    },
+    {
+      "start": 179.37,
+      "end": 182.46,
+      "text": "Can make you so blue?",
+      "source": "imported"
+    },
+    {
+      "start": 182.46,
+      "end": 185.19,
+      "text": "When everything I'll ever do",
+      "source": "imported"
+    },
+    {
+      "start": 185.19,
+      "end": 187.62,
+      "text": "I'll do for you",
+      "source": "imported"
+    },
+    {
+      "start": 187.62,
+      "end": 190.14,
+      "text": "And I go la la la la la",
+      "source": "imported"
+    },
+    {
+      "start": 192.27,
+      "end": 193.65,
+      "text": "Na na na na  na",
+      "source": "imported"
+    },
+    {
+      "start": 193.65,
+      "end": 194.64,
+      "text": "Na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 194.64,
+      "end": 196.11,
+      "text": "Na na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 196.11,
+      "end": 197.13,
+      "text": "Na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 197.13,
+      "end": 198.96,
+      "text": "Na na na na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 198.96,
+      "end": 201.81,
+      "text": "She's got the look",
+      "source": "imported"
+    },
+    {
+      "start": 201.81,
+      "end": 202.53,
+      "text": "She goes",
+      "source": "imported"
+    },
+    {
+      "start": 202.53,
+      "end": 203.76,
+      "text": "Na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 203.76,
+      "end": 204.69,
+      "text": "Na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 204.69,
+      "end": 206.22,
+      "text": "Na na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 206.22,
+      "end": 207.24,
+      "text": "Na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 207.24,
+      "end": 209.04,
+      "text": "Na na na na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 209.04,
+      "end": 210.3,
+      "text": "She's got the look",
+      "source": "imported"
+    },
+    {
+      "start": 210.3,
+      "end": 211.86,
+      "text": "She's got the look",
+      "source": "imported"
+    },
+    {
+      "start": 211.86,
+      "end": 212.67000000000002,
+      "text": "She goes",
+      "source": "imported"
+    },
+    {
+      "start": 212.67000000000002,
+      "end": 213.87,
+      "text": "Na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 213.87,
+      "end": 214.62,
+      "text": "Na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 214.62,
+      "end": 216.32999999999998,
+      "text": "Na na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 216.32999999999998,
+      "end": 217.35,
+      "text": "Na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 217.35,
+      "end": 219.15,
+      "text": "Na na na na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 219.15,
+      "end": 220.38,
+      "text": "She's got the look",
+      "source": "imported"
+    },
+    {
+      "start": 220.38,
+      "end": 221.94,
+      "text": "She's got the look",
+      "source": "imported"
+    },
+    {
+      "start": 221.94,
+      "end": 222.72,
+      "text": "She goes",
+      "source": "imported"
+    },
+    {
+      "start": 222.72,
+      "end": 223.98,
+      "text": "Na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 223.98,
+      "end": 224.91,
+      "text": "Na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 224.91,
+      "end": 226.56,
+      "text": "Na na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 226.56,
+      "end": 227.46,
+      "text": "Na na na na na",
+      "source": "imported"
+    },
+    {
+      "start": 227.46,
+      "end": 232.46,
+      "text": "Na na na na na na na na",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 0.4412,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 1.7647,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 3.1347,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 15.9289,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 16.8809,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 18.158,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 19.2726,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 22.2447,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 24.4738,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 27.3067,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 30.1627,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 32.3918,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 34.8996,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 37.1055,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 44.5591,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 45.9523,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 47.4616,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 49.7836,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 51.0375,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 52.2913,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 53.2434,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 54.8223,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 56.2852,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 57.3533,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 58.3053,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 61.6258,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 63.5298,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 65.2481,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 67.4772,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 70.31,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 71.262,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 72.5159,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 75.9757,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 77.9029,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.1088,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 81.3627,
+      "chord": "G/B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 82.338,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 82.8488,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 87.8643,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 89.2575,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 90.4649,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 92.7637,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 94.273,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 95.5733,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 98.1275,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 99.3814,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 100.6817,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 102.5858,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 103.1895,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 105.6972,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 108.2514,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 108.9016,
+      "chord": "G/B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.318,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.7824,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 113.3134,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 115.8211,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 118.3753,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 120.9295,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 123.4373,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 125.9683,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 127.3847,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 128.476,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 131.0302,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 132.5859,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 133.3986,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 141.1309,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 142.6634,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 144.312,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 146.1928,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 147.586,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 148.8863,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 151.2548,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 153.9483,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 156.4793,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 163.8864,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 165.3261,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 166.7425,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 168.9252,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 170.5273,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 171.7812,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 174.0568,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 176.6574,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 177.9577,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 178.7937,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 179.3741,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 180.6512,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 181.9283,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 184.1342,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 185.69,
+      "chord": "Gm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 186.8278,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 189.2891,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 193.1668,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 195.8371,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 198.3681,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 200.574,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 205.9378,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 208.4688,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 210.9997,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 216.0617,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 218.5927,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 221.1236,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 226.1856,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 228.7166,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 0.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 10.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 40.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 60.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 80.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 100.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 140.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 150.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 190.0,
+      "detail": "Dual Organ [Pgm 15:1] — 00 6060 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 200.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 220.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/Roxette_-_The_Look",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 112
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "other"
+  },
+  "created_at": "2026-10-24T06:41:01.132322+00:00",
+  "updated_at": "2026-10-24T06:41:01.132891+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "format": "rehearsal-assistant-bandpack",
+  "schema_version": 1,
+  "project_id": "Kiss_Me_Sixpence_None_The_Richer",
+  "title": "Kiss Me",
+  "artist": "Sixpence None The Richer",
+  "project_file": "project.json",
+  "audio_copied": true,
+  "source_count": 2,
+  "stem_count": 6,
+  "artwork": "artwork.jpg"
+}

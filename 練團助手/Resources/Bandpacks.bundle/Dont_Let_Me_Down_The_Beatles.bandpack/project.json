@@ -1,0 +1,745 @@
+{
+  "schema_version": 1,
+  "id": "Dont_Let_Me_Down_The_Beatles",
+  "song": {
+    "title": "Don't Let Me Down",
+    "artist": "The Beatles",
+    "source_url": "https://www.youtube.com/watch?v=EyHKuyGsu4U",
+    "audio_path": "/Users/freddietw/GP-AI-Projects/練團助手/data/media/Dont_Let_Me_Down_The_Beatles/original.mp3",
+    "preview_path": "audio/original.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 215.613333
+  },
+  "analysis": {
+    "bpm": 79.0,
+    "key": "E Major",
+    "confidence": {
+      "youtube_import": 1.0,
+      "metadata_from_youtube": 0.85,
+      "official_pdf_key": 1.0,
+      "official_pdf_bpm": 1.0,
+      "official_pdf_chords": 1.0,
+      "official_pdf_lyrics": 1.0
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 3.037974683544304,
+      "source": "manual"
+    },
+    {
+      "id": "2_chorus_1",
+      "label": "Chorus",
+      "start": 3.037974683544304,
+      "end": 33.41772151898734,
+      "source": "manual"
+    },
+    {
+      "id": "3_verse_1",
+      "label": "Verse 1",
+      "start": 33.41772151898734,
+      "end": 63.79746835443037,
+      "source": "manual"
+    },
+    {
+      "id": "4_chorus_2",
+      "label": "Chorus",
+      "start": 63.79746835443037,
+      "end": 94.17721518987341,
+      "source": "manual"
+    },
+    {
+      "id": "5_bridge",
+      "label": "Bridge",
+      "start": 94.17721518987341,
+      "end": 109.36708860759494,
+      "source": "manual"
+    },
+    {
+      "id": "6_chorus_3",
+      "label": "Chorus",
+      "start": 109.36708860759494,
+      "end": 139.74683544303798,
+      "source": "manual"
+    },
+    {
+      "id": "7_verse_2",
+      "label": "Verse 2",
+      "start": 139.74683544303798,
+      "end": 170.126582278481,
+      "source": "manual"
+    },
+    {
+      "id": "8_chorus_4",
+      "label": "Chorus",
+      "start": 170.126582278481,
+      "end": 203.54430379746836,
+      "source": "manual"
+    },
+    {
+      "id": "9_outro",
+      "label": "Outro",
+      "start": 203.54430379746836,
+      "end": 233.9240506329114,
+      "source": "manual"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 3.037974683544304,
+      "end": 18.227848101265824,
+      "text": "Don't let me down, don't let me down",
+      "source": "manual"
+    },
+    {
+      "start": 18.227848101265824,
+      "end": 33.41772151898734,
+      "text": "Don't let me down, don't let me down",
+      "source": "manual"
+    },
+    {
+      "start": 33.41772151898734,
+      "end": 39.49367088607595,
+      "text": "Nobody ever loved me like she does",
+      "source": "manual"
+    },
+    {
+      "start": 39.49367088607595,
+      "end": 48.60759493670886,
+      "text": "Oh, she does, yeah, she does",
+      "source": "manual"
+    },
+    {
+      "start": 48.60759493670886,
+      "end": 54.68354430379746,
+      "text": "And if somebody loved me like she do me",
+      "source": "manual"
+    },
+    {
+      "start": 54.68354430379746,
+      "end": 63.79746835443037,
+      "text": "Oh, she do me, yes, she does",
+      "source": "manual"
+    },
+    {
+      "start": 63.79746835443037,
+      "end": 78.9873417721519,
+      "text": "Don't let me down, don't let me down",
+      "source": "manual"
+    },
+    {
+      "start": 78.9873417721519,
+      "end": 94.17721518987341,
+      "text": "Don't let me down, don't let me down",
+      "source": "manual"
+    },
+    {
+      "start": 94.17721518987341,
+      "end": 97.21518987341771,
+      "text": "I'm in love for the first time",
+      "source": "manual"
+    },
+    {
+      "start": 97.21518987341771,
+      "end": 100.25316455696202,
+      "text": "Don't you know it's gonna last",
+      "source": "manual"
+    },
+    {
+      "start": 100.25316455696202,
+      "end": 103.29113924050633,
+      "text": "It's a love that lasts forever",
+      "source": "manual"
+    },
+    {
+      "start": 103.29113924050633,
+      "end": 109.36708860759494,
+      "text": "It's a love that had no past",
+      "source": "manual"
+    },
+    {
+      "start": 109.36708860759494,
+      "end": 124.55696202531645,
+      "text": "Don't let me down, don't let me down",
+      "source": "manual"
+    },
+    {
+      "start": 124.55696202531645,
+      "end": 139.74683544303798,
+      "text": "Don't let me down, don't let me down",
+      "source": "manual"
+    },
+    {
+      "start": 139.74683544303798,
+      "end": 145.8227848101266,
+      "text": "And from the first time that she really done me",
+      "source": "manual"
+    },
+    {
+      "start": 145.8227848101266,
+      "end": 154.9367088607595,
+      "text": "Oh, she done me, she done me good",
+      "source": "manual"
+    },
+    {
+      "start": 154.9367088607595,
+      "end": 161.0126582278481,
+      "text": "I guess nobody ever really done me",
+      "source": "manual"
+    },
+    {
+      "start": 161.0126582278481,
+      "end": 170.126582278481,
+      "text": "Oh, she done me, she done me good",
+      "source": "manual"
+    },
+    {
+      "start": 170.126582278481,
+      "end": 185.31645569620252,
+      "text": "Don't let me down, don't let me down",
+      "source": "manual"
+    },
+    {
+      "start": 185.31645569620252,
+      "end": 203.54430379746836,
+      "text": "Don't let me down, don't let me down",
+      "source": "manual"
+    }
+  ],
+  "chords": [
+    {
+      "time": 0.0,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 3.037974683544304,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 6.075949367088608,
+      "chord": "F#m",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 9.113924050632912,
+      "chord": "F#m7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 12.151898734177216,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 15.18987341772152,
+      "chord": "Esus4",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 18.227848101265824,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 21.265822784810126,
+      "chord": "F#m",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 24.303797468354432,
+      "chord": "F#m7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 27.341772151898738,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 30.37974683544304,
+      "chord": "Esus4",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 33.41772151898734,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 36.45569620253165,
+      "chord": "F#m",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 39.49367088607595,
+      "chord": "F#m7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 42.53164556962025,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 45.56962025316456,
+      "chord": "Esus4",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 48.60759493670886,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 51.64556962025316,
+      "chord": "F#m",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 54.68354430379746,
+      "chord": "F#m7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 57.72151898734177,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 60.75949367088607,
+      "chord": "Esus4",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 63.79746835443037,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 66.83544303797467,
+      "chord": "F#m",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 69.87341772151898,
+      "chord": "F#m7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 72.91139240506328,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 75.94936708860759,
+      "chord": "Esus4",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 78.9873417721519,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 82.0253164556962,
+      "chord": "F#m",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 85.0632911392405,
+      "chord": "F#m7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 88.10126582278481,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 91.13924050632912,
+      "chord": "Esus4",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 94.17721518987341,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 97.21518987341771,
+      "chord": "B7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 100.25316455696202,
+      "chord": "B7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 103.29113924050633,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 106.32911392405063,
+      "chord": "Esus4",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 109.36708860759494,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 112.40506329113924,
+      "chord": "F#m",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 115.44303797468355,
+      "chord": "F#m7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 118.48101265822785,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 121.51898734177215,
+      "chord": "Esus4",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 124.55696202531645,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 127.59493670886076,
+      "chord": "F#m",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 130.63291139240505,
+      "chord": "F#m7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 133.67088607594937,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 136.70886075949366,
+      "chord": "Esus4",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 139.74683544303798,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 142.78481012658227,
+      "chord": "F#m",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 145.8227848101266,
+      "chord": "F#m7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 148.86075949367088,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 151.8987341772152,
+      "chord": "Esus4",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 154.9367088607595,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 157.9746835443038,
+      "chord": "F#m",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 161.0126582278481,
+      "chord": "F#m7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 164.0506329113924,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 167.08860759493672,
+      "chord": "Esus4",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 170.126582278481,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 173.1645569620253,
+      "chord": "F#m",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 176.20253164556962,
+      "chord": "F#m7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 179.2405063291139,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 182.27848101265823,
+      "chord": "Esus4",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 185.31645569620252,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 188.35443037974682,
+      "chord": "F#m",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 191.39240506329114,
+      "chord": "F#m7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 194.43037974683543,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 197.46835443037975,
+      "chord": "Esus4",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 200.50632911392404,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 203.54430379746836,
+      "chord": "F#m",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 206.58227848101265,
+      "chord": "F#m7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 209.62025316455697,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 212.65822784810126,
+      "chord": "Esus4",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 215.69620253164558,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 218.73417721518987,
+      "chord": "F#m",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 221.77215189873417,
+      "chord": "F#m7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 224.81012658227849,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 227.84810126582278,
+      "chord": "Esus4",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 230.8860759493671,
+      "chord": "E",
+      "source": "manual",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "guitar",
+      "label": "Tuning: E A D G B E",
+      "time": 0.0,
+      "detail": "Official PDF key E, 79 BPM. Chord shapes: E, F#m, F#m7, Esus4, B7.",
+      "source": "manual"
+    },
+    {
+      "instrument": "guitar",
+      "label": "Strumming: whole song pattern from official PDF",
+      "time": 0.0,
+      "detail": "Use PDF source for exact strumming arrows.",
+      "source": "manual"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "youtube_video_id": "EyHKuyGsu4U",
+    "youtube_url": "https://www.youtube.com/watch?v=EyHKuyGsu4U",
+    "youtube_title": "Don't Let Me Down (Remastered 2009)",
+    "youtube_channel": "The Beatles",
+    "media_import_source": "youtube_audio",
+    "media_original": "/Users/freddietw/GP-AI-Projects/練團助手/data/media/Dont_Let_Me_Down_The_Beatles/original.mp3",
+    "metadata_source": "youtube_metadata",
+    "lyrics_source": "user_provided_official_pdf",
+    "lyrics_status": "applied_from_official_pdf",
+    "chord_source": "user_provided_official_pdf",
+    "chord_status": "applied_from_official_pdf",
+    "score_references": [
+      {
+        "type": "Ultimate Guitar",
+        "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/dont-let-me-down-official-1962071",
+        "note": "Official tab reference provided by user. Use for manual chord/tab verification only; do not auto-overwrite chart.",
+        "file": "",
+        "role": "manual_reference",
+        "status": "candidate",
+        "confidence": 0.0,
+        "created_at": "2026-08-22T14:29:35.517827+00:00"
+      },
+      {
+        "type": "Ultimate Guitar PDF",
+        "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/dont-let-me-down-official-1962071",
+        "note": "Official PDF provided by user; used as manual chart source for key, BPM, sections, lyrics, and chords.",
+        "file": "sources/dont-let-me-down-official.pdf",
+        "role": "manual_reference",
+        "status": "applied",
+        "confidence": 1.0
+      }
+    ],
+    "official_pdf_file": "sources/dont-let-me-down-official.pdf",
+    "chart_source": "user_provided_ultimate_guitar_official_pdf",
+    "key_source": "user_provided_official_pdf",
+    "bpm_source": "user_provided_official_pdf",
+    "manual_override": "true",
+    "alignment_status": "bar_estimated_from_official_bpm_not_audio_aligned",
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "piano"
+  },
+  "created_at": "2026-08-22T14:16:35.122523+00:00",
+  "updated_at": "2026-08-22T14:37:27.491994+00:00"
+}

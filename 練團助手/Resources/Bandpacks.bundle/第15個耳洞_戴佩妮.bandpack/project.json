@@ -1,0 +1,922 @@
+{
+  "schema_version": 1,
+  "id": "第15個耳洞_戴佩妮",
+  "song": {
+    "title": "第15個耳洞",
+    "artist": "戴佩妮",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/第15個耳洞_戴佩妮/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 221.6112
+  },
+  "analysis": {
+    "bpm": 137.2,
+    "key": "D Major",
+    "confidence": {
+      "imported_key_rechecked": 1.0,
+      "major_tonic_score": 0.238,
+      "relative_minor_score": 0.058
+    }
+  },
+  "sections": [],
+  "lyrics": [
+    {
+      "start": 20.84,
+      "end": 23.183,
+      "text": "仔細打量你耳朵",
+      "source": "imported"
+    },
+    {
+      "start": 23.183,
+      "end": 28.428,
+      "text": "那是我前所未有的惶恐",
+      "source": "imported"
+    },
+    {
+      "start": 28.428,
+      "end": 33.959,
+      "text": "你左耳右耳都有七個小孔",
+      "source": "imported"
+    },
+    {
+      "start": 33.959,
+      "end": 37.844,
+      "text": "聽一個陌生朋友說",
+      "source": "imported"
+    },
+    {
+      "start": 37.844,
+      "end": 42.478,
+      "text": "每一個耳洞都是愛的傷口",
+      "source": "imported"
+    },
+    {
+      "start": 42.478,
+      "end": 48.26,
+      "text": "若再多刺一個耳洞你對愛永不再碰",
+      "source": "imported"
+    },
+    {
+      "start": 48.26,
+      "end": 52.949,
+      "text": "愛已在你的心裡起了變數",
+      "source": "imported"
+    },
+    {
+      "start": 52.949,
+      "end": 55.81,
+      "text": "無限大的數目",
+      "source": "imported"
+    },
+    {
+      "start": 55.81,
+      "end": 59.903,
+      "text": "狠已在你的心裡開始倒數",
+      "source": "imported"
+    },
+    {
+      "start": 59.903,
+      "end": 61.966,
+      "text": "一秒的倒數",
+      "source": "imported"
+    },
+    {
+      "start": 61.966,
+      "end": 65.366,
+      "text": "我不願是你第十五個耳洞",
+      "source": "imported"
+    },
+    {
+      "start": 65.366,
+      "end": 68.374,
+      "text": "我不要愛在你的世界告終",
+      "source": "imported"
+    },
+    {
+      "start": 68.374,
+      "end": 72.655,
+      "text": "為了這個危險的耳洞",
+      "source": "imported"
+    },
+    {
+      "start": 72.655,
+      "end": 76.22,
+      "text": "我什麼都肯做",
+      "source": "imported"
+    },
+    {
+      "start": 76.22,
+      "end": 79.687,
+      "text": "我不願是你第十五個耳洞",
+      "source": "imported"
+    },
+    {
+      "start": 79.687,
+      "end": 82.721,
+      "text": "我不要愛在你的世界告終",
+      "source": "imported"
+    },
+    {
+      "start": 82.721,
+      "end": 86.795,
+      "text": "為了這個危險的耳洞",
+      "source": "imported"
+    },
+    {
+      "start": 86.795,
+      "end": 90.32300000000001,
+      "text": "我什麼都肯做",
+      "source": "imported"
+    },
+    {
+      "start": 90.32300000000001,
+      "end": 93.32300000000001,
+      "text": "第十五個耳洞",
+      "source": "imported"
+    },
+    {
+      "start": 119.87,
+      "end": 123.486,
+      "text": "仔細打量你耳朵",
+      "source": "imported"
+    },
+    {
+      "start": 123.486,
+      "end": 128.364,
+      "text": "那是我前所未有的惶恐",
+      "source": "imported"
+    },
+    {
+      "start": 128.364,
+      "end": 133.845,
+      "text": "你左耳右耳都有七個小孔",
+      "source": "imported"
+    },
+    {
+      "start": 133.845,
+      "end": 137.409,
+      "text": "聽一個陌生朋友說",
+      "source": "imported"
+    },
+    {
+      "start": 137.409,
+      "end": 142.292,
+      "text": "每一個耳洞都是愛的傷口",
+      "source": "imported"
+    },
+    {
+      "start": 142.292,
+      "end": 147.706,
+      "text": "若再多刺一個耳洞你對愛永不再碰",
+      "source": "imported"
+    },
+    {
+      "start": 147.706,
+      "end": 152.964,
+      "text": "愛已在你的心裡起了變數",
+      "source": "imported"
+    },
+    {
+      "start": 152.964,
+      "end": 155.125,
+      "text": "無限大的數目",
+      "source": "imported"
+    },
+    {
+      "start": 155.125,
+      "end": 159.647,
+      "text": "狠已在你的心裡開始倒數",
+      "source": "imported"
+    },
+    {
+      "start": 159.647,
+      "end": 163.625,
+      "text": "一秒的倒數",
+      "source": "imported"
+    },
+    {
+      "start": 163.625,
+      "end": 167.43,
+      "text": "我不願是你第十五個耳洞",
+      "source": "imported"
+    },
+    {
+      "start": 167.43,
+      "end": 170.429,
+      "text": "我不要愛在你的世界告終",
+      "source": "imported"
+    },
+    {
+      "start": 170.429,
+      "end": 174.425,
+      "text": "為了這個危險的耳洞",
+      "source": "imported"
+    },
+    {
+      "start": 174.425,
+      "end": 177.615,
+      "text": "我什麼都肯做",
+      "source": "imported"
+    },
+    {
+      "start": 177.615,
+      "end": 180.944,
+      "text": "我不願是你第十五個耳洞",
+      "source": "imported"
+    },
+    {
+      "start": 180.944,
+      "end": 184.309,
+      "text": "我不要愛在你的世界告終",
+      "source": "imported"
+    },
+    {
+      "start": 184.309,
+      "end": 188.385,
+      "text": "為了這個危險的耳洞",
+      "source": "imported"
+    },
+    {
+      "start": 188.385,
+      "end": 191.495,
+      "text": "我什麼都肯做",
+      "source": "imported"
+    },
+    {
+      "start": 191.495,
+      "end": 194.803,
+      "text": "我不願是你第十五個耳洞",
+      "source": "imported"
+    },
+    {
+      "start": 194.803,
+      "end": 198.513,
+      "text": "我不要愛在你的世界告終",
+      "source": "imported"
+    },
+    {
+      "start": 198.513,
+      "end": 202.121,
+      "text": "為了這個危險的耳洞",
+      "source": "imported"
+    },
+    {
+      "start": 202.121,
+      "end": 205.696,
+      "text": "我什麼都肯做",
+      "source": "imported"
+    },
+    {
+      "start": 205.696,
+      "end": 208.696,
+      "text": "第十五個耳洞",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 0.2786,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 2.1362,
+      "chord": "B7/Eb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 3.8313,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 5.2477,
+      "chord": "B7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 7.2446,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 8.0805,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 9.3809,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 11.61,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 12.4459,
+      "chord": "C/E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 13.0728,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 14.4893,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 15.2787,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 16.4397,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 17.9026,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 18.3438,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 19.2261,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 21.4088,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 24.9382,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 28.398,
+      "chord": "D/F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 31.672,
+      "chord": "E/Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 35.4337,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 38.9166,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 42.4229,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 44.1644,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 45.9523,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 49.4121,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 51.2,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 52.9647,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 54.7062,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 56.4245,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 58.2356,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 60.1861,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 61.858,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 63.4601,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 66.9663,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 70.4726,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 73.9788,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 77.4618,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.968,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 84.4742,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 88.1429,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 91.951,
+      "chord": "B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 93.2049,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 94.3659,
+      "chord": "D/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 95.1786,
+      "chord": "Am/E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 95.8752,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 96.7343,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 99.3814,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 100.2405,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 101.3319,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 101.982,
+      "chord": "C/E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 102.8644,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 104.1647,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 105.2561,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 107.462,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.8985,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 114.5208,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 117.8645,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 121.719,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 124.784,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 128.6385,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 131.9822,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 135.5117,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 139.0411,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 142.7098,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 144.4513,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 146.1928,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 149.2579,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 151.3012,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 153.2053,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 154.97,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 156.7115,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 158.4762,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 160.0319,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 161.7038,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 165.3261,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 168.8555,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 172.4778,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 175.984,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 179.4902,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 182.9965,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 186.5027,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 189.9857,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 193.4919,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 196.9981,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 200.5043,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 204.0105,
+      "chord": "E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 207.7722,
+      "chord": "Ebaug/G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 208.6081,
+      "chord": "Em",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 209.235,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 210.5585,
+      "chord": "C/G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 212.0911,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 212.5555,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 213.8558,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 214.297,
+      "chord": "C/G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 214.9471,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 215.6205,
+      "chord": "Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 216.0617,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 217.571,
+      "chord": "C/E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 218.6391,
+      "chord": "E7/Ab",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 219.7769,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 220.4038,
+      "chord": "C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 221.6112,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/第15個耳洞_戴佩妮",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 42
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "other"
+  },
+  "created_at": "2026-10-24T06:41:01.197524+00:00",
+  "updated_at": "2026-10-24T06:41:01.197697+00:00"
+}

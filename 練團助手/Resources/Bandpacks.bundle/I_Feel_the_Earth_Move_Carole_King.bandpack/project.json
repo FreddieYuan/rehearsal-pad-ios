@@ -1,0 +1,870 @@
+{
+  "schema_version": 1,
+  "id": "I_Feel_the_Earth_Move_Carole_King",
+  "song": {
+    "title": "I Feel the Earth Move",
+    "artist": "Carole King",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/I_Feel_the_Earth_Move_Carole_King/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 180.0
+  },
+  "analysis": {
+    "bpm": 119.7,
+    "key": "A# Major",
+    "confidence": {
+      "imported_key_rechecked": 1.0,
+      "major_tonic_score": 0.061,
+      "relative_minor_score": 0.044
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 10.0,
+      "source": "imported"
+    },
+    {
+      "id": "2_section_1",
+      "label": "Section 1",
+      "start": 10.0,
+      "end": 30.0,
+      "source": "imported"
+    },
+    {
+      "id": "3_verse",
+      "label": "Verse",
+      "start": 30.0,
+      "end": 60.0,
+      "source": "imported"
+    },
+    {
+      "id": "4_section_1_rep",
+      "label": "Section 1 (Rep)",
+      "start": 60.0,
+      "end": 70.0,
+      "source": "imported"
+    },
+    {
+      "id": "5_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 70.0,
+      "end": 90.0,
+      "source": "imported"
+    },
+    {
+      "id": "6_section_1_rep",
+      "label": "Section 1 (Rep)",
+      "start": 90.0,
+      "end": 100.0,
+      "source": "imported"
+    },
+    {
+      "id": "7_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 100.0,
+      "end": 110.0,
+      "source": "imported"
+    },
+    {
+      "id": "8_chorus",
+      "label": "Chorus",
+      "start": 110.0,
+      "end": 170.0,
+      "source": "imported"
+    },
+    {
+      "id": "9_section_4",
+      "label": "Section 4",
+      "start": 170.0,
+      "end": 180.0,
+      "source": "imported"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 8.58,
+      "end": 12.21,
+      "text": "I feel the earth move under my feet",
+      "source": "imported"
+    },
+    {
+      "start": 12.21,
+      "end": 16.63,
+      "text": "I feel the sky tumbling down",
+      "source": "imported"
+    },
+    {
+      "start": 16.63,
+      "end": 19.92,
+      "text": "I feel my heart start to trembling",
+      "source": "imported"
+    },
+    {
+      "start": 19.92,
+      "end": 24.77,
+      "text": "Whenever you're around",
+      "source": "imported"
+    },
+    {
+      "start": 24.77,
+      "end": 29.21,
+      "text": "Oh baby When I see your face",
+      "source": "imported"
+    },
+    {
+      "start": 29.21,
+      "end": 32.41,
+      "text": "Mellow as the month of May",
+      "source": "imported"
+    },
+    {
+      "start": 32.41,
+      "end": 36.78,
+      "text": "Oh darling I cant stand it",
+      "source": "imported"
+    },
+    {
+      "start": 36.78,
+      "end": 41.28,
+      "text": "When you look at me that way",
+      "source": "imported"
+    },
+    {
+      "start": 41.28,
+      "end": 44.72,
+      "text": "I feel the earth move under my feet",
+      "source": "imported"
+    },
+    {
+      "start": 44.72,
+      "end": 49.02,
+      "text": "I feel the sky tumbling down",
+      "source": "imported"
+    },
+    {
+      "start": 49.02,
+      "end": 52.32,
+      "text": "I feel my heart start to trembling",
+      "source": "imported"
+    },
+    {
+      "start": 52.32,
+      "end": 60.32,
+      "text": "Whenever you're around",
+      "source": "imported"
+    },
+    {
+      "start": 93.27000000000001,
+      "end": 97.27000000000001,
+      "text": "Oh darling When you're near me",
+      "source": "imported"
+    },
+    {
+      "start": 97.27000000000001,
+      "end": 100.66,
+      "text": "And you tenderly call my name",
+      "source": "imported"
+    },
+    {
+      "start": 100.66,
+      "end": 105.47,
+      "text": "I know that, My emotions",
+      "source": "imported"
+    },
+    {
+      "start": 105.47,
+      "end": 107.82,
+      "text": "Are something I just cant tame",
+      "source": "imported"
+    },
+    {
+      "start": 107.82,
+      "end": 115.82,
+      "text": "Ive just got to have you baby",
+      "source": "imported"
+    },
+    {
+      "start": 117.25,
+      "end": 121.11,
+      "text": "I feel the earth move under my feet",
+      "source": "imported"
+    },
+    {
+      "start": 121.11,
+      "end": 125.33,
+      "text": "I feel the sky tumbling down",
+      "source": "imported"
+    },
+    {
+      "start": 125.33,
+      "end": 129.01,
+      "text": "I feel the earth move under my feet",
+      "source": "imported"
+    },
+    {
+      "start": 129.01,
+      "end": 133.24,
+      "text": "I feel the sky tumbling down",
+      "source": "imported"
+    },
+    {
+      "start": 133.24,
+      "end": 137.24,
+      "text": "I just lose control",
+      "source": "imported"
+    },
+    {
+      "start": 137.24,
+      "end": 141.2,
+      "text": "Down to my very soul",
+      "source": "imported"
+    },
+    {
+      "start": 141.2,
+      "end": 149.11,
+      "text": "I get hot and cold all over",
+      "source": "imported"
+    },
+    {
+      "start": 149.11,
+      "end": 153.31,
+      "text": "I feel the earth move under my feet",
+      "source": "imported"
+    },
+    {
+      "start": 153.31,
+      "end": 157.42000000000002,
+      "text": "I feel the sky tumbling down",
+      "source": "imported"
+    },
+    {
+      "start": 157.42000000000002,
+      "end": 160.89,
+      "text": "I feel the earth move under my feet",
+      "source": "imported"
+    },
+    {
+      "start": 160.89,
+      "end": 164.8,
+      "text": "I feel the sky tumbling down",
+      "source": "imported"
+    },
+    {
+      "start": 164.8,
+      "end": 169.8,
+      "text": "tumbling down, tumbling down...",
+      "source": "imported"
+    }
+  ],
+  "chords": [
+    {
+      "time": 1.6254,
+      "chord": "C7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 3.9242,
+      "chord": "F/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 5.7121,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 8.2663,
+      "chord": "F/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 9.4737,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 9.9846,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 12.2601,
+      "chord": "F7/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 13.305,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 18.5527,
+      "chord": "F7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 21.3856,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 23.6379,
+      "chord": "Dm7/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 25.3794,
+      "chord": "Ebmaj7/G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 27.3995,
+      "chord": "Abmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 30.1859,
+      "chord": "Fm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 33.5064,
+      "chord": "Ebmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 35.5498,
+      "chord": "Abmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 37.7789,
+      "chord": "Fm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 40.8439,
+      "chord": "Gm/Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 42.0513,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 44.8377,
+      "chord": "F/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 45.8362,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 49.83,
+      "chord": "F7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 53.5917,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 56.1923,
+      "chord": "G7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 57.6784,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 60.1165,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 60.6273,
+      "chord": "F#",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 61.3007,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 62.1366,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 64.3657,
+      "chord": "F/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 65.3874,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 68.1273,
+      "chord": "F7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 70.1243,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 72.632,
+      "chord": "F/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 73.8627,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 76.0918,
+      "chord": "F7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 78.0423,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.2946,
+      "chord": "F/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 82.0129,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 83.7312,
+      "chord": "F7/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 85.9603,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 87.934,
+      "chord": "F7/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 90.1863,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 93.1585,
+      "chord": "Bb7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 93.9944,
+      "chord": "Ebmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 95.9681,
+      "chord": "Abmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 97.9882,
+      "chord": "Fm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 101.3319,
+      "chord": "Bb7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 102.1678,
+      "chord": "Ebmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 103.8396,
+      "chord": "Abmaj7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 106.0688,
+      "chord": "Fm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 108.205,
+      "chord": "Bb7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 109.9233,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.4341,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 113.1973,
+      "chord": "F/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 114.7298,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 116.9357,
+      "chord": "F/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 118.3521,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 121.1153,
+      "chord": "F/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 122.1137,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 124.8305,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 126.0379,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 129.5906,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 130.0317,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 132.8181,
+      "chord": "F/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 134.0256,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 136.0225,
+      "chord": "F7/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 138.2052,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 139.877,
+      "chord": "F7/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 141.8275,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 144.1263,
+      "chord": "F",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 146.1232,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 149.0257,
+      "chord": "F/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 149.908,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 150.4653,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 152.8105,
+      "chord": "F/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 154.0876,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 156.8044,
+      "chord": "F/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 158.3601,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 160.4963,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 168.1589,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 169.1341,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 170.5506,
+      "chord": "Ab/C",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 173.0351,
+      "chord": "Bb",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 175.7286,
+      "chord": "Cm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 176.6574,
+      "chord": "Cm",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 0.0,
+      "detail": "Ham and Jayce [Pgm 19:1] — 88 8080 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 10.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 30.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 60.0,
+      "detail": "Suit w rotary-RM [Pgm 27:2]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 70.0,
+      "detail": "Suit w rotary-RM [Pgm 27:2]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 90.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 100.0,
+      "detail": "Suit w rotary-RM [Pgm 27:2]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 110.0,
+      "detail": "Suit w rotary-RM [Pgm 27:2]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 170.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/I_Feel_the_Earth_Move_Carole_King",
+    "lyrics_source": "netease_lrc",
+    "lyrics_candidates": [
+      {
+        "source": "netease_lrc",
+        "status": "active",
+        "line_count": 31
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "piano"
+  },
+  "created_at": "2026-10-24T06:41:01.125336+00:00",
+  "updated_at": "2026-10-24T06:41:01.125551+00:00"
+}

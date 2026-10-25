@@ -1,0 +1,1129 @@
+{
+  "schema_version": 1,
+  "id": "Antonio_s_Song_Masayoshi_Takanaka",
+  "song": {
+    "title": "Antonio's Song",
+    "artist": "Masayoshi Takanaka",
+    "source_url": "",
+    "audio_path": "../GP-Chorus-Explorer/projects/Antonio's_Song_-_Masayoshi_Takanaka_(1991)/original_audio.wav",
+    "preview_path": "audio/preview.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 351.0
+  },
+  "analysis": {
+    "bpm": 97.0,
+    "key": "A Minor",
+    "confidence": {
+      "imported_key_rechecked": 1.0
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 20.0,
+      "source": "imported"
+    },
+    {
+      "id": "2_verse",
+      "label": "Verse",
+      "start": 20.0,
+      "end": 70.0,
+      "source": "imported"
+    },
+    {
+      "id": "3_chorus",
+      "label": "Chorus",
+      "start": 70.0,
+      "end": 120.0,
+      "source": "imported"
+    },
+    {
+      "id": "4_verse_rep",
+      "label": "Verse (Rep)",
+      "start": 120.0,
+      "end": 130.0,
+      "source": "imported"
+    },
+    {
+      "id": "5_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 130.0,
+      "end": 180.0,
+      "source": "imported"
+    },
+    {
+      "id": "6_section_4",
+      "label": "Section 4",
+      "start": 180.0,
+      "end": 190.0,
+      "source": "imported"
+    },
+    {
+      "id": "7_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 190.0,
+      "end": 200.0,
+      "source": "imported"
+    },
+    {
+      "id": "8_section_3",
+      "label": "Section 3",
+      "start": 200.0,
+      "end": 220.0,
+      "source": "imported"
+    },
+    {
+      "id": "9_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 220.0,
+      "end": 260.0,
+      "source": "imported"
+    },
+    {
+      "id": "10_section_4_rep",
+      "label": "Section 4 (Rep)",
+      "start": 260.0,
+      "end": 290.0,
+      "source": "imported"
+    },
+    {
+      "id": "11_chorus_rep",
+      "label": "Chorus (Rep)",
+      "start": 290.0,
+      "end": 351.0,
+      "source": "imported"
+    }
+  ],
+  "lyrics": [],
+  "chords": [
+    {
+      "time": 0.4412,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 6.2229,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 9.0326,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 12.0744,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 17.0899,
+      "chord": "Bm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 20.062,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 23.011,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 23.9398,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 25.4955,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 27.655,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 45.3021,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 47.7867,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 50.2712,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 52.7325,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 55.2171,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 57.7016,
+      "chord": "Dm6/B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 60.1861,
+      "chord": "Em7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 61.1149,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 62.6474,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 65.132,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 67.6165,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 70.0778,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 72.9107,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 75.2327,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 77.5082,
+      "chord": "Dm6/B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 80.2482,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 82.7559,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 84.9386,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 87.5857,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 90.5114,
+      "chord": "G7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 92.3922,
+      "chord": "Bm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 95.0161,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 97.6167,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 100.0316,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 100.9604,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 102.609,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 104.9542,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 107.5548,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.318,
+      "chord": "G7/D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.9682,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 112.4775,
+      "chord": "Bm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 114.8923,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 117.493,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 119.9078,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 120.2561,
+      "chord": "Em7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 122.2531,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 124.8769,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 127.3847,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 129.9389,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 132.3537,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 134.7918,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 137.2764,
+      "chord": "Bm7b5",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 138.5302,
+      "chord": "Dm6",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 139.7609,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 140.3878,
+      "chord": "Em7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 142.2454,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 144.6139,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 147.2145,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 149.699,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 152.23,
+      "chord": "Dm7/A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 154.761,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 157.2688,
+      "chord": "Dm6/B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 159.5907,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 162.3539,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 164.3973,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 166.9979,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 170.5273,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 171.967,
+      "chord": "Bm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 174.4515,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 177.0289,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 179.5367,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 180.628,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 182.1838,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 184.2736,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 187.1296,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 190.5662,
+      "chord": "G",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 191.9361,
+      "chord": "Bm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 194.3278,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 197.0445,
+      "chord": "Am/E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 199.5291,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 201.9904,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 203.5461,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 205.4037,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 206.9362,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 209.1189,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 210.6746,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 211.9053,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 213.461,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 215.6205,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 216.8512,
+      "chord": "A",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 218.7088,
+      "chord": "D",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 220.5663,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 221.8202,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 223.9565,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 225.5354,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 226.7661,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 228.8559,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 230.8063,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 231.7119,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 233.8946,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 235.1253,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 236.681,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 238.7011,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 240.7213,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 241.6268,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 243.8095,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 245.342,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 246.8978,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 248.825,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 250.3111,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 251.7043,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 253.8405,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 255.5588,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 256.4876,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 258.6703,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 260.2028,
+      "chord": "Fm6",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 260.8298,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 261.7585,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 263.918,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 266.7276,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 270.1177,
+      "chord": "G/B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 271.6735,
+      "chord": "Bm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 273.8097,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 276.6425,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 279.1039,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 279.8469,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 281.4259,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 283.7478,
+      "chord": "A7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 286.5342,
+      "chord": "Dm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 289.9476,
+      "chord": "G/B",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 291.5033,
+      "chord": "Bm7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 293.6395,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 296.4492,
+      "chord": "Am/E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 297.6798,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 299.8393,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 301.395,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 304.7851,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 306.3641,
+      "chord": "Am/E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 310.0793,
+      "chord": "C/E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 310.683,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 311.3099,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 315.0251,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 316.2558,
+      "chord": "Am/E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 317.5097,
+      "chord": "Am7/E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 320.2728,
+      "chord": "Eaug",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 321.2249,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 324.94,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 326.1707,
+      "chord": "Am7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 330.4664,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 331.1166,
+      "chord": "Am/E",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 334.855,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 336.0856,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 344.8628,
+      "chord": "E7",
+      "source": "audio_model",
+      "confidence": 1.0
+    },
+    {
+      "time": 346.256,
+      "chord": "Am",
+      "source": "audio_model",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 0.0,
+      "detail": "Dual Organ [Pgm 15:1] — 00 6060 000",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 20.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 70.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 120.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 130.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 180.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 190.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 200.0,
+      "detail": "E Piano MKII [Pgm 01:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 220.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 260.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    },
+    {
+      "instrument": "keyboard",
+      "label": "Nord patch",
+      "time": 290.0,
+      "detail": "E Piano MKI Deep [Pgm 02:3]",
+      "source": "imported"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "gp_chorus_project": "../GP-Chorus-Explorer/projects/Antonio's_Song_-_Masayoshi_Takanaka_(1991)",
+    "lyrics_source": "",
+    "lyrics_candidates": [
+      {
+        "source": "gp_chorus_import",
+        "status": "missing",
+        "line_count": 0
+      }
+    ],
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "piano"
+  },
+  "created_at": "2026-10-24T06:41:01.095719+00:00",
+  "updated_at": "2026-10-24T06:41:01.095728+00:00"
+}

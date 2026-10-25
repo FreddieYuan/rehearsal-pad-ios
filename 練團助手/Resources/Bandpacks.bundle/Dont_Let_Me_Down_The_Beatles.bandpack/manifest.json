@@ -1,0 +1,12 @@
+{
+  "format": "rehearsal-assistant-bandpack",
+  "schema_version": 1,
+  "project_id": "Dont_Let_Me_Down_The_Beatles",
+  "title": "Don't Let Me Down",
+  "artist": "The Beatles",
+  "project_file": "project.json",
+  "audio_copied": true,
+  "source_count": 2,
+  "stem_count": 6,
+  "artwork": "artwork.jpg"
+}

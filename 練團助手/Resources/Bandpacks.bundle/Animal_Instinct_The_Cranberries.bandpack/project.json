@@ -1,0 +1,1016 @@
+{
+  "schema_version": 1,
+  "id": "Animal_Instinct_The_Cranberries",
+  "song": {
+    "title": "Animal Instinct",
+    "artist": "The Cranberries",
+    "source_url": "https://www.youtube.com/watch?v=ky4CdN0x58A",
+    "audio_path": "/Users/freddietw/GP-AI-Projects/練團助手/data/media/Animal_Instinct_The_Cranberries/original.mp3",
+    "preview_path": "audio/original.mp3",
+    "artwork_path": "artwork.jpg",
+    "duration_sec": 226.5455
+  },
+  "analysis": {
+    "bpm": 132.0,
+    "key": "E Minor",
+    "confidence": {
+      "youtube_import": 1.0,
+      "metadata_from_youtube": 0.85,
+      "official_pdf_key": 1.0,
+      "official_pdf_bpm": 1.0,
+      "official_pdf_chords": 1.0,
+      "official_pdf_lyrics": 1.0
+    }
+  },
+  "sections": [
+    {
+      "id": "1_intro",
+      "label": "Intro",
+      "start": 0.0,
+      "end": 14.545454545454545,
+      "source": "manual"
+    },
+    {
+      "id": "2_verse_1",
+      "label": "Verse 1",
+      "start": 14.545454545454545,
+      "end": 30.90909090909091,
+      "source": "manual"
+    },
+    {
+      "id": "3_bridge_1",
+      "label": "Bridge",
+      "start": 30.90909090909091,
+      "end": 43.63636363636363,
+      "source": "manual"
+    },
+    {
+      "id": "4_chorus_1",
+      "label": "Chorus",
+      "start": 43.63636363636363,
+      "end": 90.90909090909088,
+      "source": "manual"
+    },
+    {
+      "id": "5_verse_2",
+      "label": "Verse 2",
+      "start": 90.90909090909088,
+      "end": 107.27272727272725,
+      "source": "manual"
+    },
+    {
+      "id": "6_bridge_2",
+      "label": "Bridge",
+      "start": 107.27272727272725,
+      "end": 118.18181818181816,
+      "source": "manual"
+    },
+    {
+      "id": "7_chorus_2",
+      "label": "Chorus",
+      "start": 118.18181818181816,
+      "end": 176.36363636363637,
+      "source": "manual"
+    },
+    {
+      "id": "8_outro",
+      "label": "Outro",
+      "start": 176.36363636363637,
+      "end": 207.2727272727273,
+      "source": "manual"
+    }
+  ],
+  "lyrics": [
+    {
+      "start": 14.545454545454545,
+      "end": 20.0,
+      "text": "Suddenly something has happened to me",
+      "source": "manual"
+    },
+    {
+      "start": 20.0,
+      "end": 23.636363636363637,
+      "text": "As I was having my cup of tea",
+      "source": "manual"
+    },
+    {
+      "start": 23.636363636363637,
+      "end": 27.272727272727273,
+      "text": "Suddenly I was feeling depressed",
+      "source": "manual"
+    },
+    {
+      "start": 27.272727272727273,
+      "end": 30.90909090909091,
+      "text": "I was utterly and totally stressed",
+      "source": "manual"
+    },
+    {
+      "start": 30.90909090909091,
+      "end": 38.18181818181818,
+      "text": "Do you know you made me cry, oh",
+      "source": "manual"
+    },
+    {
+      "start": 38.18181818181818,
+      "end": 43.63636363636363,
+      "text": "Do you know you made me die",
+      "source": "manual"
+    },
+    {
+      "start": 43.63636363636363,
+      "end": 47.272727272727266,
+      "text": "And the thing that gets to me",
+      "source": "manual"
+    },
+    {
+      "start": 47.272727272727266,
+      "end": 50.9090909090909,
+      "text": "Is you'll never really see",
+      "source": "manual"
+    },
+    {
+      "start": 50.9090909090909,
+      "end": 54.54545454545453,
+      "text": "And the thing that freaks me out",
+      "source": "manual"
+    },
+    {
+      "start": 54.54545454545453,
+      "end": 59.999999999999986,
+      "text": "Is I'll always be in doubt",
+      "source": "manual"
+    },
+    {
+      "start": 59.999999999999986,
+      "end": 63.63636363636362,
+      "text": "It is a lovely thing that we have",
+      "source": "manual"
+    },
+    {
+      "start": 63.63636363636362,
+      "end": 67.27272727272725,
+      "text": "It is a lovely thing that we",
+      "source": "manual"
+    },
+    {
+      "start": 67.27272727272725,
+      "end": 72.7272727272727,
+      "text": "It is a lovely thing, the animal",
+      "source": "manual"
+    },
+    {
+      "start": 72.7272727272727,
+      "end": 76.36363636363635,
+      "text": "The animal instinct",
+      "source": "manual"
+    },
+    {
+      "start": 76.36363636363635,
+      "end": 83.63636363636361,
+      "text": "Ooh",
+      "source": "manual"
+    },
+    {
+      "start": 90.90909090909088,
+      "end": 96.36363636363633,
+      "text": "So take my hands and come with me",
+      "source": "manual"
+    },
+    {
+      "start": 96.36363636363633,
+      "end": 99.99999999999997,
+      "text": "We will change reality",
+      "source": "manual"
+    },
+    {
+      "start": 99.99999999999997,
+      "end": 103.63636363636361,
+      "text": "So take my hands and we will pray",
+      "source": "manual"
+    },
+    {
+      "start": 103.63636363636361,
+      "end": 107.27272727272725,
+      "text": "They won't take you away",
+      "source": "manual"
+    },
+    {
+      "start": 107.27272727272725,
+      "end": 114.54545454545452,
+      "text": "They will never make me cry, no",
+      "source": "manual"
+    },
+    {
+      "start": 114.54545454545452,
+      "end": 118.18181818181816,
+      "text": "They will never make me die",
+      "source": "manual"
+    },
+    {
+      "start": 118.18181818181816,
+      "end": 121.8181818181818,
+      "text": "And the thing that gets to me",
+      "source": "manual"
+    },
+    {
+      "start": 121.8181818181818,
+      "end": 125.45454545454544,
+      "text": "Is you'll never really see",
+      "source": "manual"
+    },
+    {
+      "start": 125.45454545454544,
+      "end": 129.09090909090907,
+      "text": "And the thing that freaks me out",
+      "source": "manual"
+    },
+    {
+      "start": 129.09090909090907,
+      "end": 132.7272727272727,
+      "text": "Is I'll always be in doubt",
+      "source": "manual"
+    },
+    {
+      "start": 132.7272727272727,
+      "end": 139.99999999999997,
+      "text": "The animal, the animal, the animal instinct in me",
+      "source": "manual"
+    },
+    {
+      "start": 139.99999999999997,
+      "end": 147.27272727272725,
+      "text": "It's the animal, the animal, the animal instinct in me",
+      "source": "manual"
+    },
+    {
+      "start": 147.27272727272725,
+      "end": 154.54545454545453,
+      "text": "It's the animal, it's the animal, it's the animal instinct in me",
+      "source": "manual"
+    },
+    {
+      "start": 154.54545454545453,
+      "end": 161.8181818181818,
+      "text": "It's the animal, it's the animal, it's the animal instinct in me",
+      "source": "manual"
+    },
+    {
+      "start": 161.8181818181818,
+      "end": 169.0909090909091,
+      "text": "The animal, the animal, the animal instinct in me",
+      "source": "manual"
+    },
+    {
+      "start": 169.0909090909091,
+      "end": 176.36363636363637,
+      "text": "It's the animal, it's the animal, it's the animal instinct in me",
+      "source": "manual"
+    }
+  ],
+  "chords": [
+    {
+      "time": 0.0,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 1.8181818181818181,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 3.6363636363636362,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 5.454545454545454,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 7.2727272727272725,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 9.09090909090909,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 10.909090909090908,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 12.727272727272727,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 14.545454545454545,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 16.363636363636363,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 18.18181818181818,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 20.0,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 21.818181818181817,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 23.636363636363637,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 25.454545454545453,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 27.272727272727273,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 29.09090909090909,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 30.90909090909091,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 32.72727272727273,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 34.54545454545455,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 36.36363636363637,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 38.18181818181818,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 40.0,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 41.81818181818181,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 43.63636363636363,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 45.45454545454545,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 47.272727272727266,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 49.090909090909086,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 50.9090909090909,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 52.72727272727272,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 54.54545454545453,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 56.36363636363635,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 58.181818181818166,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 59.999999999999986,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 61.818181818181806,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 63.63636363636362,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 65.45454545454544,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 67.27272727272725,
+      "chord": "G",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 69.09090909090907,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 70.90909090909089,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 72.7272727272727,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 74.54545454545452,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 76.36363636363635,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 78.18181818181816,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 79.99999999999999,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 81.8181818181818,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 83.63636363636361,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 85.45454545454542,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 87.27272727272725,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 89.09090909090907,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 90.90909090909088,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 92.72727272727269,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 94.54545454545452,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 96.36363636363633,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 98.18181818181814,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 99.99999999999997,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 101.81818181818178,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 103.63636363636361,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 105.45454545454542,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 107.27272727272725,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 109.09090909090907,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 110.90909090909089,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 112.7272727272727,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 114.54545454545452,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 116.36363636363633,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 118.18181818181816,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 119.99999999999997,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 121.8181818181818,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 123.63636363636361,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 125.45454545454544,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 127.27272727272725,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 129.09090909090907,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 130.90909090909088,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 132.7272727272727,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 134.5454545454545,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 136.36363636363632,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 138.18181818181816,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 139.99999999999997,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 141.81818181818178,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 143.6363636363636,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 145.45454545454544,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 147.27272727272725,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 149.09090909090907,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 150.90909090909088,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 152.72727272727272,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 154.54545454545453,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 156.36363636363635,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 158.18181818181816,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 160.0,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 161.8181818181818,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 163.63636363636363,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 165.45454545454544,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 167.27272727272728,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 169.0909090909091,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 170.9090909090909,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 172.72727272727272,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 174.54545454545456,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 176.36363636363637,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 178.1818181818182,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 180.0,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 181.81818181818184,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 183.63636363636365,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 185.45454545454547,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 187.27272727272728,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 189.09090909090912,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 190.90909090909093,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 192.72727272727275,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 194.54545454545456,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 196.3636363636364,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 198.18181818181822,
+      "chord": "Em",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 200.00000000000003,
+      "chord": "Am7",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 201.81818181818184,
+      "chord": "Cadd9",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 203.63636363636368,
+      "chord": "D",
+      "source": "manual",
+      "confidence": 1.0
+    },
+    {
+      "time": 205.4545454545455,
+      "chord": "Emadd9",
+      "source": "manual",
+      "confidence": 1.0
+    }
+  ],
+  "band_notes": [
+    {
+      "instrument": "guitar",
+      "label": "Tuning: E A D G B E",
+      "time": 0.0,
+      "detail": "Official PDF key Em, 132 BPM. Chords: Em, Am7, Cadd9, D, G, Emadd9.",
+      "source": "manual"
+    },
+    {
+      "instrument": "guitar",
+      "label": "Strumming: whole song pattern from official PDF",
+      "time": 0.0,
+      "detail": "Use PDF source for exact strumming arrows.",
+      "source": "manual"
+    }
+  ],
+  "exports": {},
+  "sources": {
+    "youtube_video_id": "ky4CdN0x58A",
+    "youtube_url": "https://www.youtube.com/watch?v=ky4CdN0x58A",
+    "youtube_title": "The Cranberries - Animal Instinct (Official Music Video)",
+    "youtube_channel": "TheCranberriesTV",
+    "media_import_source": "youtube_audio",
+    "media_original": "/Users/freddietw/GP-AI-Projects/練團助手/data/media/Animal_Instinct_The_Cranberries/original.mp3",
+    "metadata_source": "youtube_metadata",
+    "lyrics_source": "user_provided_official_pdf",
+    "lyrics_status": "applied_from_official_pdf",
+    "chord_source": "user_provided_official_pdf",
+    "chord_status": "applied_from_official_pdf",
+    "score_references": [
+      {
+        "type": "Ultimate Guitar PDF",
+        "url": "",
+        "note": "Official PDF provided by user; used as manual chart source for key, BPM, sections, lyrics, and chords.",
+        "file": "sources/animal-instinct-official.pdf",
+        "role": "manual_reference",
+        "status": "applied",
+        "confidence": 1.0
+      }
+    ],
+    "official_pdf_file": "sources/animal-instinct-official.pdf",
+    "chart_source": "user_provided_ultimate_guitar_official_pdf",
+    "key_source": "user_provided_official_pdf",
+    "bpm_source": "user_provided_official_pdf",
+    "manual_override": "true",
+    "alignment_status": "bar_estimated_from_official_bpm_not_audio_aligned",
+    "stems": [
+      "stems/vocals.m4a",
+      "stems/drums.m4a",
+      "stems/bass.m4a",
+      "stems/guitar.m4a",
+      "stems/piano.m4a",
+      "stems/other.m4a"
+    ],
+    "stem_source": "external",
+    "keyboard_reference_stem": "other"
+  },
+  "created_at": "2026-08-22T14:12:35.174287+00:00",
+  "updated_at": "2026-08-22T14:43:54.150331+00:00"
+}
